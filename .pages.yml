@@ -15,9 +15,6 @@ content:
     format: json
     filename: "{drupalNodeId}.json"
     subfolders: false
-    # This legacy test page has a null body. Pages CMS normalizes null editor
-    # values, so leave it untouched until null round trips are explicitly handled.
-    exclude: [352.json]
     operations:
       create: false
       rename: false
@@ -60,3 +57,522 @@ content:
         required: true
         readonly: true
         description: Publishing changes are locked during the initial editing pilot.
+
+  - name: research_methods
+    label: Research Methods
+    type: collection
+    path: content/drupal/research-methods
+    format: json
+    filename: "{drupalNodeId}.json"
+    subfolders: false
+    operations:
+      create: false
+      rename: false
+      delete: false
+    view:
+      fields: [title, published, drupalNodeId]
+      primary: title
+      sort: [title, drupalNodeId]
+      search: [title, bodyHtml]
+      default:
+        sort: title
+        order: asc
+    fields:
+      - name: contentType
+        label: Content type
+        type: string
+        required: true
+        readonly: true
+      - name: drupalNodeId
+        label: Legacy Drupal node ID
+        type: number
+        required: true
+        readonly: true
+      - name: title
+        label: Title
+        type: string
+        required: true
+      - name: bodyHtml
+        label: Body
+        type: rich-text
+        options:
+          format: html
+          media: false
+          switcher: true
+          initialMode: source
+      - name: published
+        label: Published
+        type: boolean
+        required: true
+        readonly: true
+
+  - name: header_menus
+    label: Research Page Header Menus
+    type: collection
+    path: content/drupal/navigation
+    format: json
+    filename: "{drupalNodeId}.json"
+    subfolders: false
+    operations:
+      create: false
+      rename: false
+      delete: false
+    view:
+      fields: [title, published, drupalNodeId]
+      primary: title
+      sort: [title, drupalNodeId]
+      search: [title, menu]
+      default:
+        sort: title
+        order: asc
+    fields:
+      - name: contentType
+        label: Content type
+        type: string
+        required: true
+        readonly: true
+      - name: drupalNodeId
+        label: Legacy Drupal node ID
+        type: number
+        required: true
+        readonly: true
+      - name: title
+        label: Title
+        type: string
+        required: true
+      - name: menu
+        label: Menu configuration
+        type: code
+        required: true
+        description: Raw legacy JSON. One migrated record contains intentionally preserved invalid JSON.
+        options:
+          format: json
+      - name: logoHtml
+        label: Header logo
+        type: rich-text
+        options:
+          format: html
+          media: false
+          switcher: true
+          initialMode: source
+      - name: styleCss
+        label: Portal style
+        type: code
+        options:
+          format: css
+      - name: published
+        label: Published
+        type: boolean
+        required: true
+        readonly: true
+
+  - name: book_pages
+    label: Book Pages
+    type: collection
+    path: content/drupal/books
+    format: json
+    filename: "{drupalNodeId}.json"
+    subfolders: false
+    operations:
+      create: false
+      rename: false
+      delete: false
+    view:
+      fields: [title, depth, weight, published]
+      primary: title
+      sort: [title, depth, weight]
+      search: [title, bodyHtml]
+      default:
+        sort: title
+        order: asc
+    fields:
+      - name: contentType
+        label: Content type
+        type: string
+        required: true
+        readonly: true
+      - name: drupalNodeId
+        label: Legacy Drupal node ID
+        type: number
+        required: true
+        readonly: true
+      - name: title
+        label: Title
+        type: string
+        required: true
+      - name: bodyHtml
+        label: Body
+        type: rich-text
+        options:
+          format: html
+          media: false
+          switcher: true
+          initialMode: source
+      - name: bookId
+        label: Legacy book ID
+        type: number
+        required: true
+        readonly: true
+      - name: parentId
+        label: Parent page ID
+        type: number
+        readonly: true
+      - name: weight
+        label: Outline weight
+        type: number
+        required: true
+        readonly: true
+      - name: depth
+        label: Outline depth
+        type: number
+        required: true
+        readonly: true
+      - name: outlinePath
+        label: Outline path
+        type: number
+        list: true
+        required: true
+        readonly: true
+      - name: published
+        label: Published
+        type: boolean
+        required: true
+        readonly: true
+
+  - name: news
+    label: News
+    type: collection
+    path: content/drupal/news
+    format: json
+    filename: "{drupalNodeId}.json"
+    subfolders: false
+    operations:
+      create: false
+      rename: false
+      delete: false
+    view:
+      fields: [title, project, publishedAt, published]
+      primary: title
+      sort: [title, project, publishedAt]
+      search: [title, summary, bodyHtml, project]
+      default:
+        sort: publishedAt
+        order: desc
+    fields:
+      - name: contentType
+        label: Content type
+        type: string
+        required: true
+        readonly: true
+      - name: drupalNodeId
+        label: Legacy Drupal node ID
+        type: number
+        required: true
+        readonly: true
+      - name: title
+        label: Title
+        type: string
+        required: true
+      - name: summary
+        label: Summary
+        type: text
+        required: true
+      - name: bodyHtml
+        label: Body
+        type: rich-text
+        options:
+          format: html
+          media: false
+          switcher: true
+          initialMode: source
+      - name: thumbnailHtml
+        label: Thumbnail HTML
+        type: code
+        description: Existing thumbnail markup and asset references.
+        options:
+          format: html
+      - name: project
+        label: Project
+        type: string
+        required: true
+      - name: publishedAt
+        label: Published at
+        type: string
+        required: true
+        readonly: true
+        description: Migrated publication timestamps remain locked during the editing pilot.
+      - name: updatedAt
+        label: Updated at
+        type: string
+        required: true
+        readonly: true
+      - name: promoted
+        label: Promoted
+        type: boolean
+        required: true
+        readonly: true
+      - name: published
+        label: Published
+        type: boolean
+        required: true
+        readonly: true
+
+  - name: community_portals
+    label: Community Portals
+    type: collection
+    path: content/drupal/community-portals
+    format: json
+    filename: "{drupalNodeId}.json"
+    subfolders: false
+    operations:
+      create: false
+      rename: false
+      delete: false
+    view:
+      fields: [title, portalAddress, onA2fkp, published]
+      primary: title
+      sort: [title, weight]
+      search: [title, bodyHtml, portalAddress]
+      default:
+        sort: title
+        order: asc
+    fields:
+      - name: contentType
+        label: Content type
+        type: string
+        required: true
+        readonly: true
+      - name: drupalNodeId
+        label: Legacy Drupal node ID
+        type: number
+        required: true
+        readonly: true
+      - name: title
+        label: Title
+        type: string
+        required: true
+      - name: bodyHtml
+        label: Body
+        type: rich-text
+        options:
+          format: html
+          media: false
+          switcher: true
+          initialMode: source
+      - name: portalAddress
+        label: Portal address
+        type: string
+        required: true
+        pattern:
+          regex: "^https?://"
+          message: Enter a complete http:// or https:// URL.
+      - name: group
+        label: Portal group
+        type: select
+        options:
+          values:
+            - value: cardiometabolic_group
+              label: Cardiometabolic group
+      - name: weight
+        label: Weight
+        type: number
+      - name: onA2fkp
+        label: Show on A2FKP
+        type: boolean
+        required: true
+      - name: promoted
+        label: Promoted
+        type: boolean
+        required: true
+        readonly: true
+      - name: published
+        label: Published
+        type: boolean
+        required: true
+        readonly: true
+
+  - name: research_pages
+    label: Research Pages
+    type: collection
+    path: content/drupal/research-pages
+    format: json
+    filename: "{pageId}--{drupalNodeId}.json"
+    subfolders: false
+    operations:
+      create: false
+      rename: false
+      delete: false
+    view:
+      fields: [title, pageId, mode, dataType, published]
+      primary: title
+      sort: [title, pageId, mode]
+      search: [title, pageId, bodyHtml, projectSummary]
+      default:
+        sort: title
+        order: asc
+    fields:
+      - name: contentType
+        label: Content type
+        type: string
+        required: true
+        readonly: true
+      - name: drupalNodeId
+        label: Legacy Drupal node ID
+        type: number
+        required: true
+        readonly: true
+      - name: legacyAssetOwnerId
+        label: Legacy asset owner ID
+        type: number
+        required: true
+        readonly: true
+      - name: title
+        label: Title
+        type: string
+        required: true
+      - name: pageId
+        label: Page ID
+        type: string
+        required: true
+        readonly: true
+        description: Stable public lookup key; changing it requires a coordinated migration.
+      - name: bodyHtml
+        label: Body
+        type: rich-text
+        options:
+          format: html
+          media: false
+          switcher: true
+          initialMode: source
+      - name: mode
+        label: Page mode
+        type: select
+        required: true
+        options:
+          values:
+            - value: public
+              label: Public
+            - value: dev
+              label: Development
+            - value: no_set
+              label: Not set
+      - name: showOnByorFront
+        label: Show on BYOR front page
+        type: boolean
+      - name: projectSummary
+        label: Project summary
+        type: text
+      - name: urlToPage
+        label: URL to page
+        type: string
+      - name: isProjectLandingPage
+        label: Project landing page
+        type: boolean
+        required: true
+      - name: dataPoints
+        label: Data points
+        type: code
+        description: Raw endpoint, inline data, or legacy configuration text.
+      - name: isDataPointDynamic
+        label: Dynamic data point
+        type: boolean
+        required: true
+      - name: apiParameters
+        label: API parameters
+        type: code
+        options:
+          format: json
+      - name: dataType
+        label: Data type
+        type: select
+        options:
+          values:
+            - bioindex
+            - csv
+            - direct_csv
+            - json
+      - name: dataPointsListLabels
+        label: Data-points list labels
+        type: code
+        options:
+          format: json
+      - name: dataTableFormat
+        label: Data-table format
+        type: code
+        options:
+          format: json
+      - name: dataTableLegendHtml
+        label: Data-table legend
+        type: rich-text
+        options:
+          format: html
+          media: false
+          switcher: true
+          initialMode: source
+      - name: dataComparisonFormat
+        label: Data-comparison format
+        type: code
+        options:
+          format: json
+      - name: filters
+        label: Filters
+        type: code
+        description: Raw legacy JSON; malformed source values are preserved until explicitly corrected.
+        options:
+          format: json
+      - name: filterWidth
+        label: Filter width
+        type: select
+        options:
+          values: [sm, md, none]
+      - name: dataVisualizer
+        label: Data visualizer
+        type: select
+        options:
+          values: [mbm_plot, region_plot, custom_pkg, h_map, m_plot]
+      - name: customVisualizer
+        label: Custom visualizer
+        type: string
+      - name: visualizerConfiguration
+        label: Visualizer configuration
+        type: code
+        options:
+          format: json
+      - name: dataVisualizerLegendHtml
+        label: Data-visualizer legend
+        type: rich-text
+        options:
+          format: html
+          media: false
+          switcher: true
+          initialMode: source
+      - name: researchMethodId
+        label: Research method
+        type: reference
+        options:
+          collection: research_methods
+          value: "{drupalNodeId}"
+          label: "{title}"
+          search: title,drupalNodeId
+      - name: headerId
+        label: Header menu
+        type: reference
+        options:
+          collection: header_menus
+          value: "{drupalNodeId}"
+          label: "{title}"
+          search: title,drupalNodeId
+      - name: pageStyle
+        label: Page style
+        type: code
+        options:
+          format: css
+      - name: displayOnKp
+        label: Display on Knowledge Portal
+        type: boolean
+        required: true
+      - name: published
+        label: Published
+        type: boolean
+        required: true
+        readonly: true

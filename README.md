@@ -35,7 +35,7 @@ After the local migration is confirmed, the compatibility service will need to b
 
 ## Browser-based content editing
 
-Pages CMS is the planned editor during the transition. The self-hosted application and its PostgreSQL dependency belong to the separate `hugeamp-cms` deployment, while the repository-specific `.pages.yml` configuration belongs here beside the content it describes. Editors will work through familiar field types while the underlying changes remain visible and reviewable in GitHub.
+Pages CMS is the editor during the transition. The self-hosted application and its PostgreSQL dependency belong to the separate `hugeamp-cms` deployment, while the repository-specific `.pages.yml` configuration belongs here beside the content it describes. The configuration exposes all seven migrated content types, uses Source-first editing for legacy HTML, resolves Research Page relationships to Header Menus and Research Methods, and keeps creation, deletion, renaming, publication state, and structural legacy identifiers locked during the pilot.
 
 Pages CMS is an editing layer, not the content store. Its configuration will describe how the repository's files should be presented in the editor, but it will not define a separate or proprietary content format. This keeps the content independent of Pages CMS and makes it possible to replace the editor later without another migration.
 

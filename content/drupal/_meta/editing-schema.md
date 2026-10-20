@@ -159,6 +159,8 @@ The hierarchy fields come from Drupal's Book outline table. `outlinePath` preser
 
 Pages CMS and Nuxt Studio are interchangeable editing layers. Both must edit the same canonical content files. Their configuration is not canonical content.
 
+The current Pages CMS pilot exposes every migrated content type. Rich HTML starts in Source mode, raw research configuration remains in code fields, and Research Page header/method relationships use collection references. Creation, rename, delete, publication state, stable lookup identifiers, book hierarchy, and migrated News timestamps remain locked. Nullable and unmodeled legacy values are preserved when an unrelated field is saved.
+
 ## Open decisions and verification list
 
 ### Decided for the local migration
