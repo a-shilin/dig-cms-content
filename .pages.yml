@@ -48,10 +48,12 @@ content:
       - name: bodyHtml
         label: Body
         type: rich-text
+        description: Source mode preserves the migrated Drupal HTML exactly. Use Editor mode only when visual editing is worth normalizing the markup.
         options:
           format: html
           media: false
           switcher: true
+          initialMode: source
       - name: published
         label: Published
         type: boolean
