@@ -469,6 +469,36 @@ content:
         label: Project landing page
         type: boolean
         required: true
+      - name: byorFrontImage
+        label: BYOR front image metadata
+        type: object
+        readonly: true
+        description: Legacy Drupal asset metadata; read-only until assets move to durable storage.
+        fields:
+          - name: drupalFileId
+            label: Drupal file ID
+            type: number
+          - name: sourceUri
+            label: Source URI
+            type: string
+          - name: filename
+            label: Filename
+            type: string
+          - name: mimeType
+            label: MIME type
+            type: string
+          - name: alt
+            label: Alt text
+            type: string
+          - name: title
+            label: Image title
+            type: string
+          - name: width
+            label: Width
+            type: number
+          - name: height
+            label: Height
+            type: number
       - name: dataPoints
         label: Data points
         type: code
@@ -501,6 +531,11 @@ content:
         type: code
         options:
           format: json
+      - name: numberOfRows
+        label: Number of rows
+        type: number
+        readonly: true
+        description: Legacy display limit; read-only because one migrated source value is nonnumeric.
       - name: dataTableLegendHtml
         label: Data-table legend
         type: rich-text

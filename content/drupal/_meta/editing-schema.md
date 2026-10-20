@@ -94,7 +94,7 @@ The hierarchy fields come from Drupal's Book outline table. `outlinePath` preser
 | `field_show_on_byor_front` | `showOnByorFront` | boolean |
 | `field_byor_project_summary` | `projectSummary` | text |
 | `field_url_to_page` | `urlToPage` | URL/text |
-| `field_image_byor_front` | `byorFrontImage` | asset reference |
+| `field_image_byor_front` | `byorFrontImage` | read-only legacy asset metadata until asset migration |
 | `field_landing_page` | `isProjectLandingPage` | boolean |
 | `field_data_points` | `dataPoints` | raw configuration text |
 | `field_is_api` | `isDataPointDynamic` | boolean |
@@ -102,7 +102,7 @@ The hierarchy fields come from Drupal's Book outline table. `outlinePath` preser
 | `field_data_type` | `dataType` | select |
 | `field_data_points_list_labels` | `dataPointsListLabels` | JSON code |
 | `field_data_table_format` | `dataTableFormat` | JSON code |
-| `field_number_of_rows` | `numberOfRows` | number |
+| `field_number_of_rows` | `numberOfRows` | read-only number/legacy source value during the pilot |
 | `field_data_table_legend` | `dataTableLegendHtml` | rich HTML |
 | `field_data_comparison` | `dataComparisonFormat` | JSON code |
 | `field_filters` | `filters` | JSON code |
@@ -160,6 +160,8 @@ The hierarchy fields come from Drupal's Book outline table. `outlinePath` preser
 Pages CMS and Nuxt Studio are interchangeable editing layers. Both must edit the same canonical content files. Their configuration is not canonical content.
 
 The current Pages CMS pilot exposes every migrated content type. Rich HTML starts in Source mode, raw research configuration remains in code fields, and Research Page header/method relationships use collection references. Creation, rename, delete, publication state, stable lookup identifiers, book hierarchy, and migrated News timestamps remain locked. Nullable and unmodeled legacy values are preserved when an unrelated field is saved.
+
+During the pilot, `numberOfRows` and `byorFrontImage` are visible but read-only. History restoration restores editable values from the selected revision while retaining current hidden and read-only migration metadata.
 
 ## Open decisions and verification list
 
