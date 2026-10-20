@@ -1,0 +1,10 @@
+{
+  "contentType": "researchPageHeader",
+  "drupalNodeId": 541,
+  "title": "Sleep Private Portal menu",
+  "menu": "[\r\n{\"label\":\"Home\",\"link\":\"/research.html?pageid=sleep_private_kp\"},\r\n{\"label\":\"Phenotype\",\"link\":\"/research.html?ancestry=eu&pageid=sleep_private_phenotype&project=sleep\"},\r\n{\"label\":\"Signal Sifter\",\"link\":\"/research.html?ancestry=eu&pageid=sleep_private_ss&project=sleep\"}\r\n]",
+  "logoHtml": "<p class=\"kp-logo-wrapper\"><img class=\"kp-logo\" src=\"https://hugeampkpncms.org/sites/default/files/users/user1/sleep_private_header_logo.svg\"></p>",
+  "styleCss": ".kp-logo { height: 70px; margin-left: 20px; }\r\n.kp-logo-wrapper { float: left; }\r\n.research-portal-header { height: 90px; background-color: #d2acd1 ;}\r\n.research-portal-header  ul { float: right; font-size: 16px; margin-top: 25px; padding-right: 40px; }\r\n.paper-footer-wrapper { background-color: #937cb9; }",
+  "published": true,
+  "legacyPath": null
+}

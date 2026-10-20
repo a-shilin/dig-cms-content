@@ -1,0 +1,17 @@
+{
+  "contentType": "bookPage",
+  "drupalNodeId": 50,
+  "title": "4-2. JSON",
+  "bodyHtml": "<p>To use JSON files as data, select JSON in the Data Type drop-down menu.</p>\r\n\r\n<p>JSON file format stands for 'JavaScript Object Notation.' The research portal requires JSON files to be formatted as shown in this example, using the data from the CSV example on the previous page:&nbsp;</p>\r\n\r\n<p>{\"data\":[<br />\r\n&nbsp;{<br />\r\n&nbsp; &nbsp;\"CHR\": 1,<br />\r\n&nbsp; &nbsp;\"POS\": 721290,<br />\r\n&nbsp; &nbsp;\"REF\": \"G\",<br />\r\n&nbsp; &nbsp;\"ALT\": \"C\",<br />\r\n&nbsp; &nbsp;\"RSID\": \"rs12565286\",<br />\r\n&nbsp; &nbsp;\"PVAL\": 0.038345<br />\r\n&nbsp;},<br />\r\n&nbsp;{<br />\r\n&nbsp; &nbsp;\"CHR\": 1,<br />\r\n&nbsp; &nbsp;\"POS\": 976963,<br />\r\n&nbsp; &nbsp;\"REF\": \"A\",<br />\r\n&nbsp; &nbsp;\"ALT\": \"G\",<br />\r\n&nbsp; &nbsp;\"RSID\": \"rs150359724\",<br />\r\n&nbsp; &nbsp;\"PVAL\": 0.0043785<br />\r\n&nbsp;},<br />\r\n&nbsp;{<br />\r\n&nbsp; &nbsp;\"CHR\": 1,<br />\r\n&nbsp; &nbsp;\"POS\": 1120431,<br />\r\n&nbsp; &nbsp;\"REF\": \"G\",<br />\r\n&nbsp; &nbsp;\"ALT\": \"A\",<br />\r\n&nbsp; &nbsp;\"RSID\": \"rs1320571\",<br />\r\n&nbsp; &nbsp;\"PVAL\": 0.023373<br />\r\n&nbsp;}<br />\r\n]<br />\r\n}</p>\r\n\r\n<p>You can see that each set of data is wrapped in an array([]) labeled with \"data\" in an object({}). The research portal can take JSON data without any configuration and build data table out of it.&nbsp;</p>\r\n\r\n<p><br />\r\nThis online tool converts CSV data in to JSON format:&nbsp;<a href=\"http://www.convertcsv.com/csv-to-json.htm\" target=\"_blank\">http://www.convertcsv.com/csv-to-json.htm</a>. Please don't forget to wrap the converted data with curly brackets and label it \"data\" before uploading to the research portal.</p>\r\n",
+  "published": true,
+  "legacyPath": null,
+  "bookId": 37,
+  "parentId": 41,
+  "weight": 1,
+  "depth": 3,
+  "outlinePath": [
+    37,
+    41,
+    50
+  ]
+}

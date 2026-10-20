@@ -1,0 +1,13 @@
+{
+  "contentType": "communityPortal",
+  "drupalNodeId": 878,
+  "title": "Cerebrovascular Disease Knowledge Portal",
+  "bodyHtml": "<p><img src=\"https://kp4cd.org/sites/default/files/cd_small.svg\"></p>",
+  "portalAddress": "http://www.cerebrovascularportal.org/",
+  "group": "cardiometabolic_group",
+  "weight": 3,
+  "onA2fkp": true,
+  "published": true,
+  "legacyPath": null,
+  "promoted": true
+}

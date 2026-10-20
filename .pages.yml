@@ -1,0 +1,59 @@
+settings:
+  content:
+    # Preserve any keys not yet represented by the editor schema.
+    merge: true
+  commit:
+    identity: user
+    templates:
+      update: "Update {path} (via HuGeAMP CMS)"
+
+content:
+  - name: basic_pages
+    label: Basic Pages
+    type: collection
+    path: content/drupal/basic-pages
+    format: json
+    subfolders: false
+    # This legacy test page has a null body. Pages CMS normalizes null editor
+    # values, so leave it untouched until null round trips are explicitly handled.
+    exclude: [352.json]
+    operations:
+      create: false
+      rename: false
+      delete: false
+    view:
+      fields: [title, published, drupalNodeId]
+      primary: title
+      sort: [title, drupalNodeId]
+      search: [title, bodyHtml]
+      default:
+        sort: title
+        order: asc
+    fields:
+      - name: contentType
+        label: Content type
+        type: string
+        required: true
+        readonly: true
+      - name: drupalNodeId
+        label: Legacy Drupal node ID
+        type: number
+        required: true
+        readonly: true
+      - name: title
+        label: Title
+        type: string
+        required: true
+      - name: bodyHtml
+        label: Body
+        type: rich-text
+        options:
+          format: html
+          media: false
+          switcher: true
+      - name: published
+        label: Published
+        type: boolean
+        required: true
+        readonly: true
+        description: Publishing changes are locked during the initial editing pilot.

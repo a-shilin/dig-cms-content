@@ -1,0 +1,10 @@
+{
+  "contentType": "researchPageHeader",
+  "drupalNodeId": 273,
+  "title": "EGL portal header menu",
+  "menu": "[{\r\n\"label\":\"Home\",\"link\":\"/research.html?pageid=pegl_app_front_PEGASUS\"\r\n},\r\n{\r\n\"label\":\"Predicted Effector Genes\",\"link\":\"/research.html?pageid=pegl_app_332\"\r\n},\r\n{\r\n\"label\":\"Tutorial\",\"link\":\"/research.html?pageid=egl_tutorial_272\"\r\n}]",
+  "logoHtml": "<p class=\"peg-logo-wrapper\"><img class=\"peg-logo\" src=\"https://hugeampkpncms.org/sites/default/files/users/user1/PEG_logo_negative.svg\" /></p>\r\n",
+  "styleCss": ".peg-logo { height: 70px; margin-left: 20px; }\r\n.peg-logo-wrapper { float: left; }\r\n.research-portal-header { height: 90px; background-color: #33bbed; }\r\n.research-portal-header  ul { float: right; font-size: 16px; margin-top: 25px; padding-right: 40px; }\r\n.paper-footer-wrapper { background-color: #33bbed; }",
+  "published": true,
+  "legacyPath": null
+}

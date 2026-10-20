@@ -1,0 +1,13 @@
+{
+  "contentType": "communityPortal",
+  "drupalNodeId": 863,
+  "title": "Skin Knowledge Portal",
+  "bodyHtml": "<p><img src=\"https://kp4cd.org/sites/default/files/skinkp_symbol_only_2025.svg\" alt=\"\"></p>",
+  "portalAddress": "https://skin.hugeamp.org",
+  "group": "cardiometabolic_group",
+  "weight": null,
+  "onA2fkp": true,
+  "published": true,
+  "legacyPath": null,
+  "promoted": true
+}

@@ -1,0 +1,13 @@
+{
+  "contentType": "communityPortal",
+  "drupalNodeId": 866,
+  "title": "Kidney Disease Knowledge Portal",
+  "bodyHtml": "<p><img src=\"https://kp4cd.org/sites/default/files/images/kidney_small.svg\"></p>",
+  "portalAddress": "https://kidney.hugeamp.org/",
+  "group": null,
+  "weight": 1,
+  "onA2fkp": true,
+  "published": true,
+  "legacyPath": null,
+  "promoted": true
+}

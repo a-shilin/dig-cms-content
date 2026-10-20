@@ -1,0 +1,14 @@
+{
+  "contentType": "news",
+  "drupalNodeId": 788,
+  "title": "What's new: explore the latest features on PanKbase",
+  "bodyHtml": "<p>At the American Diabetes Association (ADA) meeting, PanKbase will release new site enhancements, analysis features, and more.</p><p>New site features include:</p><ul><li>An updated dataset within the Integrated Cell Browser</li><li>A Differential Gene Expression Browser with analyses of differential expression of pseudobulk RNA-seq data</li><li>An enhanced PanKgraph interface enabling users to explore more biological questions through a knowledge graph interface</li><li>A community forum</li><li>A GitHub repository enabling users to submit feature requests and bug reports</li></ul><p>Stay tuned for more developments in the coming months!</p>",
+  "summary": "At the 2025 American Diabetes Association meeting, PanKbase will release new site enhancements, analysis features, and more. Read the article to learn more.",
+  "thumbnailHtml": "<p><span><img src=\"https://hugeampkpncms.org/sites/default/files/images/pancreasfuturistic.jpg\"></span></p>",
+  "project": "pankbase",
+  "published": true,
+  "legacyPath": null,
+  "publishedAt": "2025-06-10T18:52:05.000Z",
+  "updatedAt": "2025-06-10T19:48:26.000Z",
+  "promoted": true
+}

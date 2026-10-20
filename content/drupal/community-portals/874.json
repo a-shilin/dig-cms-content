@@ -1,0 +1,13 @@
+{
+  "contentType": "communityPortal",
+  "drupalNodeId": 874,
+  "title": "Neurodegenerative Disease Knowledge Portal",
+  "bodyHtml": "<p><img src=\"https://kp4cd.org/sites/default/files/images/ndkp_small.svg\" width=\"120\"></p>",
+  "portalAddress": "https://ndkp.hugeamp.org/",
+  "group": null,
+  "weight": 8,
+  "onA2fkp": true,
+  "published": true,
+  "legacyPath": null,
+  "promoted": true
+}

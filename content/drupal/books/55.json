@@ -1,0 +1,17 @@
+{
+  "contentType": "bookPage",
+  "drupalNodeId": 55,
+  "title": "8-2. Manhattan plot in bitmap format (updated: 02/12/2022)",
+  "bodyHtml": "<p>Let's say you have a data file which has 100,000 rows of data in it (note that we don't recommend loading files this large to BYOR). If you render large amounts of data in vector graphics, the computers of the viewers may have hard time in responding to your requests like filtering or sorting data, due to the number of items they have to re-render even for slight changes in the data and viewing window.&nbsp;You can choose the Manhattan plot in bitmap format in this case. It renders much faster than the vector version and gives almost no burden to the cpu of the viewers' computers.&nbsp;</p>\r\n\r\n<h2>Format</h2>\r\n\r\n<p>{<br />\r\n\"type\":\"manhattan bitmap plot\",<br />\r\n\"x axis field\": \"position value\", //Value must be formatted in \"chr : start - end\" or \"chr : position.\"<br />\r\n\"y axis field\": \"number value\",<br />\r\n\"render by\": \"render key field\",<br />\r\n\"y axis label\": \"label\",<br />\r\n\"x axis label\": \"label\",<br />\r\n\"hover content\": [\"field 1\",\"field 2\"],<br />\r\n\"height\": number<br />\r\n}</p>\r\n\r\n<h2>Example (<a href=\"https://hugeampkpn.org/research.html?pageid=demo_2_2_n12\">https://hugeampkpn.org/research.html?pageid=demo_2_2_n12</a>)</h2>\r\n\r\n<p>In this example, the data file contains&nbsp;62,902 rows of data.</p>\r\n\r\n<p>{<br />\r\n\"type\":\"manhattan bitmap plot\",<br />\r\n\"x axis field\": \"locus\",<br />\r\n\"y axis field\": \"pval_ng_log10\",<br />\r\n\"render by\": \"rsID\",<br />\r\n\"y axis label\": \"-Log10(p-value)\",<br />\r\n\"x axis label\": \"Chromosome\",<br />\r\n\"hover content\": [\"locus\",\"P-value\"],<br />\r\n\"height\": 300<br />\r\n}</p>\r\n\r\n<p><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"d57ef15e-feb6-4b62-a730-c16acc4c40ad\" src=\"https://hugeampkpncms.org/sites/default/files/users/user1/Screen%20Shot%202022-02-08%20at%204.01.46%20PM.png\" width=\"800\" /></p>\r\n",
+  "published": true,
+  "legacyPath": null,
+  "bookId": 37,
+  "parentId": 48,
+  "weight": 1,
+  "depth": 3,
+  "outlinePath": [
+    37,
+    48,
+    55
+  ]
+}

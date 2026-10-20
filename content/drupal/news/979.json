@@ -1,0 +1,14 @@
+{
+  "contentType": "news",
+  "drupalNodeId": 979,
+  "title": "Announcing the Cell State & Program Explorer on PankBase",
+  "bodyHtml": "<p class=\"css-qffaiu e178251s9\">We're excited to introduce a powerful new feature to PankBase: the Cell State &amp; Program Explorer! &nbsp;</p><p>With the Cell State &amp; Program Explorer, you can now compare gene expression across pancreatic cell types, cell states, and computationally inferred gene programs. Explore genetic links to human traits and healthy-to-disease trajectories, all in one place. This tool highlights both established biology and potentially novel findings, giving researchers a new lens to investigate the complexities of pancreatic function and disease.</p><p>We want your input! Your feedback is crucial for shaping the future of PankBase. We’re inviting the community to share thoughts, report issues, and collaborate on downstream community curation efforts to help make this resource even better. If you spot something missing, have suggestions for the interface, or want to contribute to annotation and curation, we want to hear from you.</p><p>Please leave your feedback directly on the site, or using <a href=\"https://broadinstitute.enterprise.slack.com/files/U02G1MGDKUK/F0BSK7NAZ2N/qr-code-8__1_.png\">this link</a> . Together, we can build a richer, more useful PankBase for everyone.</p><p>&nbsp;</p>",
+  "summary": "The PankBase team has released the Cell State & Program Explorer, a new tool for comparing gene expression across pancreatic cell types, cell states, and gene programs linked to human traits and disease. Community members are invited to provide feedback and collaborate on improving the interface and curating data.",
+  "thumbnailHtml": "<p><img src=\"https://hugeampkpncms.org/sites/default/files/qr-code-8%20(1).png\" width=\"200\" height=\"200\" data-entity-type=\"file\" data-entity-uuid=\"444eb0dc-e392-4755-84d4-abe54702f8d3\" alt=\"\"><img src=\"https://hugeampkpncms.org/sites/default/files/Cell%20state%20model%20disease.png\" width=\"800\" height=\"320\" data-entity-type=\"file\" data-entity-uuid=\"dcedb629-1a98-45eb-a51d-ed3d0b9b3bfc\" alt=\"\"><br><img src=\"https://hugeampkpncms.org/sites/default/files/Cell%20state%20model%20healthy.png\" width=\"800\" height=\"320\" data-entity-type=\"file\" data-entity-uuid=\"de39e147-e73e-465b-89a6-2af5a1d2b7cc\" alt=\"\"><br><img src=\"https://hugeampkpncms.org/sites/default/files/Cell%20state%20model%20perturbed.png\" width=\"800\" height=\"320\" data-entity-type=\"file\" data-entity-uuid=\"ee42c5a3-cefd-4aa4-b49f-cca32ebdd048\" alt=\"\"></p>",
+  "project": "pankbase",
+  "published": true,
+  "legacyPath": null,
+  "publishedAt": "2026-08-25T15:27:04.000Z",
+  "updatedAt": "2026-08-25T15:50:44.000Z",
+  "promoted": true
+}

@@ -1,0 +1,13 @@
+{
+  "contentType": "communityPortal",
+  "drupalNodeId": 876,
+  "title": "Musculoskeletal Knowledge Portal",
+  "bodyHtml": "<p><img src=\"https://kp4cd.org/sites/default/files/msk.svg\"></p>",
+  "portalAddress": "http://mskkp.org",
+  "group": null,
+  "weight": 7,
+  "onA2fkp": true,
+  "published": true,
+  "legacyPath": null,
+  "promoted": true
+}

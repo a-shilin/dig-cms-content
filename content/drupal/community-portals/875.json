@@ -1,0 +1,13 @@
+{
+  "contentType": "communityPortal",
+  "drupalNodeId": 875,
+  "title": "Non-Additive Genetic Effects Knowledge Portal",
+  "bodyHtml": "<p><img src=\"https://kp4cd.org/sites/default/files/images/nage_small.svg\"></p>",
+  "portalAddress": "https://nage.hugeamp.org/",
+  "group": null,
+  "weight": 9,
+  "onA2fkp": true,
+  "published": true,
+  "legacyPath": null,
+  "promoted": true
+}

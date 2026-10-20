@@ -1,0 +1,10 @@
+{
+  "contentType": "researchPageHeader",
+  "drupalNodeId": 88,
+  "title": "eqtl page header",
+  "menu": "[\r\n  {\"label\":\"NephQTL2\",\"link\":\"/research.html?pageid=nephqtl2_home_89\"},\r\n  {\"label\":\"Gene Search (GLOM)\",\"link\":\"/research.html?pageid=nephqtl2_genesearch_86\"},\r\n  {\"label\":\"Gene Search (TUBE)\",\"link\":\"/research.html?pageid=nephqtl2_genestube_121\"},\r\n  {\"label\":\"Variant Search (GLOM)\",\"link\":\"/research.html?pageid=nephqtl2_variantsearch_87\"},\r\n  {\"label\":\"Variant Search (TUBE)\",\"link\":\"/research.html?pageid=nephqtl2_variantstube_123\"},\r\n  {\"label\":\"About\",\"link\":\"/research.html?pageid=nephqtl2_about_118\"}\r\n]\r\n",
+  "logoHtml": null,
+  "styleCss": null,
+  "published": true,
+  "legacyPath": null
+}

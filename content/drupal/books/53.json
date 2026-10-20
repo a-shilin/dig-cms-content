@@ -1,0 +1,16 @@
+{
+  "contentType": "bookPage",
+  "drupalNodeId": 53,
+  "title": "7. Adding filters (updated: 02/12/2022)",
+  "bodyHtml": "<p>Your data gets loaded to presentation sites without any trouble. The data table looks fine. Now you can try to add a few filters for the loaded data. The filtering system on BYOR compounds the filtering values, meaning that <strong>all</strong> selected filters are applied to the data.</p>\r\n\r\n<h2>Format</h2>\r\n\r\n<p>[ { \"field\": \"field name\", \"label\": \"label above filter\", \"type\": \"filter type\" }&nbsp;]&nbsp;</p>\r\n\r\n<h2>Example</h2>\r\n\r\n<p>Here is an example filter configuration for a <a href=\"https://hugeamp.org/research.html?pageid=demo_3_n1\" target=\"_blank\">demo page</a>:</p>\r\n\r\n<p>[ { \"field\": \"Nearest gene\", \"label\": \"Nearest gene\", \"type\": \"search\" },<br />\r\n{ \"field\": \"rsID\", \"label\": \"rsID\", \"type\": \"search\" },<br />\r\n{ \"field\": \"Number of features\", \"label\": \"Number of features\", \"type\": \"search greater than\" },<br />\r\n{ \"field\": \"Alleles\", \"label\": \"Alleles\", \"type\": \"dropdown\" } ]&nbsp;</p>\r\n\r\n<p><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"b3661f02-ed56-4663-bb6f-f17ec321a384\" src=\"https://hugeampkpncms.org/sites/default/files/users/user1/Screen%20Shot%202022-02-07%20at%2012.08.56%20PM.png\" width=\"800\" /></p>\r\n\r\n<p>The research portal comes with following data filtering options:</p>\r\n\r\n<ul>\r\n\t<li><strong>dropdown</strong>: A dropdown menu will be built from the targeted column. (!Important: if there is an empty value in the column, this option will fail to filter the data.)</li>\r\n\t<li><strong>search</strong>: This option will filter values in the targeted column and display those containing the search text.\r\n\t<ul>\r\n\t\t<li><strong>Autocomplete</strong>: You can also add autocomplete feature to search filters by adding \"features:[\"autocomplete\"].&nbsp;</li>\r\n\t</ul>\r\n\t</li>\r\n\t<li><strong>search greater than</strong>: This option will filter values in the targeted column and display those with values greater than the searched number.</li>\r\n\t<li><strong>search lower than</strong>: This option will filter values in the targeted column and display those with values lower than the searched number.</li>\r\n\t<li><strong>search or</strong>: This option will filter values in the targeted column and display those with values greater <strong>or</strong> lower than the searched numbers (separated by a comma).</li>\r\n\t<li><strong>search and</strong>: This option will filter values in the targeted column and those with values greater <strong>and</strong> lower than the searched numbers (separated by a comma).</li>\r\n</ul>\r\n",
+  "published": true,
+  "legacyPath": null,
+  "bookId": 37,
+  "parentId": 37,
+  "weight": 6,
+  "depth": 2,
+  "outlinePath": [
+    37,
+    53
+  ]
+}

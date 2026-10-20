@@ -1,0 +1,16 @@
+{
+  "contentType": "bookPage",
+  "drupalNodeId": 40,
+  "title": "3. JSON objects and arrays",
+  "bodyHtml": "<p>Let's discuss JSON objects and arrays here before moving on.&nbsp;If you are already familiar with JSON objects and arrays, you can skip this page.</p>\r\n\r\n<p>Research pages are configured using JSON objects and arrays. JSON objects are a type of data that can contain information blocks tied in&nbsp;key to value relations. Here is an example of a JSON object:</p>\r\n\r\n<p>{ \"fruit 1\":\"Apple\", \"fruit 2\":\"Banana\", \"fruit 3\":\"Mango\"}</p>\r\n\r\n<p>Commas separate each piece of information; note that there is no comma following the last item. Having a comma after the last item in a JSON object will be taken as an error and prevent the display&nbsp;of your research page.&nbsp;</p>\r\n\r\n<p>Arrays are lists of pieces of information, wrapped with brackets ([]). Here is an example:</p>\r\n\r\n<p>[\"Apple\", \"Banana\", \"Mango\"]</p>\r\n\r\n<p>Again, there is no comma following the last item in an array.&nbsp;</p>\r\n\r\n<p>You can learn more about JSON objects and arrays <a href=\"https://medium.com/@angela.amarapala/difference-between-arrays-and-json-objects-fa1c8598f9f1\" target=\"_blank\">here</a>.</p>\r\n",
+  "published": true,
+  "legacyPath": null,
+  "bookId": 37,
+  "parentId": 37,
+  "weight": 2,
+  "depth": 2,
+  "outlinePath": [
+    37,
+    40
+  ]
+}

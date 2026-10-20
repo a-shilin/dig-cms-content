@@ -1,0 +1,16 @@
+{
+  "contentType": "bookPage",
+  "drupalNodeId": 38,
+  "title": "1. Creating a user account",
+  "bodyHtml": "<h3><strong>1. How to create a user account</strong></h3>\r\n\r\n<p>To use the BYOR service, you will need to have a user account. To create an account for the service, please fill out <a href=\"https://forms.gle/p5LXkHxuSoae8tZZ7\" target=\"_blank\">this form</a>.</p>\r\n\r\n<h3><strong>2. User privileges</strong></h3>\r\n\r\n<p>There are two levels of users in the service: authenticated users and registered users.</p>\r\n\r\n<p><strong>Authenticated users</strong> are allowed to use up to 20MB of disk space to upload files (limited to 8MB per file), and are expected to build research pages by themselves.</p>\r\n\r\n<p><strong>Registered users</strong>&nbsp;have flexible disk space limits. User upload is limited to 8MB per file, but our service team can upload larger files for the users if necessary.&nbsp;We can help registered users with tasks as simple as configuring pages or as challenging as adding visualizers, formatting datasets, and creating data points.&nbsp;</p>\r\n",
+  "published": true,
+  "legacyPath": null,
+  "bookId": 37,
+  "parentId": 37,
+  "weight": 0,
+  "depth": 2,
+  "outlinePath": [
+    37,
+    38
+  ]
+}

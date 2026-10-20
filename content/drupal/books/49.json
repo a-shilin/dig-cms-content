@@ -1,0 +1,17 @@
+{
+  "contentType": "bookPage",
+  "drupalNodeId": 49,
+  "title": "4-1. CSV",
+  "bodyHtml": "<p>To use CSV files as data, select CSV in the Data Type drop-down menu.</p>\r\n\r\n<p>CSV file format stands for 'comma-separated values.' CSV is the default data type for BYOR, since the smaller CSV files enable faster data loading. Here is an example of dat in the CSV format:</p>\r\n\r\n<p>CHR,POS,REF,ALT,RSID,PVAL<br />\r\n1,721290,G,C,rs12565286,3.8345e-02<br />\r\n1,976963,A,G,rs150359724,4.3785e-03<br />\r\n1,1120431,G,A,rs1320571,2.3373e-02</p>\r\n\r\n<p>You can see that the columns are separated with commas. The research portal can take data in the CSV format without any further configuration and build a data table from it. (Please try <a href=\"https://hugeampkpncms.org/node/39\">2. Your first research page example</a> if you haven't already).&nbsp;</p>\r\n\r\n<p>If there are commas in the data for a cell, wrapping the cell content with quotation marks will prevent the creation of an extra column. Here is an example:</p>\r\n\r\n<p>Gene,Tier,Locus,Coding variant evidence<br />\r\nCTLA4,1,CTLA4,\"Monogenic disease: Autoimmune lymphoproliferative syndrome, type V\"</p>\r\n\r\n<p>To export your data as CSV type from Excel</p>\r\n\r\n<ol>\r\n\t<li>Click File.</li>\r\n\t<li>Click Save As.</li>\r\n\t<li>Choose a location where you want to save your file.</li>\r\n\t<li>Select \"CSV\" from the \"Save as type\" dropdown menu.</li>\r\n\t<li>Click Save</li>\r\n</ol>\r\n\r\n<p>To export your data as csv from Numbers on Mac OS&nbsp;</p>\r\n\r\n<ol>\r\n\t<li>Click File.</li>\r\n\t<li>Click Export to.</li>\r\n\t<li>Select CSV.</li>\r\n\t<li>Click Next.</li>\r\n\t<li>Choose a location&nbsp;where you want to save your file.</li>\r\n\t<li>Click Export</li>\r\n</ol>\r\n",
+  "published": true,
+  "legacyPath": null,
+  "bookId": 37,
+  "parentId": 41,
+  "weight": 0,
+  "depth": 3,
+  "outlinePath": [
+    37,
+    41,
+    49
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "contentType": "communityPortal",
+  "drupalNodeId": 885,
+  "title": "Collaborate on methods",
+  "bodyHtml": "<p><img src=\"https://kp4cd.org/sites/default/files/images/collaborate_methods_icon.svg\"></p>",
+  "portalAddress": "https://kp4cd.org/collaborate-methods",
+  "group": null,
+  "weight": 98,
+  "onA2fkp": true,
+  "published": true,
+  "legacyPath": null,
+  "promoted": true
+}

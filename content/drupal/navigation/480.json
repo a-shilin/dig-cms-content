@@ -1,0 +1,10 @@
+{
+  "contentType": "researchPageHeader",
+  "drupalNodeId": 480,
+  "title": "Lupus KP header menu",
+  "menu": "[\r\n{\"label\":\"Home\",\"link\":\"/research.html?pageid=lupuskp_front\"},\r\n{\"label\":\"Phenotype\",\"link\":\"/research.html?ancestry=eu&pageid=lupus_phenotype&phenotype=SLE\"},\r\n{\"label\":\"Signal Sifter\",\"link\":\"/research.html?ancestry=eu&pageid=lupus_ss&phenotype=SLE\"}\r\n]",
+  "logoHtml": "<p class=\"kp-logo-wrapper\"><img class=\"kp-logo\" src=\"https://hugeampkpncms.org/sites/default/files/users/user1/lupuskp_header_logo.png\"></p>",
+  "styleCss": ".kp-logo { height: 70px; margin-left: 20px; }\r\n.kp-logo-wrapper { float: left; }\r\n.research-portal-header { height: 90px; background-color: #91d3d1; }\r\n.research-portal-header  ul { float: right; font-size: 16px; margin-top: 25px; padding-right: 40px; }\r\n.paper-footer-wrapper { background-color: #55abb9; }",
+  "published": true,
+  "legacyPath": null
+}

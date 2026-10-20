@@ -1,0 +1,17 @@
+{
+  "contentType": "bookPage",
+  "drupalNodeId": 183,
+  "title": "4-4. Direct Input(CSV)",
+  "bodyHtml": "<p>If your data is pretty simple with few columns and rows therefore smaller than few hundred kilo bytes, you can just copy and paste it to the 'Data points' field directly instead of uploading the data in file. It will take about half a second longer to load to the view port compare to loading it from a file.&nbsp;</p>\r\n\r\n<p><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"131a235c-1a98-43a6-bcab-ccf780308c41\" src=\"https://hugeampkpncms.org/sites/default/files/users/user1/Screen%20Shot%202022-09-16%20at%202.56.41%20PM.png\" width=\"800\" /></p>\r\n",
+  "published": true,
+  "legacyPath": null,
+  "bookId": 37,
+  "parentId": 41,
+  "weight": 3,
+  "depth": 3,
+  "outlinePath": [
+    37,
+    41,
+    183
+  ]
+}

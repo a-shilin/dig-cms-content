@@ -1,0 +1,10 @@
+{
+  "contentType": "researchPageHeader",
+  "drupalNodeId": 707,
+  "title": "Proposed baseline masks Header",
+  "menu": "[\r\n{\"label\":\"Home\",\"link\":\"/r/proposed_baseline_masks_home\"},\r\n{\"label\":\"Results\",\"link\":\"/r/proposed_baseline_masks_results\"}\r\n]",
+  "logoHtml": null,
+  "styleCss": ".kp-logo { height: 70px; margin-left: 20px; }\r\n.kp-logo-wrapper { float: left; }\r\n.research-portal-header { height: 90px; background-color: #4480b2; }\r\n.research-portal-header  ul { float: right; font-size: 16px; margin-top: 25px; padding-right: 40px; }\r\n.paper-footer-wrapper { background-color: #4480b2; }",
+  "published": true,
+  "legacyPath": null
+}

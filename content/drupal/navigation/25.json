@@ -1,0 +1,10 @@
+{
+  "contentType": "researchPageHeader",
+  "drupalNodeId": 25,
+  "title": "GIANT pages menu",
+  "menu": "[\r\n{\"label\":\"Home\",\"link\":\"/research.html?pageid=giant_landing_page\"},\r\n{\"label\":\"Prioritized Genes\",\"link\":\"javascript:;\",\"subMenu\":[\r\n{\"label\":\"Height\",\"link\":\"/research.html?pageid=prioritized_genes_giant_height\"}\r\n]},\r\n{\"label\":\"GEM(Beta) v2.1: region +-500K\",\"link\":\"javascript:;\",\"subMenu\":[\r\n{\"label\":\"Mixed ancestry\",\"link\":\"/research.html?pageid=giant_gem_199\"},\r\n{\"label\":\"Other ancestries\",\"link\":\"/research.html?pageid=giant_gem_372\"}\r\n]},\r\n{\"label\":\"CS2CT browser\",\"link\":\"/research.html?pageid=giant_c2ct_tissue\"},\r\n{\"label\":\"About the project\",\"link\":\"/research.html?pageid=giant_about\"},\r\n{\"label\":\"Documentation / Tutorial \",\"link\":\"/research.html?pageid=giant_documentation\"}\r\n]",
+  "logoHtml": "<p class=\"kp-logo-wrapper\"><img class=\"kp-logo\" src=\"https://hugeampkpncms.org/sites/default/files/users/user1/giant_header_logo.svg\"></p>",
+  "styleCss": ".kp-logo { height: 70px; margin-left: 20px; }\r\n.kp-logo-wrapper { float: left; }\r\n.research-portal-header { height: 90px; background-color: #91d3d1; }\r\n.research-portal-header  ul { float: right; font-size: 16px; margin-top: 25px; padding-right: 40px; }\r\n.paper-footer-wrapper { background-color: #55abb9; }",
+  "published": true,
+  "legacyPath": null
+}

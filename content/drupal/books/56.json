@@ -1,0 +1,17 @@
+{
+  "contentType": "bookPage",
+  "drupalNodeId": 56,
+  "title": "8-3. Volcano plot",
+  "bodyHtml": "<h2>Format</h2>\r\n\r\n<p>{<br />\r\n\"type\":\"volcano plot\",<br />\r\n\"label\": \"plot label\",<br />\r\n\"legend\": \"plot legend\",<br />\r\n\"render by\": \"key field\",<br />\r\n\"x axis field\": \"field name\",<br />\r\n\"x axis label\": \"label\",<br />\r\n\"y axis field\": \"field name\",<br />\r\n\"y axis label\": \"label\",<br />\r\n\"width\": number,<br />\r\n\"height\": number,<br />\r\n\"x condition\": {\"combination\":\"condition\",\"greater than\":number,\"lower than\":number}, //combination for condition can be \"greater than\", \"lower than\", \"or\" and \"and.\"<br />\r\n\"y condition\": {\"combination\":\"condition\",\"greater than\":number},<br />\r\n\"dot label score\": number //number of conditions that the value of each dot to meet to have labeled<br />\r\n}</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<h2>Example (<a href=\"https://hugeampkpn.org/research.html?pageid=demo_4_n2\">https://hugeampkpn.org/research.html?pageid=demo_4_n2</a>)</h2>\r\n\r\n<p>{<br />\r\n​​​​​​​\"type\":\"volcano plot\",<br />\r\n\"label\": \"Volcano Plot of Differentially Expressed Genes - High-risk vs Low-risk APOL1 genotype\",<br />\r\n\"legend\": \"&lt;span class='volcano-score-0'&gt;&amp;nbsp;&lt;/span&gt; NS &lt;span class='volcano-score-1'&gt;&amp;nbsp;&lt;/span&gt; Log&lt;sub&gt;2&lt;/sub&gt; FC &lt;span class='volcano-score-2'&gt;&amp;nbsp;&lt;/span&gt; p-value and log&lt;sub&gt;2&lt;/sub&gt; FC&lt;br&gt;Genes with positive fold change are upregulated in high-risk samples\",<br />\r\n\"render by\": \"Gene Symbol\",<br />\r\n\"x axis field\": \"Log2 Fold Change\",<br />\r\n\"x axis label\": \"Log2 Fold Change\",<br />\r\n\"y axis field\": \"negLog10P\",<br />\r\n\"y axis label\": \"P-value (-Log10)\",<br />\r\n\"width\": 800,<br />\r\n\"height\": 400,<br />\r\n\"x condition\": {\"combination\":\"or\",\"greater than\":0.5,\"lower than\":-0.5},<br />\r\n\"y condition\": {\"combination\":\"greater than\",\"greater than\":4.60206},<br />\r\n\"dot label score\": 2<br />\r\n}</p>\r\n\r\n<p><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"529d18c3-0831-4419-82e6-43c34eb5a3fd\" src=\"https://hugeampkpncms.org/sites/default/files/users/user1/Screen%20Shot%202022-02-09%20at%201.34.53%20PM.png\" width=\"800\" /></p>\r\n",
+  "published": true,
+  "legacyPath": null,
+  "bookId": 37,
+  "parentId": 48,
+  "weight": 2,
+  "depth": 3,
+  "outlinePath": [
+    37,
+    48,
+    56
+  ]
+}

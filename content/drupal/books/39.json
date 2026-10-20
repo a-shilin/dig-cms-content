@@ -1,0 +1,16 @@
+{
+  "contentType": "bookPage",
+  "drupalNodeId": 39,
+  "title": "2. Your first research page",
+  "bodyHtml": "<p>You will learn how to create your first research page here.&nbsp;</p>\r\n\r\n<p>After receiving an email from the BYOR team with your user account information, you can log in at <a href=\"https://hugeampkpncms.org/\" target=\"_blank\">https://hugeampkpncms.org/</a>.</p>\r\n\r\n<p>To create your first research page, you will need a data file in .csv format. You can use&nbsp;<a href=\"/sites/default/files/users/user1/demo.csv\">this file (demo.csv)</a>&nbsp;or your own .csv file. Click the 'Manage Your Files' menu to open the IMCE file browser with your user directory visible. Click the 'Upload' menu to navigate to the file(s) to upload to your directory:<br />\r\n<img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"1025348b-5ed9-4d22-a63c-18dbfae1f8ad\" height=\"169\" src=\"/sites/default/files/users/user1/Screen%20Shot%202021-10-19%20at%204.10.22%20PM.png\" width=\"446\" /></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>After uploading your file, go back to home page of hugeampkpncms.org. To create a research page, click the 'Add page' menu. It will give you three options: Research Method, Research Page, and Research Pages Header Menu.</p>\r\n\r\n<p>Click 'Research Page' to&nbsp;open the edit page for the 'Research Page' node. There are many fields, but only four must be filled in to complete a first research page: Title, Page ID, Data Points, and Page Mode. Let's go over these one by one.&nbsp;</p>\r\n\r\n<ul>\r\n\t<li><strong>Title:</strong> Of course you need a title for the page. Use 'My first research page' or any other title.</li>\r\n\t<li><strong>Page ID:</strong> Page ID is unique information that the research portal (https://hugeampkpn.org) uses to pull configuration information to construct a research page. In this case, just fill in something unique, such as 'your_name_first_page.' We will discuss later how to create unique page IDs.&nbsp;</li>\r\n\t<li><strong>Data Points:</strong> Add the name of the file that you just uploaded, demo.csv, here.&nbsp;</li>\r\n\t<li><strong>Page Mode:</strong> Scroll all the way down to the 'Page Mode' dropdown menu. Set it to 'public.'</li>\r\n</ul>\r\n\r\n<p>Then click the <strong>Save</strong> button to save the node.&nbsp;</p>\r\n\r\n<p>You have just created your first research page. Now let's see how the page looks. Copy this URL (https://hugeamp.org/research.html?pageid=your_first_research_page) and replace 'your_first_research_page' with your page id. Then open a browser window with the URL. You'll see a page that looks similar to this one:</p>\r\n\r\n<p><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"bcb1d7a4-07cc-4d55-bca9-f4eaaf3eb5e7\" height=\"545\" src=\"/sites/default/files/users/user1/Screen%20Shot%202021-10-19%20at%204.42.42%20PM.png\" width=\"1453\" /></p>\r\n\r\n<p>If your page doesn't load, check whether the Page ID is correct. If you see a 'page not published' message, you didn't set the page mode to public. If you see a page similar to the one above, then your first research page has been published successfully!</p>\r\n",
+  "published": true,
+  "legacyPath": null,
+  "bookId": 37,
+  "parentId": 37,
+  "weight": 1,
+  "depth": 2,
+  "outlinePath": [
+    37,
+    39
+  ]
+}

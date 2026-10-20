@@ -1,0 +1,14 @@
+{
+  "contentType": "news",
+  "drupalNodeId": 735,
+  "title": "CFDE meets Terra: Visit our new workspace!",
+  "bodyHtml": "<p>CFDE analysis results from the Knowledge Center are now available through <a href=\"https://terra.bio\" target=\"_blank\">Terra</a>, a platform for secure data sharing, analysis, and collaborative research. The CFDE Terra workspace now features Knowledge Center analysis results including differential expression data from GTEx and Kids First, gene set analyses, and Knowledge Center assertions that have also been submitted to the Data Distillery. Additionally, we have added a WDL-based workflow to enable users to perform their own gene set analyses and compare CFDE gene sets to their own gene sets. Begin exploring the <a href=\"https://app.terra.bio/#workspaces/cfde-kc/Common%20Fund%20Data%20Ecosystem%20Analyses\" target=\"_blank\">CFDE Terra Workspace</a> today.</p><p><span style=\"background-color:transparent;border-width:medium;color:rgb(0, 0, 0);display:inline-block;font-family:Arial, sans-serif;font-size:11pt;font-style:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-emoji:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-weight:400;height:500px;overflow:hidden;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;width:572px;\"><img style=\"margin-left:0px;margin-top:0px;\" src=\"https://hugeampkpncms.org/sites/default/files/images/Terra.png\" width=\"572\" height=\"500\"></span></p>",
+  "summary": "CFDE has now expanded to Terra  with a workspace featuring analysis results from the Knowledge Center and workflows enabling users to bring their own gene sets.",
+  "thumbnailHtml": "<p><span style=\"background-color:transparent;border-width:medium;color:rgb(0, 0, 0);display:inline-block;font-family:Arial, sans-serif;font-size:11pt;font-style:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-emoji:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-weight:400;height:500px;overflow:hidden;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;width:572px;\"><img style=\"margin-left:0px;margin-top:0px;\" src=\"https://hugeampkpncms.org/sites/default/files/images/Terra.png\" width=\"572\" height=\"500\"></span></p>",
+  "project": "cfde",
+  "published": true,
+  "legacyPath": null,
+  "publishedAt": "2025-03-20T01:04:11.000Z",
+  "updatedAt": "2025-03-20T18:38:41.000Z",
+  "promoted": true
+}

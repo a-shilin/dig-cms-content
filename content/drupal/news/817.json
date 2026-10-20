@@ -1,0 +1,14 @@
+{
+  "contentType": "news",
+  "drupalNodeId": 817,
+  "title": "NIDDK Grants $3.4M to Unlock Genetic & Environmental Drivers of Type 1 Diabetes",
+  "bodyHtml": "<p>A new study has just been awarded $3.4 million in funding by the NIH National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK) to investigate how genetic and environmental factors combine to trigger autoimmune destruction of insulin-producing beta cells in type 1 diabetes (T1D).</p><p>The grant supports a four-year collaboration between Dr. Shuibing Chen of Weill Cornell Medicine and Dr. Stephen Parker of the University of Michigan’s Caswell Diabetes Institute. Chen will lead the project while Parker will serve as multi-principal investigator.</p><p>The study will address the following research areas:</p><p>Genetic risk loci: Previous work has identified more than 100 regions in the human genome associated with increased risk for type 1 diabetes. Most of these lie in non-coding parts of the genome, meaning they may affect regulation of genes rather than the genes themselves.</p><p>Regulatory roles: The researchers aim to pinpoint how these variants regulate gene activity or transcript splicing — in which environmental contexts they become active, and how their effects differ in people who go on to develop T1D versus those who do not.</p><p>Organoid modeling &amp; longitudinal molecular profiling: To mimic pancreas tissue, the team will use 3D organoid models to observe how beta cells and immune cells behave, interact, and change over time. This will be combined with high-resolution molecular profiling to track changes in individual cell types.</p><p>To learn more, register for our <a https:=\"\" us02web.zoom.us=\"\" meeting=\"\" register=\"\">webinar</a> or read more at <a href=\"https://diabetes.med.umich.edu/events-news/news/new-funding-deep-study-how-type-1-diabetes-develops\">here</a>.</p>",
+  "summary": "PanKbase researchers Dr. Shuibing Chen of Weill Cornell Medicine and Dr. Stephen Parker of the University of Michigan have secured a $3.4 million NIH grant to investigate the interplay of genetic risk variants and environmental triggers in how type 1 diabetes develops. Using tools like organoid models and detailed molecular profiling, the study aims to reveal what causes the immune system to attack insulin-producing beta cells, potentially facilitating early detection and intervention. ",
+  "thumbnailHtml": "<p><img src=\"https://hugeampkpncms.org/sites/default/files/images/pankbase/news/Chen_Parker_news.png\" width=\"1024\" height=\"819\"></p>",
+  "project": "pankbase",
+  "published": true,
+  "legacyPath": null,
+  "publishedAt": "2025-09-12T13:35:02.000Z",
+  "updatedAt": "2025-09-12T13:49:30.000Z",
+  "promoted": true
+}

@@ -1,0 +1,13 @@
+{
+  "contentType": "communityPortal",
+  "drupalNodeId": 872,
+  "title": "Reproductive System Knowledge Portal",
+  "bodyHtml": "<p><img src=\"https://kp4cd.org/sites/default/files/images/reproductive_small.svg\" width=\"118\"></p>",
+  "portalAddress": "https://reproductive.hugeamp.org/",
+  "group": null,
+  "weight": 11,
+  "onA2fkp": true,
+  "published": true,
+  "legacyPath": null,
+  "promoted": true
+}

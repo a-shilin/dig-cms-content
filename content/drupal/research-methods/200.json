@@ -1,0 +1,8 @@
+{
+  "contentType": "researchMethod",
+  "drupalNodeId": 200,
+  "title": "Research method for Ascending aorta function effector gene predictions (Benjamins et al., 2022)",
+  "bodyHtml": "<p>These results were generated in the study:</p>\r\n\r\n<p>Genomic insights in ascending aortic size and distensibility.<br />\r\nBenjamins JW, <i>et al.</i><br />\r\nEBioMedicine. 2022 Jan;75:103783. doi: 10.1016/j.ebiom.2021.103783.<br />\r\nPMID: <a href=\"https://www.ncbi.nlm.nih.gov/pubmed/34968759\" target=\"_blank\"> 34968759</a></p>\r\n\r\n<p>Genome-wide association studies were performed for ascending aorta maximum and minimum area and distensibility, using cardiac magnetic resonance images from 37,910 UK Biobank participants. Three methods were then employed to prioritize potential causal genes in each genome-wide significant locus:</p>\r\n\r\n<ul>\r\n\t<li>Proximity: the nearest gene or any gene within 10kb of the lead SNP;</li>\r\n</ul>\r\n\r\n<ul>\r\n\t<li>the DEPICT method (DEPICT.v1.beta version rel137; <a href=\"https://pubmed.ncbi.nlm.nih.gov/25597830/\" target=\"_blank\">Pers TH <i>et al</i>., 2015</a>);</li>\r\n</ul>\r\n\r\n<ul>\r\n\t<li>Coding variant: genes with coding variants in high LD (r<sup>2</sup> &gt; 0.8) with the lead SNP.</li>\r\n</ul>\r\n\r\n<p>'1' in the \"Syndromal\" column in the table&nbsp;indicates that a gene prioritized at that locus by any of the three methods has been implicated in syndromic, familial, and sporadic aneurysm.</p>\r\n",
+  "published": true,
+  "legacyPath": null
+}

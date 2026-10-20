@@ -1,0 +1,10 @@
+{
+  "contentType": "researchPageHeader",
+  "drupalNodeId": 929,
+  "title": "KPN Blog header menu",
+  "menu": "[\r\n{\"label\":\"Blog home\",\"link\":\"/r/kpn_blog\"},\r\n{\"label\":\"Authors\",\"link\":\"/r/kpn_blog-authors\"},\r\n{\"label\":\"KP4CD.ORG\",\"link\":\"https://kp4cd.org/\"}\r\n]",
+  "logoHtml": "<p class=\"kp-logo-wrapper\"><a href=\"/r/kpn-blog\"><img class=\"kp-logo\" src=\"https://hugeampkpncms.org/sites/default/files/images/KPN_Blog/KPN_logo_blog.svg\"></a></p>",
+  "styleCss": ".kp-logo { height: 70px; margin-left: 20px; }\r\n.kp-logo-wrapper { float: left; }\r\n.research-portal-header { height: 90px; background-color: #ffffff; border-bottom: solid 1px #dddddd }\r\n.research-portal-header  ul { float: right; font-size: 16px; margin-top: 25px; padding-right: 40px; }\r\n.research-header-menu-wrapper ul li.menu a { color: #333333 !important; font-size: 18px !important;}\r\n.research-header-menu-wrapper ul li.menu a:hover { color: #000000 !important; }\r\n.paper-footer-wrapper { background-color: #4480b2; }\r\n\r\n.mdkp-body {\r\n    background-color: #ffffff;\r\n    width: 1024px;\r\n    margin: auto;\r\n    font-size: 1.35em;\r\n}\r\n\r\n.card {\r\n    border: none !important;\r\n}\r\n\r\nbody.kp-default {\r\n    background-color: #ffffff;\r\n    font-family: serif;\r\n}\r\n\r\n.dataset-page-header .col-md-8 {\r\n    display: block !important;\r\n    margin: auto;\r\n    width: 100% !important;\r\n    text-align: center;\r\n}\r\n\r\n.dataset-page-header h3 {\r\n    font-size: 3.5rem;\r\n}\r\n\r\n.kp-tabs-contents {\r\n    display: none;\r\n}",
+  "published": true,
+  "legacyPath": null
+}

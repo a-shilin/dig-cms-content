@@ -1,0 +1,13 @@
+{
+  "contentType": "communityPortal",
+  "drupalNodeId": 867,
+  "title": "Lipid Droplet Knowledge Portal",
+  "bodyHtml": "<p><img src=\"https://kp4cd.org/sites/default/files/images/lipid_small.svg\" width=\"120\"></p>",
+  "portalAddress": "http://lipiddroplet.org/",
+  "group": null,
+  "weight": 5,
+  "onA2fkp": true,
+  "published": true,
+  "legacyPath": null,
+  "promoted": true
+}

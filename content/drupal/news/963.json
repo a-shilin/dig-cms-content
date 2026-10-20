@@ -1,0 +1,14 @@
+{
+  "contentType": "news",
+  "drupalNodeId": 963,
+  "title": "Join us for the July 9th, 2026 PanKbase Office Hours",
+  "bodyHtml": "<p>Join us for the next PanKbase Office Hours:<br>? Identifying disease-associated cellular states in the pancreas<br>? Thursday, July 9th, 2026<br>⏰ 12:00–1:00 PM ET<br>?️ Featured speaker: Kyle Gaulton, PhD, UCSD</p><p>What topics will we cover in this forum:</p><ul><li>Definition of cellular states/gene programs in a cell type by combining manual curation with computational inference of single cell data, and how input from experts can help improve these programs</li><li>Approaches for determining which states/gene programs are involved in disease by combining genetic risk enrichment and genomic changes in disease</li><li>Tools for interactive visualization of states/programs in each cell type including important genes and disease risk/association</li></ul><p><br>? Register for the event: <a href=\"https://broadinstitute.zoom.us/webinar/register/WN__dgDoIUZSVyPwKvZ3Xx7mQ\">https://broadinstitute.zoom.us/webinar/register/WN__dgDoIUZSVyPwKvZ3Xx7mQ</a></p><p><img src=\"https://hugeampkpncms.org/sites/default/files/users/user30/July%209th%2C%202026%20KPN%20Webinar.png\" width=\"960\" height=\"540\" data-entity-type=\"file\" data-entity-uuid=\"a5c3c44a-21ff-4362-bdbb-49ddcc78fd5c\" alt=\"\"></p>",
+  "summary": "Kyle Gaulton, PhD, UCSD will present Identifying disease-associated cellular states in the pancreas",
+  "thumbnailHtml": "<p><img src=\"https://hugeampkpncms.org/sites/default/files/users/user30/July%209th%2C%202026%20KPN%20Webinar.png\" width=\"960\" height=\"540\" data-entity-type=\"file\" data-entity-uuid=\"a5c3c44a-21ff-4362-bdbb-49ddcc78fd5c\" alt=\"\"></p>",
+  "project": "Pankbase",
+  "published": true,
+  "legacyPath": null,
+  "publishedAt": "2026-07-01T15:50:36.000Z",
+  "updatedAt": "2026-07-01T15:53:13.000Z",
+  "promoted": true
+}

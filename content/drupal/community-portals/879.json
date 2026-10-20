@@ -1,0 +1,13 @@
+{
+  "contentType": "communityPortal",
+  "drupalNodeId": 879,
+  "title": "Cardiovascular Disease Knowledge Portal",
+  "bodyHtml": "<p><img src=\"https://kp4cd.org/sites/default/files/cvd_small.svg\"></p>",
+  "portalAddress": "http://www.broadcvdi.org/",
+  "group": "cardiometabolic_group",
+  "weight": 2,
+  "onA2fkp": true,
+  "published": true,
+  "legacyPath": null,
+  "promoted": true
+}

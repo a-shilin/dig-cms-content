@@ -1,0 +1,10 @@
+{
+  "contentType": "researchPageHeader",
+  "drupalNodeId": 338,
+  "title": "Multi-trait analyses for Ocular phenotypes header",
+  "menu": "[\r\n  {\"label\":\"Home\",\"link\":\"/dinspector.html?dataset=Zekavat2021_RetinalLayerThickness_EU\"},\r\n{\"label\":\"Association analyses\",\"link\":\"javascript:;\",\"subMenu\":[\r\n    {\"label\":\"Associations of prevalent disease with retinal layer thicknesses\",\"link\":\"/research.html?pageid=ocular_maryam_prevalent_2023\"},\r\n    {\"label\":\"Associations of retinal layer thicknesses with incident phenotypes\",\"link\":\"/research.html?pageid=ocular_maryam_incident_2023\"},\r\n    {\"label\":\"Association of 88 quantitative traits and blood biomarkers with retinal layer thicknesses\",\"link\":\"/research.html?pageid=ocular_maryam_quantitative_2023\"}\r\n    ]}\r\n]",
+  "logoHtml": null,
+  "styleCss": null,
+  "published": true,
+  "legacyPath": null
+}

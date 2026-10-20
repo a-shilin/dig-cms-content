@@ -1,0 +1,14 @@
+{
+  "contentType": "news",
+  "drupalNodeId": 852,
+  "title": "HIRN Announces Data Scholar Award: Please Welcome Dr. Matthew Ishahak to PanKbase",
+  "bodyHtml": "<p class=\"css-qffaiu e178251s9\">The Human Islet Research Network (HIRN) has named Dr. Matthew Ishahak, PhD, as one of the recipients of this year’s Data Scholars Leveraging Multi-Modal Human Islet Research Network Knowledge (LINK) competition. Dr. Ishahak will be bringing his expertise to the Pancreas Knowledgebase Program (PanKbase) in the new year. &nbsp;</p><p>Dr. Ishahak earned his PhD in Biomedical Engineering from the University of Miami and is currently a Postdoctoral Fellow at Washington University School of Medicine in St. Louis. His research centers on developing in vitro models of human diseases using engineered organoids and leveraging advanced sequencing technologies to explore the mechanisms behind disease progression.</p><p>As part of his HIRN Data Scholar project, titled “Inferring and Perturbing Gene Regulatory Networks During Diabetes Progression,” Dr. Ishahak aims to uncover how diabetes disrupts gene regulatory networks within pancreatic islets. By integrating single cell transcriptomic and chromatin accessibility data from both healthy and diabetic individuals, the project will characterize cell state–specific gene regulatory networks for all pancreatic islet cell types. Through simulated genetic perturbation experiments, Dr. Ishahak and his team seek to identify key transcription factors driving diabetes progression. The anticipated outcome is a suite of new computational approaches that harness patient data to elucidate the mechanisms behind islet dysfunction in diabetes.</p><p>Please join us in welcoming Dr. Ishahak to PanKbase, and congratulating him—and fellow awardee Dr. Liu Wang—on being selected for this recognition.</p><p>&nbsp;</p>",
+  "summary": "Dr. Matthew Ishahak, PhD, joins HIRN’s Pancreas Knowledgebase Program (PanKbase) as a Data Scholar, bringing his expertise in engineered organoids and advanced sequencing technologies. His project will use multi-omic data to unravel how diabetes disrupts gene regulatory networks in pancreatic islet cells, aiming to identify key drivers of disease progression.",
+  "thumbnailHtml": "<p><img src=\"https://hugeampkpncms.org/sites/default/files/Ishahak_Announcement.png\" width=\"446\" height=\"650\" data-entity-type=\"file\" data-entity-uuid=\"87394af1-dac0-4244-a45a-af6f6fc61bb6\" alt=\"\"></p>",
+  "project": "pankbase",
+  "published": true,
+  "legacyPath": null,
+  "publishedAt": "2025-12-12T17:30:12.000Z",
+  "updatedAt": "2025-12-12T17:34:52.000Z",
+  "promoted": true
+}

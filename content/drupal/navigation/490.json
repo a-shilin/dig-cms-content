@@ -1,0 +1,10 @@
+{
+  "contentType": "researchPageHeader",
+  "drupalNodeId": 490,
+  "title": "CVDI Human Disease Portal Header Menu",
+  "menu": "[\r\n{\"label\":\"Home\",\"link\":\"/r/humandiseasecvdi\"},\r\n{\"label\":\"Results\",\"link\":\"/r/humandiseasecvdi_public\"},\r\n{\"label\":\"Results (V2)\", \"link\":\"/r/humandiseasecvdi_private_v2\"},\r\n{\"label\":\"Methods\",\"link\":\"/r/humandiseasecvdi_methods\"}\r\n]",
+  "logoHtml": "<p class=\"kp-logo-wrapper\"><img class=\"kp-logo\" src=\"https://hugeampkpncms.org/sites/default/files/users/user1/600_header_logo.svg\"></p>",
+  "styleCss": ".kp-logo { height: 70px; margin-left: 20px; }\r\n.kp-logo-wrapper { float: left; }\r\n.research-portal-header { height: 90px; background-color: #4480b2; }\r\n.research-portal-header  ul { float: right; font-size: 16px; margin-top: 25px; padding-right: 40px; }\r\n.paper-footer-wrapper { background-color: #4480b2; }",
+  "published": true,
+  "legacyPath": null
+}

@@ -1,0 +1,8 @@
+{
+  "contentType": "researchMethod",
+  "drupalNodeId": 210,
+  "title": "Research method for Age-related macular degeneration predicted effector genes (Orozco et al., 2020)",
+  "bodyHtml": "<p>These results are from the study:</p>\r\n\r\n<p>Integration of eQTL and a Single-Cell Atlas in the Human Eye Identifies Causal Genes for Age-Related Macular Degeneration.<br />\r\nOrozco LD, <i>et al.</i><br />\r\nCell Rep. 2020 Jan 28;30(4):1246-1259.e6. doi: 10.1016/j.celrep.2019.12.082.<br />\r\nPMID: <a href=\"https://www.ncbi.nlm.nih.gov/pubmed/31995762\" target=\"_blank\"> 31995762 </a></p>\r\n\r\n<p>The authors generated an <a href=\"http://eye-eqtl.com/\" target=\"_blank\">eye eQTL database</a> by performing bulk RNA-seq on human retinal pigment epithelium (RPE)/choroid and retina tissues of both macular and non-macular regions from 129 human donor eyes and genotyping of SNPs on 121 donor eyes.</p>\r\n\r\n<p>At each of 35 loci that were significantly associated with AMD risk in two previous GWAS (<a href=\"https://pubmed.ncbi.nlm.nih.gov/26691988/\" target=\"_blank\">Fritsche <i>et al.</i> 2016</a>, <a href=\"https://pubmed.ncbi.nlm.nih.gov/28813576/\" target=\"_blank\">Persad <i>et al.</i> 2017</a>), they performed co-localization of eQTLs and GWAS SNPs using the COLOC method (<a href=\"https://pubmed.ncbi.nlm.nih.gov/24830394/\" target=\"_blank\">Giambartolomei <i>et al</i>., 2014</a>). All SNPs across each locus were tested for co-localization. COLOC probabilities range from 0 to 1, with results closer to 1 indicating a higher probability that the same variant is causal for the GWAS signal and for the association with gene expression levels.</p>\r\n",
+  "published": true,
+  "legacyPath": null
+}

@@ -1,0 +1,17 @@
+{
+  "contentType": "bookPage",
+  "drupalNodeId": 54,
+  "title": "8-1. Manhattan plot",
+  "bodyHtml": "<p>The vector graphics version of the Manhattan plot comes with a few unique features:</p>\r\n\r\n<p>1) Items on the plot can be merged by their locations, from 1bp to 10 Mbp.</p>\r\n\r\n<p><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"ee902149-0089-4b23-8e01-b9799c6aab83\" src=\"https://hugeampkpncms.org/sites/default/files/users/user1/Screen%20Shot%202022-02-08%20at%202.17.22%20PM.png\" width=\"800\" /></p>\r\n\r\n<p>2) Each chromosome can be expanded for a zoomed view.</p>\r\n\r\n<p><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"347ab2ec-0ef4-4c52-970b-f69ed66aa94b\" src=\"https://hugeampkpncms.org/sites/default/files/users/user1/Screen%20Shot%202022-02-08%20at%202.29.08%20PM.png\" width=\"800\" /></p>\r\n\r\n<p>3) Dots can be linked to any web pages that take location values as \"chr\", \"start\", and \"end\" parameters.</p>\r\n\r\n<h2>Format</h2>\r\n\r\n<p>{<br />\r\n\"type\":\"manhattan plot\",<br />\r\n\"x axis field\": \"position value\", //Value for \"position\" can be formatted \"chr : start - end\" or \"chr : position.\"<br />\r\n\"y axis field\": \"value\",<br />\r\n\"render by\": \"key field value\",<br />\r\n\"y axis label\": \"label\",<br />\r\n\"x axis label\": \"label\",<br />\r\n\"link to\":\"link value\",<br />\r\n\"hover content\": [\"field 1\",\"field 2\"]<br />\r\n}</p>\r\n\r\n<h2>Example (<a href=\"https://hugeampkpn.org/research.html?pageid=demo_2_1_n101\">https://hugeampkpn.org/research.html?pageid=demo_2_1_n101</a>)</h2>\r\n\r\n<p>{<br />\r\n\"type\":\"manhattan plot\",<br />\r\n\"x axis field\": \"Region\",<br />\r\n\"y axis field\": \"Top score\",<br />\r\n\"render by\": \"Gene\",<br />\r\n\"y axis label\": \"Top score\",<br />\r\n\"x axis label\": \"Region\",<br />\r\n\"link to\":\"/region.html\",<br />\r\n\"hover content\": [\"Region\",\"Curated Approach probability\",\"Curated Approach locus\",\"EPI probability\",\"EPI locus\",\"ICP probability\",\"ICP locus\"]<br />\r\n}</p>\r\n\r\n<p><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"9841f712-2703-483d-acf0-0e5c733ce7c5\" src=\"https://hugeampkpncms.org/sites/default/files/users/user1/Screen%20Shot%202022-02-08%20at%202.45.45%20PM.png\" width=\"800\" /></p>\r\n",
+  "published": true,
+  "legacyPath": null,
+  "bookId": 37,
+  "parentId": 48,
+  "weight": 0,
+  "depth": 3,
+  "outlinePath": [
+    37,
+    48,
+    54
+  ]
+}

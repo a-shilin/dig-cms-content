@@ -1,0 +1,13 @@
+{
+  "contentType": "communityPortal",
+  "drupalNodeId": 871,
+  "title": "Sleep Disorder Knowledge Portal",
+  "bodyHtml": "<p><img src=\"https://kp4cd.org/sites/default/files/sleep_small.svg\"></p>",
+  "portalAddress": "http://sleepdisordergenetics.org/",
+  "group": "cardiometabolic_group",
+  "weight": 12,
+  "onA2fkp": true,
+  "published": true,
+  "legacyPath": null,
+  "promoted": true
+}

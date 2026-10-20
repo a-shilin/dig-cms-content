@@ -1,0 +1,13 @@
+{
+  "contentType": "communityPortal",
+  "drupalNodeId": 870,
+  "title": "Type 1 Diabetes Knowledge Portal",
+  "bodyHtml": "<p><img src=\"https://kp4cd.org/sites/default/files/images/t1d_small.svg\"></p>",
+  "portalAddress": "https://t1d.hugeamp.org/",
+  "group": "cardiometabolic_group",
+  "weight": 13,
+  "onA2fkp": true,
+  "published": true,
+  "legacyPath": null,
+  "promoted": true
+}

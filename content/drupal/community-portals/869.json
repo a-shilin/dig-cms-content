@@ -1,0 +1,13 @@
+{
+  "contentType": "communityPortal",
+  "drupalNodeId": 869,
+  "title": "Type 2 Diabetes Knowledge Portal",
+  "bodyHtml": "<p><img src=\"https://kp4cd.org/sites/default/files/t2d_small.svg\"></p>",
+  "portalAddress": "http://www.type2diabetesgenetics.org/",
+  "group": "cardiometabolic_group",
+  "weight": 14,
+  "onA2fkp": true,
+  "published": true,
+  "legacyPath": null,
+  "promoted": true
+}

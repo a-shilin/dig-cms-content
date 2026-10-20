@@ -1,0 +1,13 @@
+{
+  "contentType": "communityPortal",
+  "drupalNodeId": 881,
+  "title": "Association to Function Knowledge Portal",
+  "bodyHtml": "<p><img src=\"https://kp4cd.org/sites/default/files/images/a2fkp_for_noel.png\" width=\"118\"></p>",
+  "portalAddress": "https://a2f.hugeamp.org/",
+  "group": null,
+  "weight": 0,
+  "onA2fkp": false,
+  "published": true,
+  "legacyPath": null,
+  "promoted": true
+}

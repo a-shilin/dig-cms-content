@@ -1,0 +1,16 @@
+{
+  "contentType": "bookPage",
+  "drupalNodeId": 42,
+  "title": "5. Data table",
+  "bodyHtml": "<p>The research portal renders data in a table which comes with built-in sorting, pagination, and download functions. It can render raw data in the table, and can also format the data in many ways at the point of loading to the viewer's browser. In the following pages, we will discuss how to build a configuration to format data.&nbsp;</p>\r\n\r\n<p>Here is how the table looks on the research portal:</p>\r\n\r\n<p><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"5667dfa0-76bd-42c5-8ea0-f5713441573a\" src=\"https://hugeampkpncms.org/sites/default/files/users/user1/Screen%20Shot%202021-10-21%20at%201.56.09%20PM.png\" width=\"800\" /></p>\r\n",
+  "published": true,
+  "legacyPath": null,
+  "bookId": 37,
+  "parentId": 37,
+  "weight": 4,
+  "depth": 2,
+  "outlinePath": [
+    37,
+    42
+  ]
+}

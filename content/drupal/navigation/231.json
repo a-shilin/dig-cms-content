@@ -1,0 +1,10 @@
+{
+  "contentType": "researchPageHeader",
+  "drupalNodeId": 231,
+  "title": "AMP CMD FGP header menu",
+  "menu": "[\r\n{\"label\":\"About\",\"link\":\"/research.html?pageid=AMP_CMD_consortium\"},\r\n{\"label\":\"NIDDK Awards\",\"link\":\"/research.html?pageid=niddk_awards\"},\r\n{\"label\":\"FNIH Awards\",\"link\":\"https://hugeamp.org/research.html?pageid=fnih_awards\"},\r\n{\"label\":\"Opportunity Pool\",\"link\":\"/research.html?pageid=OP_abstracts\"},\r\n{\"label\":\"People\",\"link\":\"research.html?pageid=ampcmd_people_233\"}\r\n]",
+  "logoHtml": null,
+  "styleCss": ".research-portal-header-compact {\r\nbackground-color: #ffffff !important;\r\nbackground-image: url(https://hugeampkpncms.org/sites/default/files/users/user1/amp_cmd_body_bg.svg) !important;\r\nbackground-position: center !important;\r\nbackground-repeat: no-repeat !important;\r\nbackground-size: cover !important;\r\nheight: 33px;\r\npadding: 7px 0 0px 0 !important;\r\nposition: relative;\r\n}\r\n\r\n.research-portal-header-compact ul li.menu a {\r\n    color: #006bbb !important;\r\n    font-weight: 400;\r\n    font-size: 16px;\r\n}",
+  "published": true,
+  "legacyPath": null
+}

@@ -1,0 +1,10 @@
+{
+  "contentType": "researchPageHeader",
+  "drupalNodeId": 4,
+  "title": "Demo menu for the demo portal",
+  "menu": "[\r\n{\"label\":\"Home\",\"link\":\"/research.html?pageid=demo_home_70\"},\r\n{\"label\":\"Page Description\",\"link\":\"/research.html?pageid=demo_page_description_105\"},\r\n{\"label\":\"No configuration\",\"link\":\"/research.html?pageid=demo_no_configuration_9\"},\r\n{\"label\":\"Filters\",\"link\":\"/research.html?pageid=demo_filters_139\"},\r\n{\"label\":\"Sub-tables\",\"link\":\"/research.html?pageid=demo_sub_rows_1\"},\r\n{\"label\":\"Visualizers\",\"link\":\"javascript:;\",\"subMenu\":[\r\n  {\"label\":\"Manhattan Plot (vector)\",\"link\":\"/research.html?pageid=demo_vector_m_101\"},\r\n  {\"label\":\"Manhattan Plot (Bitmap)\",\"link\":\"/research.html?pageid=demo_bitmap_m_12\"},\r\n  {\"label\":\"Volcano Plot\",\"link\":\"/research.html?pageid=demo_volcano_2\"},\r\n  {\"label\":\"Heatmap\",\"link\":\"/research.html?pageid=demo_heatmap_5\"},\r\n  {\"label\":\"Region plot\",\"link\":\"/research.html?pageid=demo_region_91\"},\r\n{\"label\":\"PheWAS plot (with direction)\",\"link\":\"/research.html?pageid=demo_phewas_117\"},\r\n{\"label\":\"PheWAS plot (without direction)\",\"link\":\"/research.html?pageid=demo_phewas_nd_140\"}]},\r\n  {\"label\":\"Data\",\"link\":\"javascript:;\",\"subMenu\":[\r\n    {\"label\":\"Static region data\",\"link\":\"/research.html?pageid=demo_static_region_104\"}\r\n    ]}\r\n]",
+  "logoHtml": "<p><img alt=\"\" height=\"60\" src=\"https://hugeampkpncms.org/sites/default/files/users/user3/demo_portal_logo.png\" /></p>\r\n",
+  "styleCss": ".research-portal-header {\r\nbackground-color: #bbccc7 !important;\r\n}\r\n\r\n.paper-footer-wrapper {\r\n    background-color: #bbccc7 !important;\r\n}\r\n\r\n.research-header-menu-wrapper ul li.menu a {\r\n    color: #0d6953 !important;\r\n}\r\n\r\n.research-header-menu-wrapper ul li.menu a:hover {\r\n    color: #0d695375 !important;\r\n}",
+  "published": true,
+  "legacyPath": null
+}

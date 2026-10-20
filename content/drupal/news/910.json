@@ -1,0 +1,14 @@
+{
+  "contentType": "news",
+  "drupalNodeId": 910,
+  "title": "University of Michigan Seeks Postdoctoral Researcher - AI for Biomedical Data",
+  "bodyHtml": "<h2>Postdoctoral Researcher – AI for Biomedical Data</h2><p><strong>Department</strong>: Gilbert S. Omenn Department of Computational Medicine and Bioinformatics (DCMB), University of Michigan Medical School&nbsp;</p><p><strong>Location</strong>: NCRC Building 520, Ann Arbor, MI&nbsp;</p><p><strong>Position Type</strong>: Full-time Research Assistant&nbsp;</p><p><strong>Contact</strong>: <a href=\"mailto:kailiua@umich.edu\">kailiua@umich.edu</a> | Subject line: \"Postdoctoral Researcher Application - AI for Biomedical Data\"</p><h2>Position Overview</h2><p>We are seeking a highly motivated Postdoctoral Researcher to join our interdisciplinary lab in the Medical School at the University of Michigan, working at the intersection of AI and biomedicine.</p><h2>Research Focus</h2><ul><li>AI / machine learning for biomedical data</li><li>Foundation models for multi-omics and clinical data</li><li>Multimodal data integration (genomics, imaging, clinical)</li><li>Data-driven disease research (e.g., Type 1 Diabetes)</li></ul><h2>Responsibilities</h2><ul><li>Develop advanced AI models (deep learning, foundation models)</li><li>Analyze large-scale biomedical datasets</li><li>Collaborate with interdisciplinary teams</li><li>Contribute to publications and mentoring</li></ul><h2>Qualifications</h2><p><strong>Required:</strong></p><ul><li>PhD in CS, Data Science, Bioinformatics, or related field</li><li>Strong AI/ML background and Python skills</li><li>Experience with PyTorch or TensorFlow</li></ul><p><strong>Preferred:</strong></p><ul><li>Experience with foundation models or large-scale data</li><li>Familiarity with biomedical data</li></ul><h2>Why Join Us</h2><ul><li>Work on advanced AI with real-world biomedical impact</li><li>Access to rich multimodal datasets</li><li>Collaborative, interdisciplinary environment</li></ul><div class=\"apply\"><strong>Application:</strong><br>Please send your CV, research statement, and publications (if available) to <a href=\"mailto:kailiua@umich.edu\">kailiua@umich.edu</a> with the subject line <strong>\"Postdoctoral Researcher Application – AI for Biomedical Data\"</strong>.<br>Interested candidates may also consider postdoctoral fellowship opportunities through MIDAS: <a href=\"https://midas.umich.edu/training/postdoctoral-programs/\">https://midas.umich.edu/training/postdoctoral-programs/</a></div>",
+  "summary": "The University of Michigan is looking for a Postdoctoral Researcher to join an interdisciplinary team advancing AI-driven research in biomedical data integration and disease modeling.",
+  "thumbnailHtml": null,
+  "project": "pankbase",
+  "published": true,
+  "legacyPath": null,
+  "publishedAt": "2026-03-26T16:23:47.000Z",
+  "updatedAt": "2026-03-26T16:33:24.000Z",
+  "promoted": true
+}

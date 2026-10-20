@@ -1,0 +1,17 @@
+{
+  "contentType": "bookPage",
+  "drupalNodeId": 43,
+  "title": "5-1. No configuration is a configuration: Data Table Format",
+  "bodyHtml": "<p>You have a data file already formatted in a way you wanted. The headers are worded correctly. No columns need to be removed or joined to another column. The table contents do not include hyperlinks. In this case, you can skip the configuration step and leave the Data Table Format field empty. The research portal will load and render your data in a table.&nbsp;</p>\r\n\r\n<p>However, if you want to make any changes to the way your data are presented in the table, you can configure the formatting in the Data Table Format field. In the following pages, you will find options for formatting your data.&nbsp;</p>\r\n\r\n<p>One thing to keep in your mind is that, if any 'data convert' configuration is added to the field, the research portal's rendering system will ignore the format in the raw data. For example, if you have the following data which has 6 columns.</p>\r\n\r\n<p>CHR,POS,REF,ALT,RSID,PVAL<br />\r\n1,721290,G,C,rs12565286,3.8345e-02<br />\r\n1,976963,A,G,rs150359724,4.3785e-03<br />\r\n1,1120431,G,A,rs1320571,2.3373e-02</p>\r\n\r\n<p>You want to join CHR and POS column to create LOCUS column. This case, the research portal will create a new set of data with only a LOCUS column to render in the data table, unless other columns are added in the configuration. Here is an example configuration with CHR and POS columns joined to Locus, and name changes:&nbsp;</p>\r\n\r\n<p>{<br />\r\n\"data convert\":[<br />\r\n{\"type\":\"join\", \"field name\":\"Locus\",\"fields to join\":[\"CHR\",\"POS\"],\"join by\":\":\"},<br />\r\n{\"type\":\"raw\",\"field name\":\"Reference Variant\",\"raw field\":\"REF\"},<br />\r\n{\"type\":\"raw\",\"field name\":\"Altered Variant\",\"raw field\":\"ALT\"},<br />\r\n{\"type\":\"raw\",\"field name\":\"RSID\",\"raw field\":\"RSID\"},<br />\r\n{\"type\":\"raw\",\"field name\":\"P-Value\",\"raw field\":\"PVAL\"}<br />\r\n],<br />\r\n\"top rows\":[\"Locus\",\"Reference Variant\",\"Altered Variant\",\"RSID\",\"P-Value\"]<br />\r\n}</p>\r\n\r\n<p>In this example, the 'data convert' section specifies the column joins and new column names. The 'top rows' section specifies the fields to be rendered.&nbsp;</p>\r\n\r\n<p>In the following pages, we will discuss the options for 'data convert.'</p>\r\n",
+  "published": true,
+  "legacyPath": null,
+  "bookId": 37,
+  "parentId": 42,
+  "weight": 0,
+  "depth": 3,
+  "outlinePath": [
+    37,
+    42,
+    43
+  ]
+}

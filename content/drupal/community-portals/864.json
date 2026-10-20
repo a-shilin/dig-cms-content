@@ -1,0 +1,13 @@
+{
+  "contentType": "communityPortal",
+  "drupalNodeId": 864,
+  "title": "Common Metabolic Diseases Knowledge Portal",
+  "bodyHtml": "<p><img src=\"https://kp4cd.org/sites/default/files/cmdkp_symbol_only_2024.svg\" alt=\"\"></p>",
+  "portalAddress": "https://hugeamp.org",
+  "group": "cardiometabolic_group",
+  "weight": 4,
+  "onA2fkp": true,
+  "published": true,
+  "legacyPath": null,
+  "promoted": true
+}

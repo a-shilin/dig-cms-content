@@ -1,0 +1,16 @@
+{
+  "contentType": "bookPage",
+  "drupalNodeId": 108,
+  "title": "13. Style your page / portal",
+  "bodyHtml": "<p>BYOR offers ways to style a single research page and to style across multiple research pages. This feature can be useful if you are building a portal with multiple pages and want to give it a unified look.&nbsp;</p>\r\n\r\n<p>First of all, you will need to know a little bit about CSS (Cascading Style Sheet) and element inspectors on any browsers. You can learn about CSS <a href=\"https://www.w3schools.com/css/\">here</a> and element inspectors <a href=\"https://www.hostinger.com/tutorials/website/how-to-inspect-and-change-style-using-google-chrome\">here</a>.&nbsp;</p>\r\n\r\n<h2>Style a Single Research Page</h2>\r\n\r\n<p>Demo:&nbsp;<a href=\"https://hugeampkpn.org/research.html?pageid=demo_vector_m_101\">https://hugeampkpn.org/research.html?pageid=demo_vector_m_101</a></p>\r\n\r\n<p><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"aeb720bf-1456-46c1-b3b9-b328f55bc981\" src=\"https://hugeampkpncms.org/sites/default/files/users/user1/Screen%20Shot%202022-03-02%20at%2010.26.00%20AM.png\" width=\"800\" /></p>\r\n\r\n<p>In the table shown above, you see that&nbsp;all columns are the same width, there is a gray background in the cells with no value, and some cells include red and green bar graphs. The image below shows how the same table would look without styling.</p>\r\n\r\n<p><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"95dedb51-dbac-49e4-98cd-66cbb0127d3d\" src=\"https://hugeampkpncms.org/sites/default/files/users/user1/Screen%20Shot%202022-03-02%20at%2010.38.15%20AM.png\" width=\"800\" /></p>\r\n\r\n<p>The table is styled by adding a few CSS styles to Page Style field in the research page configuring the demo page.&nbsp;</p>\r\n\r\n<p><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"653ab147-eb45-4a43-b6cd-6225fd9ee6b5\" src=\"https://hugeampkpncms.org/sites/default/files/users/user1/Screen%20Shot%202022-03-02%20at%2010.30.44%20AM.png\" width=\"800\" /></p>\r\n\r\n<h2>Style Your Portal</h2>\r\n\r\n<p>If you want to style your portal, it can be done in the \"Research Pages Header Menu\" node shared across your research pages.&nbsp;</p>\r\n\r\n<p>Please take a look at the demo portal. You can find that it comes with a logo in the header, and the header and footer are colored in greenish gray which is different from default blue color.&nbsp;</p>\r\n\r\n<p><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"bb2bc235-884e-4871-a152-c56675421d00\" src=\"https://hugeampkpncms.org/sites/default/files/users/user1/Screen%20Shot%202022-03-09%20at%203.39.36%20PM.png\" width=\"800\" /></p>\r\n\r\n<p>These elements can be styled by adding a logo image to the Header Logo field and adding CSS styles to the Portal Style field.</p>\r\n\r\n<p><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"a3b1dfb3-05a0-46d7-a3c5-37796286cc4f\" src=\"https://hugeampkpncms.org/sites/default/files/users/user1/Screen%20Shot%202022-03-09%20at%203.39.03%20PM.png\" width=\"800\" /></p>\r\n",
+  "published": true,
+  "legacyPath": null,
+  "bookId": 37,
+  "parentId": 37,
+  "weight": 13,
+  "depth": 2,
+  "outlinePath": [
+    37,
+    108
+  ]
+}

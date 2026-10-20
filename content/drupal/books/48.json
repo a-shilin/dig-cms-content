@@ -1,0 +1,16 @@
+{
+  "contentType": "bookPage",
+  "drupalNodeId": 48,
+  "title": "8. Adding a visualizer (Updated: 02/12/2022)",
+  "bodyHtml": "<p>Now you have your data loaded to the data table. Sorting the table works fine. You've set filters for the table. Now you can add a visualizer to help viewers to understand your data better.</p>\r\n\r\n<p>BYOR comes with 6 basic visualizers, plus a \"custom package\" option. In the following pages we will discuss each of them.&nbsp;</p>\r\n",
+  "published": true,
+  "legacyPath": null,
+  "bookId": 37,
+  "parentId": 37,
+  "weight": 7,
+  "depth": 2,
+  "outlinePath": [
+    37,
+    48
+  ]
+}

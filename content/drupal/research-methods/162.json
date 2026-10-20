@@ -1,0 +1,8 @@
+{
+  "contentType": "researchMethod",
+  "drupalNodeId": 162,
+  "title": "COVID-19 susceptibility and severity effector gene prediction method",
+  "bodyHtml": "<p>These results were generated in the following study:</p>\r\n\r\n<p>Prioritisation of Candidate Genes Underpinning COVID-19 Host Genetic Traits Based on High-Resolution 3D Chromosomal Topology.<br />\r\nThieke MJ, Yang EJ, <i>et al</i>.<br />\r\nFront Genet. 2021 Oct 25;12:745672. doi: 10.3389/fgene.2021.745672.<br />\r\nPMID: <a href=\"https://pubmed.ncbi.nlm.nih.gov/34759959/\" target=\"_blank\">34759959</a></p>\r\n\r\n<p>In this study, the COGS (Capture Hi-C Omnibus Gene Score) pipeline (<a href=\"https://pubmed.ncbi.nlm.nih.gov/27863249/\" target=\"_blank\">Javierre et al., 2016</a>; <a href=\"https://pubmed.ncbi.nlm.nih.gov/28870212/\" target=\"_blank\">Burren et al., 2017</a>) was applied to promoter capture Hi-C data (PCHi-C) data from 17 primary blood cell types (<a href=\"https://pubmed.ncbi.nlm.nih.gov/27863249/\" target=\"_blank\">Javierre et al., 2016</a>) and from a SARS-CoV-2-infected lung carcinoma cell line (Ho et al., 2021) along with genetic associations from four different analyses performed by the <a href=\"https://www.covid19hg.org/\" target=\"_blank\">COVID-19 Host Genetics Initiative</a> (<a href=\"https://www.covid19hg.org/results/r5/\" target=\"_blank\">release 5</a>).</p>\r\n\r\n<p>The four GWAS analyses were:</p>\r\n\r\n<ul>\r\n\t<li>A2: very severe respiratory confirmed COVID-19 vs. population</li>\r\n\t<li>B1: hospitalized COVID-19 vs. not hospitalized COVID-19</li>\r\n\t<li>B2: hospitalized COVID-19 vs. population</li>\r\n\t<li>C2: COVID-19 vs. population</li>\r\n</ul>\r\n",
+  "published": true,
+  "legacyPath": null
+}

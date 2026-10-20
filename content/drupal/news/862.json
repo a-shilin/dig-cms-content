@@ -1,0 +1,14 @@
+{
+  "contentType": "news",
+  "drupalNodeId": 862,
+  "title": "HIRN congratulates Enrique Eduardo Sanchez Castro as the PanKbase DEPOSIT award winner",
+  "bodyHtml": "<p class=\"css-qffaiu e178251s9\">We are thrilled to announce that Enrique Eduardo Sanchez Castro has been selected as the PanKbase DEPOSIT award winner, as part of the HIRN Data Scholars Initiative. Enrique is currently a PhD candidate in the laboratory of Dr. Jeffrey Millman at Washington University in St. Louis. &nbsp;</p><p>Enrique’s project aims to build a harmonized, metadata-rich, multiomic atlas of human stem cell-derived islet (SC-islet) differentiation, with the ultimate goal of fully integrating this resource into PanKbase. By unifying and standardizing diverse SC-islet datasets, his work will create a centralized, interoperable platform for the Type 1 Diabetes (T1D) research community to explore single-cell data from SC-islets.</p><p>This new resource is designed to enhance the reproducibility, accessibility, and overall value of existing datasets. By making high-quality, well-annotated data more widely available, Enrique’s project will help accelerate the development of more effective SC-islet differentiation strategies. In the long run, this work has the potential to drive progress toward improved diabetes therapies through regenerative medicine.</p><p>Please join us in congratulating Enrique on this well-deserved recognition, and stay tuned for more updates as his project progresses!</p><p>&nbsp;</p>",
+  "summary": "Enrique Eduardo Sanchez Castro, a PhD candidate at Washington University in St. Louis, has been awarded the PanKbase DEPOSIT award through the HIRN Data Scholars Initiative for his project to build a harmonized, multiomic atlas of stem cell-derived islet differentiation, which will advance data accessibility and research in diabetes therapy.",
+  "thumbnailHtml": "<p><img src=\"https://hugeampkpncms.org/sites/default/files/Headshot%20Ed%20red%20shirt_0.jpg\" width=\"600\" height=\"650\" data-entity-type=\"file\" data-entity-uuid=\"889d8859-4cb9-42ce-9677-e046ce14169f\" alt=\"\"></p>",
+  "project": "pankbase",
+  "published": true,
+  "legacyPath": null,
+  "publishedAt": "2026-02-02T20:15:35.000Z",
+  "updatedAt": "2026-02-02T20:28:05.000Z",
+  "promoted": true
+}

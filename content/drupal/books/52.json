@@ -1,0 +1,16 @@
+{
+  "contentType": "bookPage",
+  "drupalNodeId": 52,
+  "title": "6. Viewing multiple datasets on a table: Data comparison format (updated: 02/12/2022)",
+  "bodyHtml": "<p>If you have multiple sets of data and want to be able to compare them by sets of parameters, this configuration can help you. Two things you have to keep in mind in configuring this option are: 1) any parameter with a number value CAN NOT be the first parameter, and 2) any parameter with values with characters other than alphabetic and numerical CAN NOT be used to compare data. This is because the comparing parameter values are used for the ids in the HTML elements in rendering data, and HTML doesn't allow: 1) starting ids with numbers, and 2) having other than alphabetic and numerical characters.&nbsp;</p>\r\n\r\n<h2>Format</h2>\r\n\r\n<p>{<br />\r\n\"key field\":\"key field name\", //<br />\r\n\"fields group data key\":[\"parameter 1\",\"parameter 2\"],<br />\r\n\"fields to compare\":[\"field 1\",\"field 2\",\"field 3\",\"field 4\"]<br />\r\n}</p>\r\n\r\n<h2>Example</h2>\r\n\r\n<p>{<br />\r\n\"key field\":\"Variant ID\",<br />\r\n\"fields group data key\":[\"phenotype\",\"ancestry\"],<br />\r\n\"fields to compare\":[\"Ancestry\",\"-log10(P-Value)\",\"P-Value\",\"Beta\",\"MAF\",\"Standard Error\",\"Z Score\"]<br />\r\n}</p>\r\n\r\n<h2>How the UI looks</h2>\r\n\r\n<p><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"37afc600-2130-4459-ba57-82d79892e94f\" height=\"500\" src=\"https://hugeampkpncms.org/sites/default/files/users/user1/Screen%20Shot%202022-02-07%20at%2011.56.52%20AM.png\" width=\"229\" /></p>\r\n\r\n<h2>How queried data are displayed</h2>\r\n\r\n<p><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"601cd7ae-d992-4d94-a4c4-143a5e1e38fd\" src=\"https://hugeampkpncms.org/sites/default/files/users/user1/Screen%20Shot%202022-02-07%20at%2011.49.09%20AM.png\" width=\"800\" /></p>\r\n",
+  "published": true,
+  "legacyPath": null,
+  "bookId": 37,
+  "parentId": 37,
+  "weight": 5,
+  "depth": 2,
+  "outlinePath": [
+    37,
+    52
+  ]
+}

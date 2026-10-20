@@ -1,0 +1,10 @@
+{
+  "contentType": "researchPageHeader",
+  "drupalNodeId": 215,
+  "title": "600 Diseases portal header menu",
+  "menu": "[\r\n{\"label\":\"Home\",\"link\":\"/research.html?pageid=600_diseases_home\"},\r\n{\"label\":\"Phenotype search\",\"link\":\"/research.html?pageid=600_diseases_phenotypes\"},\r\n{\"label\":\"Gene search\",\"link\":\"/research.html?pageid=600_diseases_gene\"},\r\n{\"label\":\"Methods\",\"link\":\"/research.html?pageid=600_diseases_methods\"}\r\n]",
+  "logoHtml": "<h2 class=\"text-align-center\"><img src=\"https://hugeampkpncms.org/sites/default/files/users/user1/600_logo.png\" /> Broad CVDI Human Disease Portal</h2>\r\n",
+  "styleCss": ".research-header-menu-wrapper {\r\nbackground-color: steelblue;\r\n}\r\n.rp-header-logo h2{\r\ncolor: powderblue;\r\nfont-size: 30px !important;\r\n}\r\n\r\n.rp-header-logo h2 img {\r\nheight: 45px;\r\nmargin-right: 10px;\r\nvertical-align: -10px\r\n}\r\n.research-header-menu-wrapper li {\r\nfont-size: 16px;\r\n}\r\n\r\n.paper-footer-wrapper {\r\nbackground-color: steelblue;\r\n}",
+  "published": true,
+  "legacyPath": null
+}

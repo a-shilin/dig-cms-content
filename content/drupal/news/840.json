@@ -1,0 +1,14 @@
+{
+  "contentType": "news",
+  "drupalNodeId": 840,
+  "title": "A New Collaborative to Better Predict, Prevent, and Treat Type 1 Diabetes",
+  "bodyHtml": "<p class=\"css-qffaiu e178251s9\">An ambitious new research effort, Multimodal AI for Type 1 Diabetes (<strong class=\"css-1dyr6n3 e178251s8\">MAI-T1D)</strong>, funded by the NIH, is using artificial intelligence and multi-layered health data to improve how we predict, prevent, and treat Type 1 Diabetes. &nbsp;</p><p class=\"css-qffaiu e178251s9\">The project unites researchers from the University of Michigan, UCLA, Vanderbilt, Weill Cornell Medicine, and the University of South Florida. Led by Dr. Jie Liu (Michigan), the team includes Dr. Shuibing Chen (Weill Cornell, single-cell and spatial analysis), Dr. Marcela Brissova (Vanderbilt, islet biology), Dr. Kenneth Young (USF, AI and bioinformatics), Dr. Kai-Wei Chang and Dr. Wei Wang (UCLA, AI models), and Dr. Stephen Parker (Michigan, genetics). &nbsp;</p><p class=\"css-qffaiu e178251s9\">By analyzing genetic, protein, and cell data, and drawing on large studies like HPAP and TEDDY, the team hopes to understand why the immune system targets insulin-producing cells, and how to intervene earlier—possibly even before symptoms develop. &nbsp;</p><p class=\"css-qffaiu e178251s9\">Their goal: to set the stage for new ways to prevent or delay Type 1 Diabetes and improve care for those at risk.</p><p>To learn more, read more at <a href=\"https://diabetes.med.umich.edu/events-news/news/new-collaborative-better-predict-prevent-and-treat-type-1-diabetes\">here</a>.</p>",
+  "summary": "Introducing the Multimodal AI for Type 1 Diabetes (MAI-T1D) project. Lead by PanKbase MPI, Jie Liu, the NEW multimodal AI for T1D project aims to use the latest advances in AI and health data to speed discovery of treatments for T1D. Also included in this project are PanKbase MPIs Marcela Brissova, shuibing chen, and Steve Parker. https://diabetes.med.umich.edu/events-news/news/new-collaborative-better-predict-prevent-and-treat-type-1-diabetes",
+  "thumbnailHtml": "<p><img src=\"https://hugeampkpncms.org/sites/default/files/MAI%20T1D_resized%202_0.png\" width=\"550\" height=\"290\" data-entity-type=\"file\" data-entity-uuid=\"a058339e-ef2b-4788-8f66-47b7f70d1b9f\" alt=\"\"></p>",
+  "project": "pankbase",
+  "published": true,
+  "legacyPath": null,
+  "publishedAt": "2025-11-04T18:19:57.000Z",
+  "updatedAt": "2025-11-04T20:32:27.000Z",
+  "promoted": true
+}

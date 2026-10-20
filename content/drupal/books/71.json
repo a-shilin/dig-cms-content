@@ -1,0 +1,17 @@
+{
+  "contentType": "bookPage",
+  "drupalNodeId": 71,
+  "title": "5-6. Locus field",
+  "bodyHtml": "<p>If your data has values across multiple chromosomes, and you want the data table to be sorted correctly by genomic location, you need to let the research portal know which column in the data has the genomic location info, because this sorting requires multiple steps. The research portal will sort the data by chromosomes first, and sort items in each chromosome next.&nbsp;</p>\r\n\r\n<h2>Format</h2>\r\n\r\n<p>\"locus field\":\"locus\"</p>\r\n\r\n<h2>Example</h2>\r\n\r\n<p>{<br />\r\n&nbsp; &nbsp;&nbsp;\"data convert\":[<br />\r\n&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;{\"type\":\"join\",\"field name\":\"locus\",\"fields to join\":[\"#chr\",\"pos\"],\"join by\":\":\"},<br />\r\n&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;{\"type\":\"join\",\"field name\":\"allele\",\"fields to join\":[\"ref\",\"alt\"],\"join by\":\"/\"},<br />\r\n&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;{\"type\":\"raw\",\"field name\":\"rsID\",\"raw field\":\"id\"},<br />\r\n&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;{\"type\":\"raw\",\"field name\":\"P-value\",\"raw field\":\"pval\"},<br />\r\n&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;{\"type\":\"calculate\",\"field name\":\"pval_ng_log10\",\"raw field\":\"pval\",\"calculation type\":\"-log10\"} ],<br />\r\n&nbsp; &nbsp; \"top rows\":[\"locus\",\"allele\",\"rsID\",\"P-value\"],<br />\r\n&nbsp; &nbsp; \"locus field\":\"locus\"<br />\r\n}</p>\r\n",
+  "published": true,
+  "legacyPath": null,
+  "bookId": 37,
+  "parentId": 42,
+  "weight": 7,
+  "depth": 3,
+  "outlinePath": [
+    37,
+    42,
+    71
+  ]
+}

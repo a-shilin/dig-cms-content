@@ -1,0 +1,10 @@
+{
+  "contentType": "researchPageHeader",
+  "drupalNodeId": 148,
+  "title": "Kanoni et al. supplemental visualizations",
+  "menu": "[\r\n  {\"label\":\"Home\",\"link\":\"/research.html?pageid=GLGC_149\"},\r\n{\"label\":\"Lipid trait effector gene predictions\",\"link\":\"javascript:;\",\"subMenu\":[\r\n    {\"label\":\"HDL\",\"link\":\"/research.html?pageid=GLGC_HDL_137\"},\r\n    {\"label\":\"LDL\",\"link\":\"/research.html?pageid=GLGC_LDL_150\"},\r\n    {\"label\":\"non-HDL\",\"link\":\"/research.html?pageid=GLGC_nonHDL_151\"},\r\n    {\"label\":\"TC\",\"link\":\"/research.html?pageid=GLGC_TC_153\"},\r\n    {\"label\":\"log-TG\",\"link\":\"/research.html?pageid=GLGC_logTG_152\"}\r\n    ]},\r\n    {\"label\":\"Mouse lipid-related genes\",\"link\":\"/research.html?pageid=mouse_pheno_154\"},\r\n {\"label\":\"Lipid trait PGS PheWAS\",\"link\":\"javascript:;\",\"subMenu\":[\r\n    {\"label\":\"HDL\",\"link\":\"/research.html?pageid=GLGC_HDL_PheWAS_141\"},\r\n    {\"label\":\"LDL\",\"link\":\"/research.html?pageid=GLGC_LDL_PheWAS_143\"},\r\n    {\"label\":\"non-HDL\",\"link\":\"/research.html?pageid=GLGC_nonHDL_PheWAS_144\"},\r\n    {\"label\":\"TC\",\"link\":\"/research.html?pageid=GLGC_TC_PheWAS_146\"},\r\n    {\"label\":\"TG\",\"link\":\"/research.html?pageid=GLGC_TG_PheWAS_147\"}\r\n    ]}\r\n]",
+  "logoHtml": null,
+  "styleCss": null,
+  "published": true,
+  "legacyPath": null
+}

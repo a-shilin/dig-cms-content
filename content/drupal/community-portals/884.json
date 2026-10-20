@@ -1,0 +1,13 @@
+{
+  "contentType": "communityPortal",
+  "drupalNodeId": 884,
+  "title": "Collaborate to create a new Knowledge Portal",
+  "bodyHtml": "<p><img src=\"https://kp4cd.org/sites/default/files/images/create_kp_icon.svg\"></p>",
+  "portalAddress": "https://kp4cd.org/collaborate-KP",
+  "group": null,
+  "weight": 99,
+  "onA2fkp": true,
+  "published": true,
+  "legacyPath": null,
+  "promoted": true
+}

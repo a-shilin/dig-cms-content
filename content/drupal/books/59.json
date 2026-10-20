@@ -1,0 +1,17 @@
+{
+  "contentType": "bookPage",
+  "drupalNodeId": 59,
+  "title": "8-6. Score plot",
+  "bodyHtml": null,
+  "published": true,
+  "legacyPath": null,
+  "bookId": 37,
+  "parentId": 48,
+  "weight": 5,
+  "depth": 3,
+  "outlinePath": [
+    37,
+    48,
+    59
+  ]
+}

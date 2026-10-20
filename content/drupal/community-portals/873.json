@@ -1,0 +1,13 @@
+{
+  "contentType": "communityPortal",
+  "drupalNodeId": 873,
+  "title": "Ocular Knowledge Portal",
+  "bodyHtml": "<p><img src=\"https://kp4cd.org/sites/default/files/images/ocular_small.svg\" width=\"118\"></p>",
+  "portalAddress": "https://ocular.hugeamp.org/",
+  "group": null,
+  "weight": 10,
+  "onA2fkp": true,
+  "published": true,
+  "legacyPath": null,
+  "promoted": true
+}

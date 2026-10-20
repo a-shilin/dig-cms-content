@@ -1,0 +1,14 @@
+{
+  "contentType": "news",
+  "drupalNodeId": 855,
+  "title": "Tackle Obesity with Machine Learning — The Obesity ML Competition Is Live!",
+  "bodyHtml": "<p><span>Obesity now affects over 890 million people worldwide, fueling rates of cardiovascular disease and cancer. While weight-loss drugs exist, they don’t work for everyone and can cause serious side effects.</span></p><p><span>At the core of this challenge are adipocytes — the fat cells that decide how our bodies store or burn energy. In the Obesity ML Competition, you’ll use machine learning to predict how gene perturbations can push these cells to shift between energy-storing and energy-burning states.</span></p><p><span>What sets this competition apart? Top models will be validated directly in Broad Institute labs. Your code could spark real biological breakthroughs, guiding scientists in the fight against obesity.</span></p><p><span>No biology background? No problem. We’ll provide a lecture series covering everything you need to know.</span></p><p><span>Ready to make an impact? Learn more, register, and watch the lecture series </span><a href=\"https://www.ericandwendyschmidtcenter.org/ml-competitions/obesity-ml-competition\"><span>here</span></a><span>.</span></p>",
+  "summary": "The Obesity ML Competition invites participants to use machine learning to predict how gene changes can shift fat cells between energy-storing and energy-burning states, with top models tested in real Broad Institute labs. No biology background is needed—entrants get access to a lecture series covering everything required to join the challenge.",
+  "thumbnailHtml": "<p><img src=\"https://hugeampkpncms.org/sites/default/files/Obesity%20machine%20learning%20image.jpg\" width=\"1000\" height=\"725\" data-entity-type=\"file\" data-entity-uuid=\"d6b85878-a5d9-4c3c-8330-f17cb7fe9625\" alt=\"\"></p>",
+  "project": "matkp",
+  "published": true,
+  "legacyPath": null,
+  "publishedAt": "2026-01-07T17:22:39.000Z",
+  "updatedAt": "2026-01-07T17:30:41.000Z",
+  "promoted": true
+}

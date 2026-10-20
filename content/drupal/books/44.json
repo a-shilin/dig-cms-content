@@ -1,0 +1,17 @@
+{
+  "contentType": "bookPage",
+  "drupalNodeId": 44,
+  "title": "5-2. Top rows (updated: 05/13/2022)",
+  "bodyHtml": "<p>The \"top rows\" section of the data table format configuration sets the columns to be rendered in the data table. It is useful if you want to render the data with a different column order than in the original file, and/or if you want to render only some of the columns in the data.&nbsp;</p>\r\n\r\n<p>For example, in this <a href=\"https://hugeampkpn.org/research.html?pageid=demo_bitmap_m_12\" target=\"_blank\">demo page</a>, the 'pval_ng_lo10' column is added to the converted data by calculating values in 'pval' column to -log10 values. However, this column is not rendered to the data table but used only to render the visualizer.</p>\r\n\r\n<p>Top rows are configured in the following format:&nbsp;<br />\r\n\"top rows\":[\"locus\",\"allele\",\"rsID\",\"P-value\"]</p>\r\n\r\n<p>Adding Tool Tips to Data Table Headers<br />\r\nTo add tool tips to data table headers, add 'tool tips' property to the table format configuration.<br />\r\n\"tool tips\":{<br />\r\n\"locus\":\"tool tip content\",<br />\r\n\"allele\":\"tool tip content\",<br />\r\n\"rsID\":\"tool tip content\",<br />\r\n\"P-value\":\"tool tip content\"<br />\r\n}</p>\r\n\r\n<p>Special characters in top row column headers:</p>\r\n\r\n<p>Characters such as \"/\" and \"%\" are permissible, but they will break filtering by that column.</p>\r\n",
+  "published": true,
+  "legacyPath": null,
+  "bookId": 37,
+  "parentId": 42,
+  "weight": 1,
+  "depth": 3,
+  "outlinePath": [
+    37,
+    42,
+    44
+  ]
+}

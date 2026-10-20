@@ -1,0 +1,15 @@
+{
+  "contentType": "bookPage",
+  "drupalNodeId": 37,
+  "title": "Bring Your Own Results (BYOR) Service tutorial",
+  "bodyHtml": "<p>BYOR.SCIENCE is our Bring Your Own Results service. Using the BYOR service, you can publish research pages with different levels of complexity. They can be as simple as static pages with images and text, or as complex as interactive pages with data tables, filters, and visualizers. By creating multiple research pages and linking them together using the built-in menu system, researchers can build complex portals by themselves.</p>\r\n\r\n<p><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"92a7f4eb-1ca4-4a31-80ae-4e24d1902820\" src=\"https://hugeampkpncms.org/sites/default/files/images/Screen%20Shot%202022-05-20%20at%202.45.43%20PM.png\" width=\"800\" /></p>\r\n",
+  "published": true,
+  "legacyPath": "/tutorial",
+  "bookId": 37,
+  "parentId": null,
+  "weight": 0,
+  "depth": 1,
+  "outlinePath": [
+    37
+  ]
+}

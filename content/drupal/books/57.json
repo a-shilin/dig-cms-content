@@ -1,0 +1,17 @@
+{
+  "contentType": "bookPage",
+  "drupalNodeId": 57,
+  "title": "8-4. Heat map",
+  "bodyHtml": "<h2>Format</h2>\r\n\r\n<p>{<br />\r\n\"type\":\"heat map\",<br />\r\n\"label\": \"plot label\",<br />\r\n\"main\": { //Setting for main defines the colors in squares<br />\r\n\"field\": \"field name\",&nbsp;<br />\r\n\"label\": \"label\",<br />\r\n\"type\": \"scale\", // only \"scale\" option is available yet<br />\r\n\"direction\": \"positive\", //\"positive\" or \"negative\"<br />\r\n\"low\": 0, // lowest value to count<br />\r\n\"middle\": 0, //median value<br />\r\n\"high\": 0.25 //highest value<br />\r\n},<br />\r\n\"sub\": { //Setting for sub defines the size of black dots in squares.<br />\r\n\"field\": \"field name\",<br />\r\n\"label\": \"label\",<br />\r\n\"type\": \"steps\", //\"steps\" or \"scale\"<br />\r\n\"direction\": \"negative\", // \"Negative\" or \"positive\"<br />\r\n\"value range\": [0.001, 0.05]}, //The number of values is the number of steps the dots bing rendered, no dot to largest dot.<br />\r\n\"column field\": \"column value field\",&nbsp;<br />\r\n\"column label\": \"column value label\",<br />\r\n\"row field\": \"row field\",<br />\r\n\"row label\": \"row label\",<br />\r\n\"font size\": 12 //Font size defines the size of the dots.&nbsp;<br />\r\n}</p>\r\n\r\n<h2>Example (<a href=\"https://hugeampkpn.org/research.html?pageid=demo_5_n5\">https://hugeampkpn.org/research.html?pageid=demo_5_n5</a>)</h2>\r\n\r\n<p>{<br />\r\n​​​​​​​\"type\":\"heat map\",<br />\r\n\"label\": \"Epigenomic enrichment of Genetic Clusters obs_cppa heatmap\",<br />\r\n\"main\": {\"field\": \"obs_cppa\", \"label\": \"Effect size\", \"type\": \"scale\", \"direction\": \"positive\", \"low\": 0, \"middle\": 0, \"high\": 0.25 },<br />\r\n\"sub\": {\"field\": \"p\", \"label\": \"P-value\", \"type\": \"steps\", \"direction\": \"negative\", \"value range\": [0.001,0.05]},<br />\r\n\"column field\": \"annotation\", \"column label\": \"annotation\",<br />\r\n\"row field\": \"cluster\", \"row label\": \"cluster\",<br />\r\n\"font size\": 12<br />\r\n}</p>\r\n\r\n<p><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"8f876fa5-8080-4264-afec-3a3b6834ad5c\" src=\"https://hugeampkpncms.org/sites/default/files/users/user1/Screen%20Shot%202022-02-09%20at%203.32.47%20PM.png\" width=\"800\" /></p>\r\n",
+  "published": true,
+  "legacyPath": null,
+  "bookId": 37,
+  "parentId": 48,
+  "weight": 3,
+  "depth": 3,
+  "outlinePath": [
+    37,
+    48,
+    57
+  ]
+}

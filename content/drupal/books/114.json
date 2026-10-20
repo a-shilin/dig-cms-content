@@ -1,0 +1,17 @@
+{
+  "contentType": "bookPage",
+  "drupalNodeId": 114,
+  "title": "5-7. Activate Star function on data table",
+  "bodyHtml": "<p>Now you can add star functionality to the data table or region plot. Please take a look at this demo page:<a href=\"https://hugeampkpn.org/research.html?pageid=demo_region_91\">&nbsp;https://hugeampkpn.org/research.html?pageid=demo_region_91</a></p>\r\n\r\n<p><img src=\"https://hugeampkpncms.org/sites/default/files/users/user1/Screen%20Shot%202022-03-30%20at%201.01.40%20PM.png\" width=\"800\" /></p>\r\n\r\n<h2>Format</h2>\r\n\r\n<p>\"star column\":\"column name\"</p>\r\n\r\n<h2>Example</h2>\r\n\r\n<p>{\"data convert\":[<br />\r\n&nbsp; &nbsp; {\"type\":\"join multi\",\"field name\":\"Variant ID\",\"fields to join\":[\"#chr\",\"pos\",\"ref\",\"alt\"],\"join by\":[\":\",\"_\",\"/\"]},<br />\r\n&nbsp; &nbsp; {\"type\":\"join\",\"field name\":\"Locus\",\"fields to join\":[\"#chr\",\"pos\"],\"join by\":\":\"},<br />\r\n&nbsp; &nbsp; {\"type\":\"join\",\"field name\":\"Locus link\",\"fields to join\":[\"#chr\",\"pos\"],\"join by\":\":\"},<br />\r\n&nbsp; &nbsp; {\"type\":\"raw\",\"field name\":\"P-value\",\"raw field\":\"pval\"},<br />\r\n&nbsp; &nbsp; {\"type\":\"calculate\",\"field name\":\"pval_ng_log10\",\"raw field\":\"pval\",\"calculation type\":\"-log10\"}<br />\r\n],<br />\r\n&nbsp; &nbsp; <strong>\"star column\":\"Variant ID\"</strong>,<br />\r\n&nbsp; &nbsp; \"top rows\":[\"Variant ID\",\"Locus\",\"Locus link\",\"P-value\"],&nbsp;<br />\r\n&nbsp; &nbsp; \"locus field\":\"Locus\",<br />\r\n&nbsp; &nbsp; \"column formatting\":{<br />\r\n&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;\"Locus link\":{\"type\":[\"link\"],\"link to\":\"/test.html?variant=\", \"link type\":\"button\",\"link label\":\"Open Region\"},<br />\r\n&nbsp; &nbsp; &nbsp; &nbsp; \"Locus\":{\"type\":[\"link\"],\"link to\":\"/test.html?variant=\"}<br />\r\n&nbsp; &nbsp;&nbsp;}<br />\r\n}</p>\r\n",
+  "published": true,
+  "legacyPath": null,
+  "bookId": 37,
+  "parentId": 42,
+  "weight": 7,
+  "depth": 3,
+  "outlinePath": [
+    37,
+    42,
+    114
+  ]
+}

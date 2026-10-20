@@ -1,0 +1,10 @@
+{
+  "contentType": "researchPageHeader",
+  "drupalNodeId": 511,
+  "title": "ASD variants header menu",
+  "menu": "[\r\n{\"label\":\"Home\",\"link\":\"/research.html?pageid=consensus_asd_506\"},\r\n{\"label\":\"SNV/Indel\",\"link\":\"/research.html?pageid=consensus_asd_510\"},\r\n{\"label\":\"Syndromic\",\"link\":\"/research.html?pageid=consensus_asd_500\"},\r\n{\"label\":\"CNV\",\"link\":\"/research.html?pageid=consensus_asd_508\"},\r\n{\"label\":\"Inherited Recessive\",\"link\":\"/research.html?pageid=consensus_asd_507\"},\r\n{\"label\":\"Somatic SNV/Indel\",\"link\":\"/research.html?pageid=consensus_asd_504\"},\r\n{\"label\":\"Somatic CNV\",\"link\":\"/research.html?pageid=consensus_asd_505\"},\r\n{\"label\":\"GWAS SNPs\",\"link\":\"/research.html?pageid=consensus_asd_509\"}\r\n]",
+  "logoHtml": "<p class=\"kp-logo-wrapper\"><img class=\"kp-logo\" src=\"https://hugeampkpncms.org/sites/default/files/users/user1/concensus_asd_header_logo.png\"></p>",
+  "styleCss": ".kp-logo { height: 70px; margin-left: 20px; }\r\n.kp-logo-wrapper { float: left; }\r\n.research-portal-header { height: 90px; background-color: #d3f0ee ;}\r\n.research-portal-header  ul { float: right; font-size: 16px; margin-top: 25px; padding-right: 40px; }\r\n.research-header-menu-wrapper ul li.menu a {\r\n    color: #277 !important;\r\n}\r\n.research-header-menu-wrapper ul li.menu a:hover {\r\n    color: #8cc !important;\r\n    text-decoration: none;\r\n}\r\n.paper-footer-wrapper { background-color: #a3d0cd; }",
+  "published": true,
+  "legacyPath": null
+}

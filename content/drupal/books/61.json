@@ -1,0 +1,16 @@
+{
+  "contentType": "bookPage",
+  "drupalNodeId": 61,
+  "title": "10. Protecting your pages",
+  "bodyHtml": "<p>There are three security levels in BYOR: Unpublished, Review or Development, and Public. The level is set with the \"Page Mode\" field. This field is required, and Unpublished is the default mode.&nbsp;</p>\r\n\r\n<h3>Unpublished</h3>\r\n\r\n<p>If your configuration is not complete, or you want to set your research page offline, you can set it to Unpublished. Users trying to view the page will see the message below. Any header menu&nbsp;or research method linked to the page will be disabled as well.</p>\r\n\r\n<p><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"641fca53-449a-4f9e-b120-e3cd72345c35\" src=\"https://hugeampkpncms.org/sites/default/files/users/user1/Screen%20Shot%202022-02-24%20at%2011.49.02%20AM.png\" width=\"800\" /></p>\r\n\r\n<h3>Review or Development</h3>\r\n\r\n<p>If you want to restrict access to your pages to specific users, you can set the Page Mode to \"Review or Development.\" Viewing the page will require an access ID and password.</p>\r\n\r\n<p>You can set the access ID and password in the \"Dev ID\" and \"Dev Password\" fields.&nbsp;</p>\r\n\r\n<p><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"b99fd905-f75f-484d-b9cf-c618b256d2d7\" src=\"https://hugeampkpncms.org/sites/default/files/users/user1/Screen%20Shot%202022-02-24%20at%2012.04.06%20PM.png\" width=\"800\" /></p>\r\n\r\n<p><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"df3242ac-9242-4713-a31d-3b9a958a21e4\" height=\"218\" src=\"https://hugeampkpncms.org/sites/default/files/users/user1/Screen%20Shot%202022-02-24%20at%2011.56.05%20AM.png\" width=\"693\" /></p>\r\n\r\n<h3>Public</h3>\r\n\r\n<p>Research pages set in Public mode are fully open to the public.&nbsp;</p>\r\n",
+  "published": true,
+  "legacyPath": null,
+  "bookId": 37,
+  "parentId": 37,
+  "weight": 9,
+  "depth": 2,
+  "outlinePath": [
+    37,
+    61
+  ]
+}

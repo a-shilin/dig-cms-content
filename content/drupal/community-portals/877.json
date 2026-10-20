@@ -1,0 +1,13 @@
+{
+  "contentType": "communityPortal",
+  "drupalNodeId": 877,
+  "title": "Lung Disease Knowledge Portal",
+  "bodyHtml": "<p><img src=\"https://kp4cd.org/sites/default/files/images/lung_small.svg\" width=\"118\"></p>",
+  "portalAddress": "https://lung.hugeamp.org/",
+  "group": null,
+  "weight": 6,
+  "onA2fkp": true,
+  "published": true,
+  "legacyPath": null,
+  "promoted": true
+}

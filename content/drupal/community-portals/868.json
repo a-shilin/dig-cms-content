@@ -1,0 +1,13 @@
+{
+  "contentType": "communityPortal",
+  "drupalNodeId": 868,
+  "title": "Aging Knowledge Portal",
+  "bodyHtml": "<p><img src=\"https://kp4cd.org/sites/default/files/images/aging_small.svg\" width=\"118\"></p>",
+  "portalAddress": "https://aging.hugeamp.org/",
+  "group": null,
+  "weight": 0,
+  "onA2fkp": true,
+  "published": true,
+  "legacyPath": null,
+  "promoted": true
+}

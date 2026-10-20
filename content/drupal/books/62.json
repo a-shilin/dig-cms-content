@@ -1,0 +1,16 @@
+{
+  "contentType": "bookPage",
+  "drupalNodeId": 62,
+  "title": "11. Adding research methods",
+  "bodyHtml": "<p>You may want to attach a longer description of methods to your Research Page or Pages. The Research Method option allows you to create a page with text and images, and attach it to one or multiple Research Pages.</p>\r\n\r\n<p>To create a research method node:</p>\r\n\r\n<ol>\r\n\t<li>Open the Add page menu and select Research Method</li>\r\n\t<li>Fill in the title and description fields</li>\r\n\t<li>Save the node</li>\r\n\t<li>Then copy the node ID number from the URL</li>\r\n</ol>\r\n\r\n<p>To attach the research method to a research page:</p>\r\n\r\n<ol>\r\n\t<li>Open a research page to which you want to attach the research method</li>\r\n\t<li>Click the Edit tab</li>\r\n\t<li>Scroll down the page until the \"Research Method Node ID\" field is shown</li>\r\n\t<li>Paste in the research method node ID number from the URL of the research method node that you just created</li>\r\n\t<li>Save</li>\r\n</ol>\r\n\r\n<p>Now you will see tabs labeled \"View Data\" and \"Research Method\" above the content. By clicking the tabs, you can switch between the data view and research method view.&nbsp;</p>\r\n\r\n<p><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"a2f56c96-1ddf-49ea-93d8-385a0568f196\" src=\"https://hugeampkpncms.org/sites/default/files/users/user1/Screen%20Shot%202022-02-24%20at%202.17.03%20PM.png\" width=\"800\" /><br />\r\n<img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"f54b64a3-295d-46bc-9349-3dbc40d5202f\" src=\"https://hugeampkpncms.org/sites/default/files/users/user1/Screen%20Shot%202022-02-24%20at%202.17.14%20PM.png\" width=\"800\" /></p>\r\n",
+  "published": true,
+  "legacyPath": null,
+  "bookId": 37,
+  "parentId": 37,
+  "weight": 10,
+  "depth": 2,
+  "outlinePath": [
+    37,
+    62
+  ]
+}

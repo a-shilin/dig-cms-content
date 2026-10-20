@@ -1,0 +1,13 @@
+{
+  "contentType": "communityPortal",
+  "drupalNodeId": 883,
+  "title": "ALS Knowledge Portal",
+  "bodyHtml": "<p><img src=\"https://kp4cd.org/sites/default/files/als_small.svg\"></p>",
+  "portalAddress": "http://alskp.org/",
+  "group": null,
+  "weight": 7,
+  "onA2fkp": true,
+  "published": true,
+  "legacyPath": null,
+  "promoted": true
+}

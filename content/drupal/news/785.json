@@ -1,0 +1,14 @@
+{
+  "contentType": "news",
+  "drupalNodeId": 785,
+  "title": "Accelerate your research with the MATKP",
+  "bodyHtml": "<p>We are thrilled to announce the public debut of the Mammalian Adipose Tissue Knowledge Portal (MATKP). MATKP is a developing open community resource for multi-species mammalian adipose biology. Initial features include harmonized transcriptomic datasets from human and mouse tissues, human genetic data, and adipose-relevant genomic annotations. MATKP is produced by a multidisciplinary US-based team of researchers and clinicians from Beth Israel Deaconess Medical Center (Evan Rosen and Linus Tsai), the University of Chicago (Margo Emont), and the Broad Institute of MIT and Harvard (Melina Claussnitzer, Orr Ashenberg, Noël Burtt, and Jason Flannick). MATKP is funded by the US National Institute of Diabetes and Digestive and Kidney Diseases (RC2 DK116691).</p><p>Coming soon:</p><p>MATKP is an actively growing resource; stay tuned for the following exciting developments!</p><p><strong>Data Expansion:</strong> Additional datasets, species (e.g., nonhuman primates), understudied adipose depots, and data types including:</p><ul><li>Cell-cell interactions</li><li>Imaging (e.g., histology, LipocyteProfiler)</li><li>eQTLs, gene/region links, and genetic datasets</li><li>Epigenomics</li><li>Lipidomics</li><li>Metabolomics</li><li>Multi-omics</li><li>Proteomics</li><li>Spatial RNA-seq</li><li>TRAP-seq</li></ul><p><strong>Adipose Education:</strong> Adipose-relevant videos, experimental protocols, and information on adipose tissue development, physiology, and pathophysiology.</p>",
+  "summary": "What can MATKP do for you? Read more about new and upcoming features here.",
+  "thumbnailHtml": "<p><span><img src=\"https://hugeampkpncms.org/sites/default/files/images/matkp/MATKP_ADA.jpg\"></span></p>",
+  "project": "matkp",
+  "published": true,
+  "legacyPath": null,
+  "publishedAt": "2025-06-10T17:34:33.000Z",
+  "updatedAt": "2025-06-12T12:20:44.000Z",
+  "promoted": true
+}

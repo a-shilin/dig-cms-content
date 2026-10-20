@@ -1,0 +1,10 @@
+{
+  "contentType": "researchPageHeader",
+  "drupalNodeId": 18,
+  "title": "vQTL-GxE Header Menu",
+  "menu": "[\r\n{\"label\":\"Home\",\"link\":\"/research.html?pageid=UKB-vQTL-GxE\"},\r\n{\"label\":\"vQTL Results\",\"link\":\"/research.html?pageid=vQTL_node14\"},\r\n{\"label\":\"GxE Results\",\"link\":\"/research.html?pageid=GxE_node19\"}\r\n]",
+  "logoHtml": null,
+  "styleCss": ".research-portal-header-compact {\r\nmargin-bottom: 0 !important;\r\n}",
+  "published": true,
+  "legacyPath": null
+}

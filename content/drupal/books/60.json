@@ -1,0 +1,16 @@
+{
+  "contentType": "bookPage",
+  "drupalNodeId": 60,
+  "title": "9. Add page description with inline graphs",
+  "bodyHtml": "<p>The \"Page Description\" field allows you to add static content, such as documentation or references, to a research page. The contents added to this field will appear below the page header.&nbsp;</p>\r\n\r\n<p>The page description comes with a WSYIWYG editor called <a href=\"https://ckeditor.com/\">CKEditor</a>, with which you can style text, add links to your uploaded files or to external websites, and add tables and images. BYOR also allows you to add inline graphs by adding inline configurations, illustrated below.&nbsp;</p>\r\n\r\n<p><img alt=\"\" data-entity-type=\"file\" data-entity-uuid=\"30bbe989-295c-42d1-be3b-e8bbc47d6dfd\" src=\"https://hugeampkpncms.org/sites/default/files/users/user1/Screen%20Shot%202022-02-24%20at%2010.30.27%20AM.png\" width=\"800\" /></p>\r\n\r\n<h2>Format</h2>\r\n\r\n<p>&lt;plot&gt; // Opening tag of plot wrapper element<br />\r\n{<br />\r\n\"type\":\"plot type\", //Plot type: bar, pie or line<br />\r\n\"data\":{\"key\":value,\"key\":value}, //Line graph takes set of data. Please look at the example above.<br />\r\n\"width\":value, //Number value for the width of the graph in pixel<br />\r\n\"height\":value,//Number value for the eighth of the graph in pixel<br />\r\n\"color\":\"single\"//If render the graph in single color or multiple colors<br />\r\n}<br />\r\n&lt;/plot-end&gt; // Closing tag of plot wrapper element</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "published": true,
+  "legacyPath": null,
+  "bookId": 37,
+  "parentId": 37,
+  "weight": 8,
+  "depth": 2,
+  "outlinePath": [
+    37,
+    60
+  ]
+}

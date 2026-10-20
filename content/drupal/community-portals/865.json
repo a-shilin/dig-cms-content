@@ -1,0 +1,13 @@
+{
+  "contentType": "communityPortal",
+  "drupalNodeId": 865,
+  "title": "Vision Genomics Portal",
+  "bodyHtml": "<p><img src=\"https://kp4cd.org/sites/default/files/images/vision_genomics2.png\"></p>",
+  "portalAddress": "https://hugeamp.org/research.html?pageid=vision_landing",
+  "group": null,
+  "weight": 1,
+  "onA2fkp": true,
+  "published": true,
+  "legacyPath": null,
+  "promoted": true
+}
