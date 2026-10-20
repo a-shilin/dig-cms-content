@@ -13,6 +13,7 @@ content:
     type: collection
     path: content/drupal/basic-pages
     format: json
+    filename: "{drupalNodeId}.json"
     subfolders: false
     # This legacy test page has a null body. Pages CMS normalizes null editor
     # values, so leave it untouched until null round trips are explicitly handled.
