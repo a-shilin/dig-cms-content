@@ -58,11 +58,12 @@ Implementation details, field mappings, open decisions, and the active migration
 
 ## Generated files
 
-`content/drupal/_derived/egls.json` is generated data, not edited content: it maps each gene symbol (upper-cased)
+`content/drupal/_derived/egls.json.gz` is generated data, not edited content: it maps each gene symbol (upper-cased)
 to the effector-gene-list research pages that list it, for the legacy `/rest/egls?gene=<GENE>` endpoint served by
-the content API. It is built from the research pages listed on `Gene_page_PEGLs_475` by `cms/scripts/build-egls.mjs`
-in `dig-service-platform`, which also holds the per-page gene-column map. After editing one of those pages, rebuild it
-there and commit the result here.
+the content API. It is built from every effector-gene-list research page with a gene column (140 pages; the 26 on
+`Gene_page_PEGLs_475` are flagged) by `cms/scripts/build-egls.mjs` in `dig-service-platform`, which also holds the
+per-page gene-column map, and committed gzipped. After editing one of those pages, rebuild it there and commit the
+result here.
 
 Run the repository checks with:
 
