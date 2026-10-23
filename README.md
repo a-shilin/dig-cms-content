@@ -12,7 +12,7 @@ The first stage changes the source of the content while preserving the existing 
 
 ## Drupal to Git migration
 
-Published Drupal content was exported into structured files under `content/drupal/`. The files in this repository become the source of truth at cutover, and Git history replaces Drupal's revision history going forward. The one-time audit and export tooling is maintained separately in `hugeamp-drupal-migration`.
+Published Drupal content was exported into structured files under `content/drupal/`. The files in this repository become the source of truth at cutover, and Git history replaces Drupal's revision history going forward. The one-time audit and export tooling is maintained separately in [`hugeamp-drupal-migration`](https://github.com/a-shilin/hugeamp-drupal-migration).
 
 The initial migration covers every published Drupal node type found in the October 2026 database backup: Research Pages, Research Pages Header Menus, Research Methods, News, Basic Pages, Book Pages, and Community Portals. Together they exercise rich HTML, navigation, book hierarchy, styling, references, and the raw JSON configuration used by research pages. The backup contains no Article nodes, despite Article remaining available as a type in the Drupal editor.
 
@@ -22,12 +22,12 @@ This repository will not contain Drupal users, sessions, caches, administrative 
 
 ## Existing portal and content
 
-During the transition, the existing Vue 2 portal will continue to operate without Nuxt Content. The separate `hugeamp-content-api` service reads this repository and exposes responses in the shapes the portal currently expects from Drupal. This keeps the front-end changes limited and allows content types to move away from Drupal incrementally.
+During the transition, the existing Vue 2 portal will continue to operate without Nuxt Content. The separate [`hugeamp-content-api`](https://github.com/a-shilin/hugeamp-content-api) service reads this repository and exposes responses in the shapes the portal currently expects from Drupal. This keeps the front-end changes limited and allows content types to move away from Drupal incrementally.
 
 The migration will first be tested entirely locally:
 
-1. Export selected content with the sibling `hugeamp-drupal-migration` tooling.
-2. Run `hugeamp-content-api` locally alongside the Vue 2 portal.
+1. Export selected content with the sibling [`hugeamp-drupal-migration`](https://github.com/a-shilin/hugeamp-drupal-migration) tooling.
+2. Run [`hugeamp-content-api`](https://github.com/a-shilin/hugeamp-content-api) locally alongside the Vue 2 portal.
 3. Compare Git-backed pages with their Drupal-backed versions.
 4. Verify content, navigation, HTML, styles, references, and research configurations before changing the production source.
 
@@ -35,7 +35,7 @@ After the local migration is confirmed, the compatibility service will need to b
 
 ## Browser-based content editing
 
-Pages CMS is the editor during the transition. The self-hosted application and its PostgreSQL dependency belong to the separate `hugeamp-cms` deployment, while the repository-specific `.pages.yml` configuration belongs here beside the content it describes. The configuration exposes all seven migrated content types, uses Source-first editing for legacy HTML, resolves Research Page relationships to Header Menus and Research Methods, and keeps creation, deletion, renaming, publication state, and structural legacy identifiers locked during the pilot.
+Pages CMS is the editor during the transition. The self-hosted application and its PostgreSQL dependency belong to the separate [`hugeamp-cms`](https://github.com/a-shilin/hugeamp-cms) deployment, while the repository-specific `.pages.yml` configuration belongs here beside the content it describes. The configuration exposes all seven migrated content types, uses Source-first editing for legacy HTML, resolves Research Page relationships to Header Menus and Research Methods, and keeps creation, deletion, renaming, publication state, and structural legacy identifiers locked during the pilot.
 
 Pages CMS is an editing layer, not the content store. Its configuration will describe how the repository's files should be presented in the editor, but it will not define a separate or proprietary content format. This keeps the content independent of Pages CMS and makes it possible to replace the editor later without another migration.
 
@@ -62,4 +62,4 @@ Run the repository checks with:
 npm run validate
 ```
 
-Related responsibilities live in the sibling `hugeamp-drupal-migration`, `hugeamp-content-api`, and `hugeamp-cms` repositories.
+Related responsibilities live in the sibling [`hugeamp-drupal-migration`](https://github.com/a-shilin/hugeamp-drupal-migration), [`hugeamp-content-api`](https://github.com/a-shilin/hugeamp-content-api), and [`hugeamp-cms`](https://github.com/a-shilin/hugeamp-cms) repositories.
