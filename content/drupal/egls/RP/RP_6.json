@@ -1,0 +1,140 @@
+{
+  "RP1-127C7.6": [
+    "su_lupus_180"
+  ],
+  "RP1-130H16.16": [
+    "kamali_172"
+  ],
+  "RP1-92O14.6": [
+    "kamali_172"
+  ],
+  "RP11-148O21.6": [
+    "GLGC_logTG_152",
+    "kamali_172"
+  ],
+  "RP11-165J3.6": [
+    "Trubetskoy_SCZ_324"
+  ],
+  "RP11-182L21.6": [
+    "bellenguez_alzheimers_197"
+  ],
+  "RP11-196G11.6": [
+    "GLGC_HDL_137",
+    "GLGC_LDL_150",
+    "GLGC_TC_153",
+    "GLGC_logTG_152",
+    "GLGC_nonHDL_151"
+  ],
+  "RP11-25K21.6": [
+    "GLGC_LDL_150",
+    "GLGC_TC_153"
+  ],
+  "RP11-263K19.6": [
+    "GLGC_TC_153",
+    "GLGC_nonHDL_151"
+  ],
+  "RP11-295M18.6": [
+    "GLGC_HDL_137",
+    "GLGC_LDL_150",
+    "GLGC_TC_153",
+    "GLGC_logTG_152",
+    "GLGC_nonHDL_151"
+  ],
+  "RP11-324E6.6": [
+    "GLGC_logTG_152"
+  ],
+  "RP11-343H5.6": [
+    "su_lupus_180"
+  ],
+  "RP11-387H17.6": [
+    "GLGC_TC_153"
+  ],
+  "RP11-390F4.6": [
+    "GLGC_logTG_152"
+  ],
+  "RP11-400F19.6": [
+    "cell-type-T2D"
+  ],
+  "RP11-407N8.6": [
+    "GLGC_HDL_137",
+    "GLGC_LDL_150",
+    "GLGC_TC_153"
+  ],
+  "RP11-445P17.6": [
+    "GLGC_HDL_137",
+    "GLGC_TC_153",
+    "GLGC_logTG_152"
+  ],
+  "RP11-455F5.6": [
+    "bellenguez_alzheimers_197"
+  ],
+  "RP11-464D20.6": [
+    "kamali_172"
+  ],
+  "RP11-513I15.6": [
+    "cell-type-T2D"
+  ],
+  "RP11-527L4.6": [
+    "GLGC_logTG_152"
+  ],
+  "RP11-529H20.6": [
+    "GLGC_HDL_137"
+  ],
+  "RP11-582E3.6": [
+    "eales_blood_pressure_175"
+  ],
+  "RP11-603J24.6": [
+    "COVID-19_effectors_COGS"
+  ],
+  "RP11-6J24.6": [
+    "su_lupus_180"
+  ],
+  "RP11-6N17.6": [
+    "GLGC_HDL_137"
+  ],
+  "RP11-757G1.6": [
+    "GLGC_logTG_152"
+  ],
+  "RP11-794P6.6": [
+    "kamali_172"
+  ],
+  "RP11-981G7.6": [
+    "GLGC_logTG_152"
+  ],
+  "RP3-402G11.26": [
+    "cell-type-T2D"
+  ],
+  "RP3-465N24.6": [
+    "GLGC_LDL_150",
+    "GLGC_TC_153",
+    "GLGC_nonHDL_151"
+  ],
+  "RP3-522J7.6": [
+    "GLGC_logTG_152"
+  ],
+  "RP4-669P10.16": [
+    "GLGC_LDL_150",
+    "GLGC_TC_153",
+    "GLGC_nonHDL_151"
+  ],
+  "RP4-781K5.6": [
+    "GLGC_HDL_137",
+    "GLGC_LDL_150",
+    "GLGC_TC_153",
+    "GLGC_logTG_152",
+    "GLGC_nonHDL_151"
+  ],
+  "RP4-816N1.6": [
+    "GLGC_HDL_137"
+  ],
+  "RP5-1160K1.6": [
+    "Qi_PA_334"
+  ],
+  "RP5-940J5.6": [
+    "GLGC_logTG_152"
+  ],
+  "RP5-966M1.6": [
+    "cell-type-T2D",
+    "sheng_egfr_190"
+  ]
+}

@@ -16,6 +16,13 @@ content/
     news/
     research-methods/
     community-portals/
+    egls/
+      0-9_other.json
+      A.json ... Z.json
+      ENSG/
+        ENSG_0.json ... ENSG_9.json
+      RP/
+        RP_0.json ... RP_9.json
     _meta/
       editing-schema.md
       migration-manifest.json
@@ -145,6 +152,16 @@ The hierarchy fields come from Drupal's Book outline table. `outlinePath` preser
 | `field_on_a2fkp` | `onA2fkp` | boolean |
 | Promotion status | `promoted` | boolean |
 | Node status | `published` | boolean |
+
+### Effector Gene Lists `egls`
+
+Bucketed and sharded JSON dictionaries under `content/drupal/egls/` mapping each gene symbol, Ensembl ID (`ENSG*`), or clone-based name (`RP<digits>-*`) to the list of EGL Research Page IDs (`pageId[]`) that mention it:
+
+- `content/drupal/egls/A.json` … `Z.json` and `0-9_other.json` (27 top-level letter buckets)
+- `content/drupal/egls/ENSG/ENSG_0.json` … `ENSG_9.json` (10 shards by last digit for `ENSG*` IDs)
+- `content/drupal/egls/RP/RP_0.json` … `RP_9.json` (10 shards by last digit for `^RP[0-9]+-` clone names)
+
+Zero-match genes are pruned from the bucket and shard files; a gene absent from its bucket/shard file yields `[]` on `/rest/egls?gene=<GENE>`.
 
 ## Local-first architecture
 

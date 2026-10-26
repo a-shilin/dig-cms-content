@@ -1,0 +1,75 @@
+{
+  "RP1-102E24.8": [
+    "GLGC_HDL_137"
+  ],
+  "RP1-265C24.8": [
+    "GLGC_logTG_152"
+  ],
+  "RP11-110H1.8": [
+    "GLGC_TC_153"
+  ],
+  "RP11-147L13.8": [
+    "GLGC_logTG_152",
+    "GLGC_nonHDL_151"
+  ],
+  "RP11-190C22.8": [
+    "su_lupus_180"
+  ],
+  "RP11-338K17.8": [
+    "cell-type-T2D"
+  ],
+  "RP11-378J18.8": [
+    "cardiogram_165"
+  ],
+  "RP11-429J17.8": [
+    "COVID-19_effectors_COGS"
+  ],
+  "RP11-445P17.8": [
+    "GLGC_TC_153",
+    "GLGC_logTG_152"
+  ],
+  "RP11-513M16.8": [
+    "GLGC_HDL_137",
+    "GLGC_LDL_150",
+    "GLGC_TC_153",
+    "GLGC_nonHDL_151"
+  ],
+  "RP11-51F16.8": [
+    "GLGC_HDL_137"
+  ],
+  "RP11-571L19.8": [
+    "GLGC_logTG_152"
+  ],
+  "RP11-57G10.8": [
+    "Lasconi_sleep_317"
+  ],
+  "RP11-638I2.8": [
+    "GLGC_HDL_137"
+  ],
+  "RP11-64K12.8": [
+    "GLGC_HDL_137",
+    "GLGC_logTG_152"
+  ],
+  "RP11-705O1.8": [
+    "GLGC_logTG_152"
+  ],
+  "RP11-798G7.8": [
+    "Qi_PA_334"
+  ],
+  "RP11-817O13.8": [
+    "cell-type-T2D",
+    "mahajan_167"
+  ],
+  "RP3-329A5.8": [
+    "GLGC_HDL_137",
+    "GLGC_nonHDL_151"
+  ],
+  "RP4-621B10.8": [
+    "GLGC_LDL_150",
+    "GLGC_TC_153",
+    "GLGC_nonHDL_151"
+  ],
+  "RP4-761J14.8": [
+    "Lasconi_sleep_317"
+  ]
+}

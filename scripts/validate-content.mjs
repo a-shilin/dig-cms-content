@@ -10,6 +10,7 @@ const basicPagesDirectory = path.join(contentRoot, "basic-pages");
 const booksDirectory = path.join(contentRoot, "books");
 const newsDirectory = path.join(contentRoot, "news");
 const communityPortalsDirectory = path.join(contentRoot, "community-portals");
+const eglsDirectory = path.join(contentRoot, "egls");
 const manifestPath = path.join(contentRoot, "_meta/migration-manifest.json");
 const forbiddenKey = /^(?:field_)?(?:dev_?)?(?:id|password|password_?hash)$/i;
 
@@ -20,6 +21,7 @@ const basicPages = await readCollection(basicPagesDirectory);
 const bookPages = await readCollection(booksDirectory);
 const news = await readCollection(newsDirectory);
 const communityPortals = await readCollection(communityPortalsDirectory);
+const egls = await readRecursiveJsonFiles(eglsDirectory);
 const manifest = JSON.parse(await readFile(manifestPath, "utf8"));
 const warnings = [];
 
@@ -30,6 +32,7 @@ assert.equal(basicPages.length, manifest.counts.basicPages);
 assert.equal(bookPages.length, manifest.counts.books);
 assert.equal(news.length, manifest.counts.news);
 assert.equal(communityPortals.length, manifest.counts.communityPortals);
+assert.equal(egls.length, manifest.counts.egls);
 assert.equal(manifest.content.researchPages.length, researchPages.length);
 assert.equal(manifest.content.navigation.length, headers.length);
 assert.equal(manifest.content.researchMethods.length, researchMethods.length);
@@ -37,6 +40,7 @@ assert.equal(manifest.content.basicPages.length, basicPages.length);
 assert.equal(manifest.content.books.length, bookPages.length);
 assert.equal(manifest.content.news.length, news.length);
 assert.equal(manifest.content.communityPortals.length, communityPortals.length);
+assert.equal(manifest.content.egls.length, egls.length);
 
 validateUnique(researchPages, "drupalNodeId");
 validateUnique(headers, "drupalNodeId");
@@ -138,6 +142,17 @@ for (const record of communityPortals) {
   assert.equal(typeof record.promoted, "boolean");
 }
 
+for (const { file, data } of egls) {
+  assert.ok(data && typeof data === "object" && !Array.isArray(data), `EGLs file ${file} must be a JSON object`);
+  for (const [gene, pageIds] of Object.entries(data)) {
+    assert.ok(typeof gene === "string" && gene.length > 0, `EGLs file ${file} contains empty gene key`);
+    assert.ok(
+      Array.isArray(pageIds) && pageIds.length > 0 && pageIds.every((id) => typeof id === "string" && id.length > 0),
+      `EGLs file ${file} gene ${gene} must map to a non-empty array of page IDs`,
+    );
+  }
+}
+
 const pageIdGroups = researchPages.reduce((groups, record) => {
   if (!groups.has(record.pageId)) groups.set(record.pageId, []);
   groups.get(record.pageId).push(record);
@@ -165,8 +180,8 @@ for (const record of researchPages) {
 console.log(
   `Validated ${researchPages.length} Research Pages, ${headers.length} Header Menus, ` +
     `${researchMethods.length} Research Methods, ${basicPages.length} Basic Pages, ` +
-    `${bookPages.length} Book Pages, ${news.length} News items, and ` +
-    `${communityPortals.length} Community Portals.`,
+    `${bookPages.length} Book Pages, ${news.length} News items, ` +
+    `${communityPortals.length} Community Portals, and ${egls.length} EGL bucket/shard files.`,
 );
 if (warnings.length === 0) {
   console.log("No content warnings.");
@@ -184,6 +199,26 @@ async function readCollection(directory) {
       JSON.parse(await readFile(path.join(directory, filename), "utf8")),
     ),
   );
+}
+
+async function readRecursiveJsonFiles(directory, prefix = "") {
+  const entries = (await readdir(directory, { withFileTypes: true })).sort((a, b) =>
+    a.name.localeCompare(b.name),
+  );
+  const results = [];
+  for (const entry of entries) {
+    const relPath = prefix ? `${prefix}/${entry.name}` : entry.name;
+    const fullPath = path.join(directory, entry.name);
+    if (entry.isDirectory()) {
+      results.push(...(await readRecursiveJsonFiles(fullPath, relPath)));
+    } else if (entry.isFile() && entry.name.endsWith(".json")) {
+      results.push({
+        file: relPath,
+        data: JSON.parse(await readFile(fullPath, "utf8")),
+      });
+    }
+  }
+  return results;
 }
 
 function validateUnique(records, key) {

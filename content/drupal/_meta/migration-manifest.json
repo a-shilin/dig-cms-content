@@ -4328,6 +4328,196 @@
         "file": "community-portals/863.json",
         "drupalNodeId": 863
       }
+    ],
+    "egls": [
+      {
+        "file": "egls/0-9_other.json",
+        "bucket": "0-9_other"
+      },
+      {
+        "file": "egls/A.json",
+        "bucket": "A"
+      },
+      {
+        "file": "egls/B.json",
+        "bucket": "B"
+      },
+      {
+        "file": "egls/C.json",
+        "bucket": "C"
+      },
+      {
+        "file": "egls/D.json",
+        "bucket": "D"
+      },
+      {
+        "file": "egls/E.json",
+        "bucket": "E"
+      },
+      {
+        "file": "egls/ENSG/ENSG_0.json",
+        "bucket": "ENSG/ENSG_0"
+      },
+      {
+        "file": "egls/ENSG/ENSG_1.json",
+        "bucket": "ENSG/ENSG_1"
+      },
+      {
+        "file": "egls/ENSG/ENSG_2.json",
+        "bucket": "ENSG/ENSG_2"
+      },
+      {
+        "file": "egls/ENSG/ENSG_3.json",
+        "bucket": "ENSG/ENSG_3"
+      },
+      {
+        "file": "egls/ENSG/ENSG_4.json",
+        "bucket": "ENSG/ENSG_4"
+      },
+      {
+        "file": "egls/ENSG/ENSG_5.json",
+        "bucket": "ENSG/ENSG_5"
+      },
+      {
+        "file": "egls/ENSG/ENSG_6.json",
+        "bucket": "ENSG/ENSG_6"
+      },
+      {
+        "file": "egls/ENSG/ENSG_7.json",
+        "bucket": "ENSG/ENSG_7"
+      },
+      {
+        "file": "egls/ENSG/ENSG_8.json",
+        "bucket": "ENSG/ENSG_8"
+      },
+      {
+        "file": "egls/ENSG/ENSG_9.json",
+        "bucket": "ENSG/ENSG_9"
+      },
+      {
+        "file": "egls/F.json",
+        "bucket": "F"
+      },
+      {
+        "file": "egls/G.json",
+        "bucket": "G"
+      },
+      {
+        "file": "egls/H.json",
+        "bucket": "H"
+      },
+      {
+        "file": "egls/I.json",
+        "bucket": "I"
+      },
+      {
+        "file": "egls/J.json",
+        "bucket": "J"
+      },
+      {
+        "file": "egls/K.json",
+        "bucket": "K"
+      },
+      {
+        "file": "egls/L.json",
+        "bucket": "L"
+      },
+      {
+        "file": "egls/M.json",
+        "bucket": "M"
+      },
+      {
+        "file": "egls/N.json",
+        "bucket": "N"
+      },
+      {
+        "file": "egls/O.json",
+        "bucket": "O"
+      },
+      {
+        "file": "egls/P.json",
+        "bucket": "P"
+      },
+      {
+        "file": "egls/Q.json",
+        "bucket": "Q"
+      },
+      {
+        "file": "egls/R.json",
+        "bucket": "R"
+      },
+      {
+        "file": "egls/RP/RP_0.json",
+        "bucket": "RP/RP_0"
+      },
+      {
+        "file": "egls/RP/RP_1.json",
+        "bucket": "RP/RP_1"
+      },
+      {
+        "file": "egls/RP/RP_2.json",
+        "bucket": "RP/RP_2"
+      },
+      {
+        "file": "egls/RP/RP_3.json",
+        "bucket": "RP/RP_3"
+      },
+      {
+        "file": "egls/RP/RP_4.json",
+        "bucket": "RP/RP_4"
+      },
+      {
+        "file": "egls/RP/RP_5.json",
+        "bucket": "RP/RP_5"
+      },
+      {
+        "file": "egls/RP/RP_6.json",
+        "bucket": "RP/RP_6"
+      },
+      {
+        "file": "egls/RP/RP_7.json",
+        "bucket": "RP/RP_7"
+      },
+      {
+        "file": "egls/RP/RP_8.json",
+        "bucket": "RP/RP_8"
+      },
+      {
+        "file": "egls/RP/RP_9.json",
+        "bucket": "RP/RP_9"
+      },
+      {
+        "file": "egls/S.json",
+        "bucket": "S"
+      },
+      {
+        "file": "egls/T.json",
+        "bucket": "T"
+      },
+      {
+        "file": "egls/U.json",
+        "bucket": "U"
+      },
+      {
+        "file": "egls/V.json",
+        "bucket": "V"
+      },
+      {
+        "file": "egls/W.json",
+        "bucket": "W"
+      },
+      {
+        "file": "egls/X.json",
+        "bucket": "X"
+      },
+      {
+        "file": "egls/Y.json",
+        "bucket": "Y"
+      },
+      {
+        "file": "egls/Z.json",
+        "bucket": "Z"
+      }
     ]
   },
   "counts": {
@@ -4337,6 +4527,7 @@
     "basicPages": 6,
     "books": 33,
     "news": 114,
-    "communityPortals": 23
+    "communityPortals": 23,
+    "egls": 47
   }
 }

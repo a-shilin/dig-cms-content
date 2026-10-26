@@ -1,0 +1,24 @@
+{
+  "RP11-173P15.10": [
+    "GLGC_TC_153"
+  ],
+  "RP11-229P13.20": [
+    "cell-type-T2D"
+  ],
+  "RP11-2E11.10": [
+    "cell-type-T2D"
+  ],
+  "RP11-481A20.10": [
+    "Chambers_cerebellar_vol_323",
+    "bellenguez_alzheimers_197"
+  ],
+  "RP11-552F3.10": [
+    "kamali_172"
+  ],
+  "RP11-644F5.10": [
+    "T1D_UVa_168"
+  ],
+  "RP4-583P15.10": [
+    "cell-type-T2D"
+  ]
+}

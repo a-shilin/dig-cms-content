@@ -611,3 +611,22 @@ content:
         type: boolean
         required: true
         readonly: true
+
+  - name: egls
+    label: EGLs
+    type: collection
+    path: content/drupal/egls
+    format: raw
+    subfolders: true
+    operations:
+      create: false
+      rename: false
+      delete: false
+    fields:
+      - name: body
+        label: Gene to Page IDs JSON
+        type: code
+        required: true
+        description: Bucketed/sharded JSON mapping gene symbols or Ensembl/RP IDs to arrays of EGL Research Page IDs.
+        options:
+          format: json

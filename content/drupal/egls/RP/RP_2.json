@@ -1,0 +1,426 @@
+{
+  "RP1-193H18.2": [
+    "OA_effectors_75"
+  ],
+  "RP1-1J6.2": [
+    "kamali_172"
+  ],
+  "RP11-1007G5.2": [
+    "su_lupus_180"
+  ],
+  "RP11-108O10.2": [
+    "GLGC_logTG_152"
+  ],
+  "RP11-10L12.2": [
+    "kamali_172"
+  ],
+  "RP11-1149O23.2": [
+    "COVID-19_effectors_COGS"
+  ],
+  "RP11-114H24.2": [
+    "COVID-19_effectors_COGS"
+  ],
+  "RP11-115J16.2": [
+    "GLGC_HDL_137",
+    "GLGC_LDL_150",
+    "GLGC_TC_153",
+    "GLGC_logTG_152",
+    "GLGC_nonHDL_151"
+  ],
+  "RP11-1167A19.2": [
+    "Said_CRP_306"
+  ],
+  "RP11-118B18.2": [
+    "GLGC_HDL_137",
+    "GLGC_LDL_150",
+    "GLGC_TC_153",
+    "GLGC_logTG_152",
+    "GLGC_nonHDL_151"
+  ],
+  "RP11-1191J2.2": [
+    "cell-type-T2D"
+  ],
+  "RP11-125B21.2": [
+    "GLGC_logTG_152"
+  ],
+  "RP11-125O5.2": [
+    "GLGC_logTG_152"
+  ],
+  "RP11-136O12.2": [
+    "GLGC_HDL_137",
+    "GLGC_LDL_150",
+    "GLGC_TC_153",
+    "GLGC_logTG_152",
+    "GLGC_nonHDL_151"
+  ],
+  "RP11-147L13.12": [
+    "GLGC_HDL_137",
+    "GLGC_LDL_150",
+    "GLGC_TC_153",
+    "GLGC_logTG_152",
+    "GLGC_nonHDL_151"
+  ],
+  "RP11-148O21.2": [
+    "kamali_172"
+  ],
+  "RP11-153F10.2": [
+    "GLGC_LDL_150",
+    "GLGC_TC_153"
+  ],
+  "RP11-161M6.2": [
+    "GLGC_logTG_152"
+  ],
+  "RP11-16N11.2": [
+    "Lasconi_sleep_317"
+  ],
+  "RP11-178C3.2": [
+    "GLGC_HDL_137",
+    "GLGC_LDL_150",
+    "GLGC_logTG_152"
+  ],
+  "RP11-17A19.2": [
+    "COVID-19_effectors_COGS"
+  ],
+  "RP11-181G12.2": [
+    "COVID-19_effectors_COGS",
+    "kamali_172"
+  ],
+  "RP11-196G11.2": [
+    "GLGC_HDL_137",
+    "GLGC_LDL_150",
+    "GLGC_TC_153",
+    "GLGC_logTG_152",
+    "GLGC_nonHDL_151"
+  ],
+  "RP11-197N18.2": [
+    "Lasconi_sleep_317"
+  ],
+  "RP11-210M15.2": [
+    "roselli_af_174"
+  ],
+  "RP11-216P16.2": [
+    "cell-type-T2D"
+  ],
+  "RP11-21L23.2": [
+    "OA_effectors_75"
+  ],
+  "RP11-229P13.2": [
+    "cell-type-T2D"
+  ],
+  "RP11-22C11.2": [
+    "cell-type-T2D"
+  ],
+  "RP11-22P6.2": [
+    "cell-type-T2D"
+  ],
+  "RP11-231K24.2": [
+    "Lasconi_sleep_317"
+  ],
+  "RP11-247A12.2": [
+    "Chambers_cerebellar_vol_323"
+  ],
+  "RP11-252K23.2": [
+    "T1D_UVa_168",
+    "eales_blood_pressure_175"
+  ],
+  "RP11-259G18.2": [
+    "kamali_172",
+    "roselli_af_174"
+  ],
+  "RP11-262I2.2": [
+    "Lasconi_sleep_317"
+  ],
+  "RP11-264B17.2": [
+    "cell-type-T2D"
+  ],
+  "RP11-265N7.2": [
+    "GLGC_logTG_152"
+  ],
+  "RP11-290F5.2": [
+    "GLGC_TC_153"
+  ],
+  "RP11-299G20.2": [
+    "GLGC_LDL_150"
+  ],
+  "RP11-2B6.2": [
+    "GLGC_logTG_152"
+  ],
+  "RP11-315D16.2": [
+    "eales_blood_pressure_175"
+  ],
+  "RP11-316M1.12": [
+    "GLGC_HDL_137"
+  ],
+  "RP11-323C15.2": [
+    "GLGC_logTG_152"
+  ],
+  "RP11-328M4.2": [
+    "COVID-19_effectors_COGS",
+    "Lasconi_sleep_317"
+  ],
+  "RP11-352M15.2": [
+    "GLGC_TC_153",
+    "GLGC_logTG_152"
+  ],
+  "RP11-355B11.2": [
+    "Lasconi_sleep_317",
+    "eales_blood_pressure_175"
+  ],
+  "RP11-358M14.2": [
+    "cell-type-T2D"
+  ],
+  "RP11-358N2.2": [
+    "GLGC_TC_153"
+  ],
+  "RP11-365H22.2": [
+    "cell-type-T2D"
+  ],
+  "RP11-367J11.2": [
+    "cell-type-T2D"
+  ],
+  "RP11-380D11.2": [
+    "GLGC_logTG_152"
+  ],
+  "RP11-381K20.2": [
+    "levin_heart_failure_269"
+  ],
+  "RP11-384J4.2": [
+    "Hautakangas_migraine_338"
+  ],
+  "RP11-38P22.2": [
+    "cell-type-T2D"
+  ],
+  "RP11-395N3.2": [
+    "GLGC_logTG_152",
+    "cardiogram_165",
+    "mahajan_167"
+  ],
+  "RP11-397A16.2": [
+    "cell-type-T2D"
+  ],
+  "RP11-399D6.2": [
+    "Trubetskoy_SCZ_324"
+  ],
+  "RP11-406H21.2": [
+    "GLGC_HDL_137",
+    "GLGC_LDL_150",
+    "GLGC_TC_153",
+    "GLGC_nonHDL_151"
+  ],
+  "RP11-414J4.2": [
+    "GLGC_nonHDL_151"
+  ],
+  "RP11-417F21.2": [
+    "Lasconi_sleep_317"
+  ],
+  "RP11-429J17.2": [
+    "COVID-19_effectors_COGS"
+  ],
+  "RP11-433M22.2": [
+    "GLGC_HDL_137",
+    "GLGC_LDL_150",
+    "GLGC_TC_153",
+    "GLGC_nonHDL_151",
+    "Hautakangas_migraine_338"
+  ],
+  "RP11-435O5.2": [
+    "eales_blood_pressure_175"
+  ],
+  "RP11-439L18.2": [
+    "Lasconi_sleep_317"
+  ],
+  "RP11-47I22.2": [
+    "COVID-19_effectors_COGS"
+  ],
+  "RP11-486O12.2": [
+    "Hautakangas_migraine_338",
+    "cell-type-T2D"
+  ],
+  "RP11-490G2.2": [
+    "GLGC_logTG_152",
+    "Trubetskoy_SCZ_324"
+  ],
+  "RP11-490O6.2": [
+    "su_lupus_180"
+  ],
+  "RP11-507B12.2": [
+    "GLGC_logTG_152",
+    "Trubetskoy_SCZ_324"
+  ],
+  "RP11-50B3.2": [
+    "GLGC_HDL_137",
+    "GLGC_LDL_150"
+  ],
+  "RP11-527L4.2": [
+    "GLGC_logTG_152"
+  ],
+  "RP11-539L10.2": [
+    "cell-type-T2D"
+  ],
+  "RP11-543D5.2": [
+    "kamali_172"
+  ],
+  "RP11-553K8.2": [
+    "su_lupus_180"
+  ],
+  "RP11-579E24.2": [
+    "GLGC_logTG_152"
+  ],
+  "RP11-57H14.2": [
+    "cell-type-T2D"
+  ],
+  "RP11-586D19.2": [
+    "cell-type-T2D"
+  ],
+  "RP11-588K22.2": [
+    "eales_blood_pressure_175"
+  ],
+  "RP11-589N15.2": [
+    "T1D_UVa_168"
+  ],
+  "RP11-613C6.2": [
+    "COVID-19_effectors_COGS"
+  ],
+  "RP11-61L19.2": [
+    "GLGC_LDL_150",
+    "GLGC_TC_153"
+  ],
+  "RP11-624D11.2": [
+    "GLGC_logTG_152"
+  ],
+  "RP11-62H7.2": [
+    "kamali_172"
+  ],
+  "RP11-631N16.2": [
+    "GLGC_logTG_152"
+  ],
+  "RP11-660L16.2": [
+    "su_lupus_180"
+  ],
+  "RP11-67L2.2": [
+    "GLGC_TC_153"
+  ],
+  "RP11-686O6.2": [
+    "GLGC_HDL_137",
+    "GLGC_LDL_150",
+    "GLGC_TC_153",
+    "GLGC_logTG_152",
+    "GLGC_nonHDL_151"
+  ],
+  "RP11-68I3.2": [
+    "GLGC_logTG_152"
+  ],
+  "RP11-701P16.2": [
+    "GLGC_LDL_150"
+  ],
+  "RP11-705C15.2": [
+    "T1D_UVa_168"
+  ],
+  "RP11-710E1.2": [
+    "GLGC_TC_153",
+    "GLGC_logTG_152"
+  ],
+  "RP11-71E19.2": [
+    "GLGC_LDL_150",
+    "GLGC_TC_153"
+  ],
+  "RP11-722E23.2": [
+    "eales_blood_pressure_175"
+  ],
+  "RP11-73M18.2": [
+    "Trubetskoy_SCZ_324"
+  ],
+  "RP11-758H9.2": [
+    "GLGC_logTG_152"
+  ],
+  "RP11-75L1.2": [
+    "T1D_UVa_168"
+  ],
+  "RP11-760H22.2": [
+    "kamali_172"
+  ],
+  "RP11-766F14.2": [
+    "GLGC_HDL_137",
+    "GLGC_LDL_150",
+    "GLGC_TC_153",
+    "GLGC_nonHDL_151"
+  ],
+  "RP11-770G2.2": [
+    "GLGC_HDL_137",
+    "GLGC_LDL_150",
+    "GLGC_TC_153",
+    "GLGC_logTG_152"
+  ],
+  "RP11-775D22.2": [
+    "cell-type-T2D"
+  ],
+  "RP11-778D9.12": [
+    "cell-type-T2D"
+  ],
+  "RP11-78O7.2": [
+    "kamali_172"
+  ],
+  "RP11-79P5.2": [
+    "kamali_172"
+  ],
+  "RP11-7M8.2": [
+    "GLGC_LDL_150",
+    "GLGC_TC_153"
+  ],
+  "RP11-813F20.2": [
+    "GLGC_TC_153"
+  ],
+  "RP11-875O11.2": [
+    "COVID-19_effectors_COGS"
+  ],
+  "RP11-87C12.2": [
+    "GLGC_LDL_150",
+    "GLGC_TC_153"
+  ],
+  "RP11-890B15.2": [
+    "kamali_172"
+  ],
+  "RP11-894P9.2": [
+    "cell-type-T2D"
+  ],
+  "RP11-94L15.2": [
+    "T1D_UVa_168"
+  ],
+  "RP11-95P13.2": [
+    "GLGC_logTG_152"
+  ],
+  "RP11-9M16.2": [
+    "GLGC_TC_153"
+  ],
+  "RP3-413H6.2": [
+    "GLGC_LDL_150",
+    "GLGC_TC_153",
+    "GLGC_nonHDL_151"
+  ],
+  "RP3-508I15.22": [
+    "GLGC_logTG_152"
+  ],
+  "RP4-539M6.22": [
+    "GLGC_TC_153"
+  ],
+  "RP4-644L1.2": [
+    "GLGC_nonHDL_151"
+  ],
+  "RP4-715N11.2": [
+    "GLGC_logTG_152",
+    "Lasconi_sleep_317"
+  ],
+  "RP4-742J24.2": [
+    "kamali_172"
+  ],
+  "RP5-1021I20.2": [
+    "GLGC_HDL_137",
+    "GLGC_LDL_150"
+  ],
+  "RP5-1029K10.2": [
+    "COVID-19_effectors_COGS"
+  ],
+  "RP5-1073O3.2": [
+    "su_lupus_180"
+  ]
+}

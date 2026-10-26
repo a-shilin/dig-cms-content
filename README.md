@@ -56,14 +56,10 @@ The intended long-term arrangement is therefore:
 
 Implementation details, field mappings, open decisions, and the active migration checklist are maintained in the [content schema and migration contract](content/drupal/_meta/editing-schema.md).
 
-## Generated files
+## Generated & precomputed EGL files
 
-`content/drupal/_derived/egls.json.gz` is generated data, not edited content: it maps each gene symbol (upper-cased)
-to the effector-gene-list research pages that list it, for the legacy `/rest/egls?gene=<GENE>` endpoint served by
-the content API. It is built from every effector-gene-list research page with a gene column (140 pages; the 26 on
-`Gene_page_PEGLs_475` are flagged) by `cms/scripts/build-egls.mjs` in `dig-service-platform`, which also holds the
-per-page gene-column map, and committed gzipped. After editing one of those pages, rebuild it there and commit the
-result here.
+- `content/drupal/egls/` (47 JSON files across `A.json`–`Z.json`, `0-9_other.json`, `ENSG/ENSG_0.json`–`ENSG_9.json`, and `RP/RP_0.json`–`RP_9.json`) is the `egls` content collection mapping each gene symbol or Ensembl/RP ID to the EGL research pages that contain it, used by `/rest/egls?gene=<GENE>` in `dig-service-platform/cms`. It is generated from the raw `egl nodes` snapshots and `genes.tbl` by the `egl-bi` pipeline (`byGenes_merged_json` renamed to `egls`).
+- `content/drupal/_derived/egls.json.gz` is retained as a fallback/derived index built by `cms/scripts/build-egls.mjs` in `dig-service-platform`.
 
 Run the repository checks with:
 

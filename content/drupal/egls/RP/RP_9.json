@@ -1,0 +1,57 @@
+{
+  "RP1-151B14.9": [
+    "T1D_UVa_168"
+  ],
+  "RP1-29C18.9": [
+    "GLGC_logTG_152"
+  ],
+  "RP11-109P14.9": [
+    "kamali_172"
+  ],
+  "RP11-10A14.9": [
+    "GLGC_logTG_152"
+  ],
+  "RP11-229P13.19": [
+    "kamali_172"
+  ],
+  "RP11-343C2.9": [
+    "GLGC_TC_153"
+  ],
+  "RP11-545P7.9": [
+    "bellenguez_alzheimers_197"
+  ],
+  "RP11-64K12.9": [
+    "GLGC_HDL_137",
+    "GLGC_logTG_152"
+  ],
+  "RP11-661A12.9": [
+    "COVID-19_effectors_COGS"
+  ],
+  "RP11-6N17.9": [
+    "GLGC_HDL_137"
+  ],
+  "RP11-708L7.9": [
+    "GLGC_HDL_137"
+  ],
+  "RP11-738O11.9": [
+    "GLGC_logTG_152"
+  ],
+  "RP11-849F2.9": [
+    "GLGC_HDL_137",
+    "GLGC_LDL_150",
+    "GLGC_TC_153",
+    "GLGC_nonHDL_151"
+  ],
+  "RP3-508I15.19": [
+    "GLGC_logTG_152"
+  ],
+  "RP4-781K5.9": [
+    "GLGC_HDL_137",
+    "GLGC_LDL_150",
+    "GLGC_TC_153",
+    "GLGC_nonHDL_151"
+  ],
+  "RP5-890O3.9": [
+    "kamali_172"
+  ]
+}
