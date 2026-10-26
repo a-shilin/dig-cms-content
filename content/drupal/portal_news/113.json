@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 113,
+  "order": 12,
+  "title": "New T2DKP newsletter available",
+  "summary": "A new edition of our periodic newsletter is now available. Download it <a href=\"https://broad-portal-resources.s3.amazonaws.com/newsletters/T2DKP_newsletter_summer_2019.pdf\" target=\"_blank\">here</a> for the latest news about T2DKP data and features!",
+  "bodyHtml": "A new edition of our periodic newsletter is now available. Download it <a href=\"https://broad-portal-resources.s3.amazonaws.com/newsletters/T2DKP_newsletter_summer_2019.pdf\" target=\"_blank\">here</a> for the latest news about T2DKP data and features!",
+  "fieldPortals": "t2d",
+  "fieldImage": "",
+  "viewNode": "<a href=\"/node/113\" hreflang=\"en\">view</a>",
+  "publishedAt": "2019-09-17T14:11:26.000Z",
+  "updatedAt": "2019-09-17T14:11:58.000Z",
+  "published": true
+}

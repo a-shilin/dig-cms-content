@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1585,
+  "order": 159,
+  "title": "NIDDK Celebrates its 75th Anniversary",
+  "summary": "The National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK) celebrates its 75th anniversary this year. This anniversary collection includes articles honoring the NIDDK and recognizes the scientific advancements that have helped millions of Americans with diabetes. Read the full…",
+  "bodyHtml": "<p><span>The National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK) celebrates its 75th anniversary this year. This </span><a href=\"https://diabetesjournals.org/collection/2745/NIDDK-75th-Anniversary-Collection\"><span>anniversary collection</span></a><span> includes articles honoring the NIDDK and recognizes the scientific advancements that have helped millions of Americans with diabetes. As part of this effort, the Accelerating Medicines Partnership (AMP) Programs in Type 2 Diabetes (</span><a href=\"https://www.niddk.nih.gov/about-niddk/research-areas/diabetes/accelerating-medicines-partnership-type-2-diabetes\"><span>AMP T2D</span></a><span>) and Common Metabolic Diseases (</span><a href=\"https://www.niddk.nih.gov/research-funding/research-programs/accelerating-medicines-partnership-common-metabolic-diseases\"><span>AMP CMD</span></a><span>) have led to significant progress in identifying genes and pathways related to common metabolic diseases over the last two decades. Key contributions have been made to the diagnosis and treatment of phenotypes including type 1 and type 2 diabetes, obesity, cardiovascular disease, kidney disease, and nonalcoholic steatohepatitis. Check out the </span><a href=\"https://diabetesjournals.org/diabetes/article/doi/10.2337/db25-0042/158187/Accelerating-Medicines-Partnership-in-Type-2?searchresult=1\"><span>full review</span></a><span> here, which showcases how the findings from AMP CMD align with NIDDK’s mission to conduct research and share results with the goal of improving health and quality of life.</span></p><img data-entity-uuid=\"78e6c08f-e31c-426e-86be-bb77085760d1\" data-entity-type=\"file\" src=\"/sites/default/files/inline-images/NIDDK%2075.png\" width=\"180\" alt=\"\" />",
+  "fieldPortals": "cmdkp, t2d, t1d",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/NIDDK%2075.png",
+  "viewNode": "<a href=\"/node/1585\" hreflang=\"en\">view</a>",
+  "publishedAt": null,
+  "updatedAt": null,
+  "published": true
+}

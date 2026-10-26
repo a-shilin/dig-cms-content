@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1438,
+  "order": 137,
+  "title": "Focus group video available",
+  "summary": "Video from our discussion on how to represent tissue-specific information on the Knowledge Portals is now available.",
+  "bodyHtml": "<p><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/CVhnSlEw6vE?si=F3LD6S0rkQFA2V6W\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\"></iframe></p><p>In this focus group we discussed the in-development Tissue page of the Knowledge Portals. Even if you didn’t attend the focus group, we would love to hear your opinions on data types and visualizations for tissue-specific data that would be most useful for you! Please let us know your thoughts at <a href=\"mailto:help@kp4cd.org\">help@kp4cd.org</a>.</p><p>&nbsp;</p>",
+  "fieldPortals": "md, t1d, t2d, sleep, cd, cvd, lung, msk, a2f, ocular, reproductive, autoimmune, aging, kidney",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/Screenshot%202024-03-07%20at%203.01.03%E2%80%AFPM.png",
+  "viewNode": "<a href=\"/node/1438\" hreflang=\"en\">view</a>",
+  "publishedAt": null,
+  "updatedAt": null,
+  "published": true
+}

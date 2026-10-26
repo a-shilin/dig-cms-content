@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 773,
+  "order": 79,
+  "title": "Webinar video and slides available: introducing the Bring Your Own Results (BYOR) service",
+  "summary": "In our December 9, 2021 webinar we introduced and demonstrated our new \"Bring Your Own Results\" (BYOR) interactive interface.",
+  "bodyHtml": "<p>In our December 9, 2021 webinar we introduced and demonstrated our new \"Bring Your Own Results\" (BYOR) interactive interface that allows researchers to showcase biomedical data in interactive tables and graphical visualizations, without the need for computer programming expertise.</p>\n\n<p><a href=\"\nhttps://youtu.be/iKd3AVrwDnk\" target=\"_blank\">View the video</a></p>\n\n<p><a href=\"\nhttps://kp4cd.org/sites/default/files/documents/KPN_Dec2021_webinar.pdf\" target=\"_blank\">Download the slide deck</a></p>\n\n<p>Useful links:</p>\n\n<p><a href=\"https://kp4cd.org/research_portals\" target=\"_blank\">Getting started with BYOR</a></p>\n\n<p><a href=\"https://kp4cd.org/\" target=\"_blank\">Links to Research Pages and Portals</a></p>\n",
+  "fieldPortals": "md, t1d, t2d, cd, cvd, sleep, lung, msk, nage, a2f, a2f",
+  "fieldImage": "",
+  "viewNode": "<a href=\"/node/773\" hreflang=\"en\">view</a>",
+  "publishedAt": "2021-12-09T19:41:05.000Z",
+  "updatedAt": "2021-12-09T19:46:06.000Z",
+  "published": true
+}

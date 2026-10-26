@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1531,
+  "order": 153,
+  "title": "PEG workshop materials available",
+  "summary": "Materials from our community workshop on standards and infrastructure for predicted effector gene (PEG) lists are now available in a public Google drive.",
+  "bodyHtml": "<p>Earlier this week we held a community workshop on standards and infrastructure for predicted effector gene (PEG) lists. We were grateful to have an energetic and thoughtful group of presenters and attendees, and we had some great discussions. We’ll provide a formal summary of the workshop in the future, but the bottom line is that we all agreed that bringing more standardization to reporting PEG lists would greatly increase their value to the research community. We’ll be working towards that goal in the future, and we hope you’ll join us!</p><p>If you’d like to catch up on what happened at the workshop, we’re collecting the materials in a public <a href=\"https://drive.google.com/drive/folders/0AHqP0JPJJDAtUk9PVA\">Google drive</a>. It doesn’t yet include slides from all the talks, but links to the videos are available in the <a href=\"https://drive.google.com/drive/folders/1CslGnW7wudLgyGy7A10j10woB-a80cpr?usp=drive_link\" target=\"_blank\">Presentations</a> folder.</p>",
+  "fieldPortals": "md, t2d, t1d, msk, nage, a2f, reproductive, cd, cvd, lung, msk, autoimmune, ocular, kidney, aging",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/effector_prediction_5.png",
+  "viewNode": "<a href=\"/node/1531\" hreflang=\"en\">view</a>",
+  "publishedAt": null,
+  "updatedAt": null,
+  "published": true
+}

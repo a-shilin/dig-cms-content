@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 830,
+  "order": 88,
+  "title": "Webinar video available",
+  "summary": "View video of our April 14, 2022 webinar.",
+  "bodyHtml": "<p>In this Knowledge Portal Network webinar, presented on April 14, 2022, we reviewed the new datasets and features in our recent production release of the Knowledge Portals and discussed our team's involvement in the NCATS Biomedical Translator project.</p>\n\n<p><iframe allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/0J4JtAo6KBU\" title=\"YouTube video player\" width=\"560\"></iframe></p>\n",
+  "fieldPortals": "md, t1d, t2d, cvd, cd, sleep, lung, msk",
+  "fieldImage": "",
+  "viewNode": "<a href=\"/node/830\" hreflang=\"en\">view</a>",
+  "publishedAt": "2022-04-14T12:00:00.000Z",
+  "updatedAt": "2022-04-14T12:00:00.000Z",
+  "published": true
+}

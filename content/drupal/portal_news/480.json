@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 480,
+  "order": 42,
+  "title": "Webinar video available",
+  "summary": "Our Nov. 12, 2020 webinar demonstrated the Musculoskeletal Knowledge Portal and presented recent updates to the CMDKP.",
+  "bodyHtml": "<p>In our November 12, 2020 webinar Dr. Douglas Kiel discussed the motivation for the recent collaboration between the Broad Institute Knowledge Portal team and the <a href=\"https://www.ifmrs.org/\" target=\"_blank\">International Federation of Musculoskeletal Research Societies</a> (IFMRS) to create the Musculoskeletal Knowledge Portal (MSK-KP).&nbsp;We then demonstrated the MSK-KP and also presented recent updates to the&nbsp;<a href=\"https://hugeamp.org/\" target=\"_blank\">Common Metabolic Diseases Knowledge Portal</a>.</p>\n\n<p><iframe allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/A8g5yJMFj4g\" width=\"560\"></iframe></p>\n",
+  "fieldPortals": "msk",
+  "fieldImage": "",
+  "viewNode": "<a href=\"/node/480\" hreflang=\"en\">view</a>",
+  "publishedAt": "2020-12-03T17:34:21.000Z",
+  "updatedAt": "2020-12-08T16:56:46.000Z",
+  "published": true
+}

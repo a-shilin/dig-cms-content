@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1758,
+  "order": 202,
+  "title": "Join us on Friday, June 26th, 2026 for our next session of the Public Webinar Series!",
+  "summary": "Cell Maps For AI: Mapping Cellular Structure and Function",
+  "bodyHtml": "<p>Join the session to hear how the CM4AI data generation project seeks to map the spatiotemporal architecture of human cells and use these maps toward the grand challenge of interpretable genotype-phenotype learning.</p><p>Speakers:</p><ul><li>Jake Chen, PhD–PI (Teaming)</li><li>Tim Clark, PhD–PI (Standards)</li><li>Jan Hansen, PhD–Post-doc</li><li>Wade Schulz, PhD–PI (Skills and Workforce)</li></ul><p><a href=\"https://broadinstitute.zoom.us/webinar/register/WN_x0bGLLt4TbqFGlxlMM-T2A\">Register for the event</a></p><p> </p><img src=\"https://kp4cd.org/sites/default/files/News%20Items/CFDE%20Public%20Webinar%20Series%20-%20Friday%2C%20June%2026%2C%202026.png\" data-entity-uuid=\"559c7735-d7d4-4b41-8aaa-56d1bfabeda4\" data-entity-type=\"file\" alt=\"\" width=\"1920\" height=\"1080\" loading=\"lazy\" /><p> </p><p> </p>",
+  "fieldPortals": "md, cvd, cd, sleep, t1d, t2d, lung, nage, msk, a2f, kidney, aging",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/CFDE%20Public%20Webinar%20Series%20-%20Friday%2C%20June%2026%2C%202026.png",
+  "viewNode": "<a href=\"/node/1758\" hreflang=\"en\">view</a>",
+  "publishedAt": "2026-06-26T12:00:00.000Z",
+  "updatedAt": "2026-06-26T12:00:00.000Z",
+  "published": true
+}

@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1364,
+  "order": 135,
+  "title": "KPN webinar recording available: expanding into a Biomedical Knowledge Portal Network",
+  "summary": "View the recording of our webinar about the NIH Common Fund Data Ecosystem and the Knowledge Portal team's new role within it.",
+  "bodyHtml": "<p>In our February 8 KPN webinar we introduced a network of consortia doing groundbreaking research, the <a href=\"https://commonfund.nih.gov/dataecosystem\" target=\"_blank\">NIH Common Fund Data Ecosystem</a> (CFDE), and described our new role as the CFDE Knowledge Center.</p><p>&nbsp;</p><p>&nbsp;</p><p class=\"text-align-center\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/PkZdLvhU4Vs?si=eZhWCzuE7Evq7M-m\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\"></iframe></p><p>&nbsp;</p>",
+  "fieldPortals": "md, t1d, t2d, sleep, cd, cvd, lung, msk, a2f, ocular, reproductive, autoimmune, aging, kidney",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/Screenshot%202024-02-05%20at%2010.39.58%E2%80%AFAM.png",
+  "viewNode": "<a href=\"/node/1364\" hreflang=\"en\">view</a>",
+  "publishedAt": null,
+  "updatedAt": null,
+  "published": true
+}

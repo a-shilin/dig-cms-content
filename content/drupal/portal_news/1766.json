@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1766,
+  "order": 210,
+  "title": "Join us for the July 23rd, 2026 KPN Webinar!",
+  "summary": "Trang Nguyen will present on \"Rare-variant association studies: a primer, a problem, and a proposal for baseline masks.\"",
+  "bodyHtml": "<p>🧬 Rare-variant association studies: a primer, a problem, and a proposal for baseline masks<br />📆 Thursday, July 23rd, 2026<br />⏰ 12:00–1:00 PM ET<br />🎙️ Featured speaker: Trang Nguyen, The Broad Institute</p><p>What topics will we cover in this forum:</p><ul><li>A brief primer on rare-variant association studies (RVAS)</li><li>A widespread problem regarding \"masks\" in RVAS</li><li>A proposal for baseline masks to increase consistency and replicability in future studies</li></ul><p>🔗 Explore Trang's paper before the talk: https://www.nature.com/articles/s41588-026-02597-9<br />💻 Register for the event: <a href=\"https://broadinstitute.zoom.us/webinar/register/WN__dgDoIUZSVyPwKvZ3Xx7mQ\">https://broadinstitute.zoom.us/webinar/register/WN__dgDoIUZSVyPwKvZ3Xx7mQ</a></p><img src=\"https://kp4cd.org/sites/default/files/News%20Items/July%2023%2C%202026%20KPN%20Webinar.png\" data-entity-uuid=\"42084709-ccae-4c35-9ee3-f12f7c6b5123\" data-entity-type=\"file\" alt=\"\" width=\"960\" height=\"540\" loading=\"lazy\" />",
+  "fieldPortals": "md, cvd, cd, sleep, t1d, t2d, lung, nage, msk, a2f, kidney, aging",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/July%2023%2C%202026%20KPN%20Webinar.png",
+  "viewNode": "<a href=\"/node/1766\" hreflang=\"en\">view</a>",
+  "publishedAt": "2026-07-23T12:00:00.000Z",
+  "updatedAt": "2026-07-23T12:00:00.000Z",
+  "published": true
+}

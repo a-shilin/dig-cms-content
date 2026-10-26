@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1747,
+  "order": 192,
+  "title": "Introducing the Skin Knowledge Portal!",
+  "summary": "Are you a researcher interested in advancing your understanding of skin disease through large-scale genomic data?",
+  "bodyHtml": "<p><span>Check out The Skin Knowledge Portal (</span><a href=\"http://skin.hugeamp.org/\"><span>skin</span>.hugeamp.org</a><span>), which enables browsing, searching, and analysis of human genetic information linked to skin diseases and related traits, while protecting the integrity and confidentiality of the underlying data.</span><br /><br /><span>The Skin Knowledge Portal is being developed by the </span><a href=\"https://skingeneticsconsortium.org/\"><span>Skin</span> Genetics Consortium (SGC)</a><span>, an international network of scientists and clinicians collaborating to advance our understanding of the genetic underpinnings of skin diseases by leveraging large-scale genomic data, with a team of scientists and software engineers at the </span><a href=\"https://www.broadinstitute.org/\">Broad Institute of MIT and Harvard</a><span>.</span><br /><br /><span>We invite you to </span><a href=\"https://skingeneticsconsortium.org/contact.html\">contribute datasets</a><span> to support collaborative discovery.</span><br /><br /><span>If you are interested in connecting and contributing, or have any questions, please contact us at </span><a href=\"mailto:help@kp4cd.org\">help@kp4cd.org</a><span>.</span></p>",
+  "fieldPortals": "md, cvd, cd, sleep, t1d, t2d, lung, nage, msk, a2f, kidney, aging, skin",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/skin%20kp%20logo.png",
+  "viewNode": "<a href=\"/node/1747\" hreflang=\"en\">view</a>",
+  "publishedAt": null,
+  "updatedAt": null,
+  "published": true
+}

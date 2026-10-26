@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 905,
+  "order": 94,
+  "title": "Recap of our June production release",
+  "summary": "This month we added 51 new genetic association datasets and some new features to the Knowledge Portals! Get a quick recap in this video.",
+  "bodyHtml": "<p>This month we added 51 new genetic association datasets and some new features to the Knowledge Portals! Get a quick recap in this video.</p>\n\n<p><iframe allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/uSz1i2dvYZA\" title=\"YouTube video player\" width=\"560\"></iframe></p>\n",
+  "fieldPortals": "md, t1d, t2d, cvd, cd, sleep, lung, msk, a2f, ndkp, nage",
+  "fieldImage": "",
+  "viewNode": "<a href=\"/node/905\" hreflang=\"en\">view</a>",
+  "publishedAt": null,
+  "updatedAt": null,
+  "published": true
+}

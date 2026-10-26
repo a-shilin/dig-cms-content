@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1212,
+  "order": 119,
+  "title": "Funding opportunity: join AMP CMD!",
+  "summary": "Applications are now invited for AMP CMD Opportunity Pool funding.",
+  "bodyHtml": "<p>The <a href=\"https://www.nih.gov/research-training/accelerating-medicines-partnership-amp/common-metabolic-diseases\" target=\"_blank\">Accelerating Medicines Partnership in Common Metabolic Diseases (AMP-CMD)</a>, a public-private partnership to identify drivers of common metabolic diseases, has released a <a href=\"https://kp4cd.org/OP_FOA_2023\" target=\"_blank\">Funding Opportunity Announcement</a> (FOA) for its cycle 3 Opportunity Pool. This Opportunity Pool, funded by the National Institute of Diabetes and Digestive and Kidney Diseases (<a href=\"https://www.niddk.nih.gov/\" target=\"_blank\">NIDDK</a>), supports research aligned with the AMP-CMD consortium goals of supporting the generation and analysis of genetic association results, epigenomic annotations, and functional studies, and the representation of these results in the <a href=\"https://hugeamp.org/\" target=\"_blank\">Common Metabolic Diseases Knowledge Portal</a> CMDKP).</p>\n\n<p>This application cycle focuses on novel approaches to identify the functional mechanisms underlying associations for cardiometabolic diseases and related traits. Topics of interest include, but are not limited to:</p>\n\n<ul>\n\t<li><i>Novel computational tools to better identify effector transcripts</i></li>\n\t<li><i>Improved cell models to analyze gene function</i></li>\n\t<li><i>Improved cell assays to analyze effector transcript functions in cardiometabolic cell types (adipocytes, myocytes, etc.)</i></li>\n</ul>\n\n<p>We welcome applications from both within and outside of the AMP CMD consortium. Proposals are due on <u>Tuesday, September 5th, 2023</u>. Please refer to the <a href=\"https://kp4cd.org/OP_FOA_2023\" target=\"_blank\">Funding Opportunity Announcement</a> and the <a href=\"https://kp4cd.org/OP_handbook_2023\" target=\"_blank\">Opportunity Pool Handbook</a> for the application procedure and more details.&nbsp;</p>\n\n<p>Please send an email to&nbsp;<a href=\"mailto:amp-cmd-opportunity-pool@broadinstitute.org\" target=\"_blank\">amp-cmd-opportunity-pool(at)broadinstitute.org</a>&nbsp;if you have any questions.</p>\n",
+  "fieldPortals": "md, t1d, t2d, nage, cd, cvd, sleep",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/Screenshot%202023-06-26%20at%205.46.15%20PM.png",
+  "viewNode": "<a href=\"/node/1212\" hreflang=\"en\">view</a>",
+  "publishedAt": "2023-09-05T12:00:00.000Z",
+  "updatedAt": "2023-09-05T12:00:00.000Z",
+  "published": true
+}

@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1363,
+  "order": 134,
+  "title": "New AMP CMD funding opportunities",
+  "summary": "Submit your research proposal to the FNIH by April 3, 2024 to join the AMP CMD consortium!",
+  "bodyHtml": "<p>The Foundation for the National Institutes of Health (<a href=\"https://fnih.org/ target=\">FNIH</a>) has issued two new <a href=\"https://fnih.org/our-programs/accelerating-medicines-partnership-amp/amp-common-metabolic-disorders/\" target=\"_blank\">requests for proposals</a> for the Accelerating Medicines Partnership® in Common Metabolic Diseases (AMP® CMD). <a href=\"https://fnih.org/wp-content/uploads/2024/02/AMP-CMD-RFP-5_FINAL_for-release.pdf\" target=\"_blank\">RFP5</a> seeks proposals for generating 'omic and multi-omic results in tissues relevant to common metabolic diseases, while <a href=\"https://fnih.org/wp-content/uploads/2024/02/AMP-CMD-RFP-6_FINAL_for-release.pdf\" target=\"_blank\">RFP6</a> will fund generation of 'omic and multi-omic results in the same tissues, specifically in non-European ancestry cohorts. Results from the funded proposals will be incorporated into the Common Metabolic Diseases Genome Atlas and/or the Common Metabolic Diseases Knowledge Portal. Proposals are due by April 3, 2024.</p>",
+  "fieldPortals": "md, t2d, t1d, cd, cvd, sleep",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/Screenshot%202024-02-02%20at%2010.59.18%E2%80%AFAM.png",
+  "viewNode": "<a href=\"/node/1363\" hreflang=\"en\">view</a>",
+  "publishedAt": "2024-04-03T12:00:00.000Z",
+  "updatedAt": "2024-04-03T12:00:00.000Z",
+  "published": true
+}

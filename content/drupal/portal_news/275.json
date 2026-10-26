@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 275,
+  "order": 20,
+  "title": "T2DKP User Survey",
+  "summary": "Help shape the future of the T2D Knowledge Portal!",
+  "bodyHtml": "<p>As we plan&nbsp;for the future of the&nbsp;<a href=\"http://www.type2diabetesgenetics.org/\" target=\"_blank\">AMP T2D Knowledge Portal</a>, it&nbsp;would be extremely helpful to us to hear from all T2DKP users. Your input and scientific needs will help determine new directions for the T2DKP! We would appreciate your taking a few minutes to fill out this survey&nbsp;by Friday November 8.</p>\n\n<p><iframe frameborder=\"0\" height=\"2868\" marginheight=\"0\" marginwidth=\"0\" src=\"https://docs.google.com/forms/d/e/1FAIpQLSfYCYW-y15mUxSvZtT-3ZUyJAIpM4dnsbP0s8_GT85jM-R1zA/viewform?embedded=true\" width=\"640\">Loading…</iframe></p>\n",
+  "fieldPortals": "t2d",
+  "fieldImage": "",
+  "viewNode": "<a href=\"/node/275\" hreflang=\"en\">view</a>",
+  "publishedAt": "2019-10-28T15:33:53.000Z",
+  "updatedAt": "2019-10-28T16:20:42.000Z",
+  "published": true
+}

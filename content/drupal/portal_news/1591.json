@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1591,
+  "order": 164,
+  "title": "Headed to ISMB? Check out our platform talk as part of the NIH Track on GenAI, Cyberinfrastructure, Digital Twins, and Quantum Computing!",
+  "summary": "Headed to ISMB? Check out our platform talk as part of the NIH Track on GenAI, Cyberinfrastructure, Digital Twins, and Quantum Computing!",
+  "bodyHtml": "<p>Julie Jurgens will be giving an invited platform talk \"The Gene Set Browser: An interoperable and AI/ML-ready tool for gene set analysis in the Common Fund Data Ecosystem (CFDE)\" as part of the NIH Track on GenAI, Cyberinfrastructure, Digital Twins, and Quantum Computing!</p><p><span>This </span><a href=\"https://www.iscb.org/ismbeccb2025/programme-agenda/scientific-programme/nih\"><span>full-day track</span></a><span> will explore the transformative potential of cloud and emerging technologies in biomedical research, focusing on quantum computing, digital twins, artificial intelligence (AI), and NIH cloud cyberinfrastructure initiatives. Hosted by the National Institutes of Health (NIH) Office of Data Science Strategy (ODSS) and Center for Information Technology (CIT), the session aims to bridge cutting-edge research and practical applications in areas like drug discovery, precision medicine, and personalized healthcare. It will bring together researchers, practitioners, and technology leaders to discuss the latest advancements and how they can revolutionize biomedical research and clinical applications.</span></p><p><span>Check out Room 02F from 15:40-16:00 to hear Julie speak!</span></p><img src=\"https://kp4cd.org/sites/default/files/banner.ConferenceBanner.ISMBECCB.2025%20(1).png\" data-entity-uuid=\"8d0c5dbe-6995-47d6-b49d-f74754b1c235\" data-entity-type=\"file\" alt=\"\" width=\"1410\" height=\"235\" loading=\"lazy\" />",
+  "fieldPortals": "md, cvd, cd, sleep, t1d, t2d, lung, nage, msk, a2f, kidney, aging",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/ismb.png",
+  "viewNode": "<a href=\"/node/1591\" hreflang=\"en\">view</a>",
+  "publishedAt": "2025-01-01T12:00:00.000Z",
+  "updatedAt": "2025-01-01T12:00:00.000Z",
+  "published": true
+}

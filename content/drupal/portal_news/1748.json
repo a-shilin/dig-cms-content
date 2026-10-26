@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1748,
+  "order": 193,
+  "title": "Recording now available for the May 7th, 2026 Knowledge Portal Webinar!",
+  "summary": "Trang Nguyen presented on the variant sifter, watch now!",
+  "bodyHtml": "<p>🧬 Unable to join today's KPN Webinar with Trang Nguyen presenting on the Variant Sifter?</p><p>💻 The recording is now LIVE: <a href=\"https://youtu.be/NVTol3VkI3Y\">https://youtu.be/NVTol3VkI3Y</a></p><img src=\"https://kp4cd.org/sites/default/files/May%207th%2C%202026%20KPN%20Webinar.png\" data-entity-uuid=\"\" data-entity-type=\"file\" alt=\"\" width=\"960\" height=\"540\" loading=\"lazy\" />",
+  "fieldPortals": "md, cvd, cd, sleep, t1d, t2d, lung, nage, msk, a2f, kidney, aging",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/May%207th%2C%202026%20KPN%20Webinar_0.png",
+  "viewNode": "<a href=\"/node/1748\" hreflang=\"en\">view</a>",
+  "publishedAt": "2026-05-07T12:00:00.000Z",
+  "updatedAt": "2026-05-07T12:00:00.000Z",
+  "published": true
+}

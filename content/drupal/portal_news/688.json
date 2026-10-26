@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 688,
+  "order": 61,
+  "title": "Launch of the Accelerating Medicines Partnership for Common Metabolic Diseases",
+  "summary": "We are proud to announce our participation in a new collaborative effort, AMP-CMD.",
+  "bodyHtml": "<p>We are proud to announce our participation in a new collaborative effort launched today: the <a href=\"https://fnih.org/our-programs/amp/accelerating-medicines-common-metabolic-diseases\" target=\"_blank\">Accelerating Medicines Partnership for Common Metabolic Diseases</a> (AMP-CMD), building on the foundation of the AMP-T2D consortium and the AMP-T2D Knowledge Portal. This public-private partnership includes the Foundation for the National Institutes of Health (<a href=\"https://fnih.org\" target=\"_blank\">FNIH</a>), the National Institute of Diabetes and Digestive and Kidney Diseases (<a href=\"https://www.niddk.nih.gov/\" target=\"_&quot;blank&quot;\">NIDDK</a>), pharmaceutical partners at <a href=\"https://www.amgen.com/\" target=\"_blank\">Amgen</a>, <a href=\"https://www.lilly.com/\" target=\"_blank\">Eli Lilly and Company</a>, <a href=\"https://www.novonordisk-us.com/\" target=\"_blank\">Novo Nordisk</a>, and <a href=\"https://www.pfizer.com/\" target=\"_blank\">Pfizer Inc</a>. AMP-CMD funds research into the molecular basis of common diseases such as diabetes, cardiovascular disease, obesity, and kidney and liver disease at many institutions, and also supports the AMP-CMD Knowledge Portal to represent these research results. Find more details in a <a href=\"https://fnih.org/news/press-releases/foundation-nih-announces-new-research-initiative-find-integrated-treatments\" target=\"_blank\">press release from the FNIH</a>.</p>\n\n<p>With today's launch, we also have a new release of data and features to the CMDKP: 20 new datasets and 25 additional traits, adding associations for a whole range of diabetic complications and a variety of other cardiometabolic phenotypes. Look for news items describing the updates in the next few days!</p>\n\n<p><img src=\"http://kp4cd.org/sites/default/files/images/AMP_CMD_Final_Graphic.png\" /></p>\n",
+  "fieldPortals": "md, t1d, t2d, cd, cvd, sleep",
+  "fieldImage": "",
+  "viewNode": "<a href=\"/node/688\" hreflang=\"en\">view</a>",
+  "publishedAt": "2021-05-26T19:06:51.000Z",
+  "updatedAt": "2021-05-27T13:31:08.000Z",
+  "published": true
+}

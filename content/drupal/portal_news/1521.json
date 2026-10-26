@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1521,
+  "order": 148,
+  "title": "Variant quality metrics added to BCH Aggregator - July 19, 2024",
+  "summary": "<p><span>Quality metrics charts have been added to the Variant pages! These compare the metrics of the variant of interest to the genomic or population background and include read depth, genotype quality, allele balance, and more.</span></p>",
+  "bodyHtml": "<p><span>Quality metrics charts have been added to the Variant pages! These compare the metrics of the variant of interest to the genomic or population background and include read depth, genotype quality, allele balance, and more. Additionally, this update included improvements and optimization on the backend, such as updating the data structure and adding logging functions.</span></p>",
+  "fieldPortals": "aggregator",
+  "fieldImage": "",
+  "viewNode": "<a href=\"/node/1521\" hreflang=\"en\">view</a>",
+  "publishedAt": "2024-07-19T12:00:00.000Z",
+  "updatedAt": "2024-07-19T12:00:00.000Z",
+  "published": true
+}

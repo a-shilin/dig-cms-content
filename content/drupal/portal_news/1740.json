@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1740,
+  "order": 185,
+  "title": "Join us for our upcoming Knowledge Portal Webinar Thursday, April 9, 2026!",
+  "summary": "Be among the first to explore what’s new in the Common Metabolic Diseases Knowledge Portal (CMDKP).",
+  "bodyHtml": "<p>Be among the first to explore what’s new in the Common Metabolic Diseases Knowledge Portal (CMDKP). Join us for our upcoming Knowledge Portal Webinar:</p><p>🧬 Enabling Discovery: Unveiling New Data, Features, and Tools in CMDKP<br />🗓 Thursday, April 9, 2026<br />⏰ 12:00–1:00 PM ET</p><p>This session offers an exclusive first look at the latest production release designed to accelerate discovery and empower your research.</p><p>What you’ll learn:<br />🔍 A walkthrough of new data, features, and tools<br />⚙️ Practical tips on how to get the most out of the latest updates<br />💡 Insider insights into what we built and why it matters<br />💬 A chance to ask questions live and connect with the team</p><p>Whether you’re a current user or new to CMDKP, this webinar will help you unlock the full potential of the platform.</p><p>💻 Register: <a href=\"https://broadinstitute.zoom.us/webinar/register/WN__dgDoIUZSVyPwKvZ3Xx7mQ\">https://broadinstitute.zoom.us/webinar/register/WN__dgDoIUZSVyPwKvZ3Xx7mQ</a></p><img src=\"https://kp4cd.org/sites/default/files/April%209th%2C%202026%20KPN%20Webinar.png\" data-entity-uuid=\"63ea0519-6b58-4394-ad5b-2b9f1da27e9e\" data-entity-type=\"file\" alt=\"\" width=\"960\" height=\"540\" loading=\"lazy\" />",
+  "fieldPortals": "md, cvd, cd, sleep, t1d, t2d, lung, nage, msk, a2f, kidney, aging",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/April%209th%2C%202026%20KPN%20Webinar.png",
+  "viewNode": "<a href=\"/node/1740\" hreflang=\"en\">view</a>",
+  "publishedAt": "2026-04-09T12:00:00.000Z",
+  "updatedAt": "2026-04-09T12:00:00.000Z",
+  "published": true
+}

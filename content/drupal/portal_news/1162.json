@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1162,
+  "order": 115,
+  "title": "Explainer video summarizes our recent T2DKP article",
+  "summary": "We've made an \"explainer\" video to summarize our recently published article on the Type 2 Diabetes Knowledge Portal.",
+  "bodyHtml": "<p style=\"text-align: center\"><img src=\"https://kp4cd.org/sites/default/files/images/Cell_Metabolism_cover.png\" style=\"height: 400px;\" /></p>\n\n<p>We recently published a paper in <i>Cell Metabolism</i> that comprehensively describes the Type 2 Diabetes Knowledge Portal (<a href=\"https://t2d.hugeamp.org/\" target=\"_blank\">T2DKP</a>): its data, methods, interfaces and tools, along with step-by-step workflows and best practices for interpreting the results it displays. Although this paper focuses on the T2DKP, everything reported in it is generally applicable to the other Knowledge Portals. You can get a quick overview of the article in this brief video, and read the open-access article <a href=\"https://authors.elsevier.com/sd/article/S1550-4131(23)00079-7\" target=\"_blank\">here</a>.</p>\n\n<p style=\"text-align: center\"><iframe allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\" frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/IuUTVCqTigA\" title=\"YouTube video player\" width=\"560\"></iframe></p>\n",
+  "fieldPortals": "md, t1d, t2d, cvd, cd, sleep, nage, msk, lung, a2f, ndkp, autoimmune, reproductive",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/Cell_Metabolism_cover_square_0.png",
+  "viewNode": "<a href=\"/node/1162\" hreflang=\"en\">view</a>",
+  "publishedAt": null,
+  "updatedAt": null,
+  "published": true
+}

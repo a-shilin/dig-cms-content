@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 10,
+  "order": 3,
+  "title": "Meet the Knowledge Portal team at AHA",
+  "summary": "This weekend, cardiovascular researchers from around the globe will be meeting in Chicago for the...",
+  "bodyHtml": "<p>This weekend, cardiovascular researchers from around the globe will be meeting in Chicago for the&nbsp;<a href=\"https://professional.heart.org/professional/EducationMeetings/MeetingsLiveCME/ScientificSessions/UCM_316900_Scientific-Sessions.jsp\" target=\"_blank\">2018 Scientific Sessions of the American Heart Association</a>. Members of the Knowledge Portal Network team will be there&nbsp;to meet and talk with geneticists and biologists who use the Portals and get your input on how we can improve them.<br />\n<br />\nPlease come visit us at booth #2249 in the Exhibit Hall! We'll be there on Saturday, Nov. 10 from 11am-5pm; on Sunday, Nov. 11 from 10am-4:30pm; and on Monday, Nov. 12 from 10am-3pm.</p>\n",
+  "fieldPortals": "t2d, mi, stroke, sleep, cvd, cd",
+  "fieldImage": "",
+  "viewNode": "<a href=\"/node/10\" hreflang=\"en\">view</a>",
+  "publishedAt": "2019-02-20T15:50:18.000Z",
+  "updatedAt": "2020-03-09T17:43:27.000Z",
+  "published": true
+}

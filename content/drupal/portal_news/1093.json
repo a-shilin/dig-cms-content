@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1093,
+  "order": 112,
+  "title": "Knowledge Portal Focus Group March 9 - video available",
+  "summary": "In our Thursday, March 9 focus group we demonstrated our open-access data sharing service, BYOR.",
+  "bodyHtml": "<p>In our Knowledge Portal focus group on Thursday, March 9 we had an interactive discussion about our BYOR service. This free, open-access platform (<a href=\"https://hugeampkpn.org/\" target=\"_blank\">byor.science</a>) allows you to easily upload, visualize, and share genetic and genomic results. We demonstrated some examples and talked about how we’re using this software to represent results on the Knowledge Portals. You can find the recording <a href=\"https://youtu.be/eYwKxCkzKBU\" target=\"_blank\">here</a>.</p>\n\n<p style=\"text-align: center\"><img src=\"https://kp4cd.org/sites/default/files/images/KPN_focus_group_3-9-23.png\" style=\"width:500px;\" /></p>\n",
+  "fieldPortals": "md, t2d, t1d, cvd, cd, sleep, msk, nage, a2f, lung, reproductive, autoimmune, ocular",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/magnifying_glass_1.png",
+  "viewNode": "<a href=\"/node/1093\" hreflang=\"en\">view</a>",
+  "publishedAt": null,
+  "updatedAt": null,
+  "published": true
+}

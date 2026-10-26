@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 378,
+  "order": 33,
+  "title": "Webinar video available",
+  "summary": "Video of our May 21, 2020 webinar is now available for viewing.",
+  "bodyHtml": "<p>Video of our May 21, 2020 webinar is now <a href=\"https://www.youtube.com/watch?v=BSyfu7tTnPY&amp;feature=youtu.be\">available for viewing</a>. In the webinar we reviewed our latest data release and offered a sneak peek into development of the Common Metabolic Diseases Knowledge Portal (CMDKP). The CMDKP will combine all of the data present in the T2D, Cardiovascular Disease, Cerebrovascular Disease, and Sleep Disorder Knowledge Portals, offering both a combined view and disease-specific view for each of the four component portals. Please try out the beta version of the CMDKP <a href=\"http://cmdgenkp-beta.org:5000/\" target=\"_blank\">here</a> and <a href=\"http://kp4cd.org/your_thoughts\" target=\"_blank\">give us your feedback!</a></p>\n",
+  "fieldPortals": "t2d, cmd, cmdkp, mi, cvd, stroke, sd, sleep, cd",
+  "fieldImage": "",
+  "viewNode": "<a href=\"/node/378\" hreflang=\"en\">view</a>",
+  "publishedAt": "2020-06-08T15:32:06.000Z",
+  "updatedAt": "2020-07-23T19:20:08.000Z",
+  "published": true
+}

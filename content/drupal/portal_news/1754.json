@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1754,
+  "order": 198,
+  "title": "Join our June 29th, 2026, virtual roundtable with the NIH’s All of Us Research Program",
+  "summary": "Study diabetes at scale using genomic, EHR, survey, and wearable data from 633,000+ All of Us participants.",
+  "bodyHtml": "<p>Using Large-Scale Data to Advance Your Diabetes Research</p><p>Monday, June 29th, 2026<br />1:00–2:00 p.m. ET </p><p>Hear from researchers using All of Us data:</p><ul><li>Satoshi Yoshiji, MD, PhD, Assistant Professor, McGill University and Visiting Scholar,<br />Broad Institute</li><li>Julie Jurgens, PhD, Scientific Communications and Curation Manager, Knowledge<br />Portals, Broad Institutes</li></ul><p>Why attend?</p><ul><li>Use All of Us data (633+ participants) to study diabetes at scale</li><li>Explore real-world evidence, genomics, and longitudinal data</li><li>Share your perspectives</li></ul><p><a href=\"http://bit.ly/AllofUsDiabetes\">Register for the event</a></p><img data-entity-uuid=\"fe157e47-d985-44b4-a7b0-c04ee8c89706\" data-entity-type=\"file\" src=\"/sites/default/files/inline-images/Screenshot%202026-06-18%20at%209.08.57%E2%80%AFAM.png\" />",
+  "fieldPortals": "md, cvd, cd, sleep, t1d, t2d, lung, nage, msk, a2f, kidney, aging",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/Screenshot%202026-06-18%20at%209.10.53%E2%80%AFAM.png",
+  "viewNode": "<a href=\"/node/1754\" hreflang=\"en\">view</a>",
+  "publishedAt": "2026-06-28T12:00:00.000Z",
+  "updatedAt": "2026-06-28T12:00:00.000Z",
+  "published": true
+}

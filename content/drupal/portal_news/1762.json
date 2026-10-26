@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1762,
+  "order": 206,
+  "title": "Join us for the July 9th, 2026 PanKbase Office Hours",
+  "summary": "Kyle Gaulton, PhD, UCSD will present Identifying disease-associated cellular states in the pancreas",
+  "bodyHtml": "<p>Join us for the next PanKbase Office Hours:<br />🧬 Identifying disease-associated cellular states in the pancreas<br />📆 Thursday, July 9th, 2026<br />⏰ 12:00–1:00 PM ET<br />🎙️ Featured speaker: Kyle Gaulton, PhD, UCSD</p><p>What topics will we cover in this forum:</p><p>Definition of cellular states/gene programs in a cell type by combining manual curation with computational inference of single cell data, and how input from experts can help improve these programs</p><p>Approaches for determining which states/gene programs are involved in disease by combining genetic risk enrichment and genomic changes in disease</p><p>Tools for interactive visualization of states/programs in each cell type including important genes and disease risk/association</p><p><br />💻 Register for the event: <a href=\"https://broadinstitute.zoom.us/webinar/register/WN__dgDoIUZSVyPwKvZ3Xx7mQ\">https://broadinstitute.zoom.us/webinar/register/WN__dgDoIUZSVyPwKvZ3Xx7mQ</a></p><p> </p><img src=\"https://kp4cd.org/sites/default/files/News%20Items/July%209th%2C%202026%20KPN%20Webinar.png\" data-entity-uuid=\"54bcb1bf-7d74-4f35-8c25-6e9913b0cecf\" data-entity-type=\"file\" alt=\"\" width=\"960\" height=\"540\" loading=\"lazy\" />",
+  "fieldPortals": "md, cvd, cd, sleep, t1d, t2d, lung, nage, msk, a2f, kidney, aging",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/July%209th%2C%202026%20KPN%20Webinar.png",
+  "viewNode": "<a href=\"/node/1762\" hreflang=\"en\">view</a>",
+  "publishedAt": "2026-07-09T12:00:00.000Z",
+  "updatedAt": "2026-07-09T12:00:00.000Z",
+  "published": true
+}

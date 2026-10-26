@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1530,
+  "order": 152,
+  "title": "PEGKP makes predicted effector gene (PEG) lists available and accessible",
+  "summary": " Did you know that predictions of effector genes for multiple diseases and traits are available via our Predicted Effector Genes Knowledge Portal, PEGKP?",
+  "bodyHtml": "<p>Did you know that predictions of effector genes for multiple diseases and traits, curated from the literature, are available via our Predicted Effector Genes Knowledge Portal, <a href=\"https://hugeamp.org/research.html?pageid=pegl_app_front\" target=\"_blank\">PEGKP</a>? You can access PEG lists directly via PEGKP, or from the \"Predicted effector genes\" link in the upper menu of all other Knowledge Portals.</p><p>On September 16 and 17, along with our colleagues at EBI we are hosting a community workshop on standards and infrastructure to make PEG lists more interpretable and interoperable. Registration is now closed, but we will make recordings of the talks available. We'll also communicate the results of the workshop to the larger research community at our ancillary session at the <a href=\"https://www.ashg.org/meetings/2024meeting/\" target=\"_blank\">American Society of Human Genetics conference</a> in November and in a future Knowledge Portal Network webinar. <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSdZXVbAT7YG0cQmCRXWDgCEBfMiCZ5r3DxGmhqYlL7f2jTqcw/viewform?usp=sf_link\" target=\"_blank\">Join our mailing list</a> to stay updated on these developments.</p>",
+  "fieldPortals": "md, t1d, t2d, cd, cvd, sleep, a2f, lung, msk, kidney, aging, autoimmune, reproductive, ocular, nage",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/effector_prediction_4.png",
+  "viewNode": "<a href=\"/node/1530\" hreflang=\"en\">view</a>",
+  "publishedAt": null,
+  "updatedAt": null,
+  "published": true
+}

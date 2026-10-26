@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 884,
+  "order": 91,
+  "title": "Video of our ADA ancillary session now available!",
+  "summary": "This is the recording of the ancillary session on AMP CMD and the CMDKP presented at the 2022 American Diabetes Association conference.",
+  "bodyHtml": "<p>In this session, held on June 3, 2022, Melissa Miller from Pfizer Inc. presented an industry perspective on the AMP<sup>®</sup> CMD program, Struan Grant from the University of Pennsylvania discussed his research and its relevance to AMP CMD, and Parul Kudtarkar and Maria Costanzo presented an overview of the CMDKP and CMDGA resources.&nbsp;</p>\n\n<p><iframe allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/35s8uesXdZc\" title=\"YouTube video player\" width=\"560\"></iframe></p>\n",
+  "fieldPortals": "md, t1d, t2d, cvd, cd, sleep",
+  "fieldImage": "",
+  "viewNode": "<a href=\"/node/884\" hreflang=\"en\">view</a>",
+  "publishedAt": "2022-06-03T12:00:00.000Z",
+  "updatedAt": "2022-06-03T12:00:00.000Z",
+  "published": true
+}

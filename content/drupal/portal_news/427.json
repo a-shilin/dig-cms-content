@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 427,
+  "order": 36,
+  "title": "Slides and video from effector gene prediction webinar now available",
+  "summary": "Slides and video from effector gene prediction webinar now available",
+  "bodyHtml": "<p>If you missed our recent webinar, which featured updates on the development of the Common Metabolic Diseases Knowledge Portal and a demonstration of effector gene predictions for T2D and 10 other traits, you can view the slides <a href=\"https://drive.google.com/file/d/1nSteG4Goa1v6yT1jphd7wTsu7tIphNRI/view?usp=sharing\" target=\"_blank\">here</a>&nbsp;and the video <a href=\"https://www.youtube.com/watch?v=IlNhZsk39vE&amp;feature=youtu.be\" target=\"_blank\">here</a>. Please <a href=\"http://www.kp4cd.org/contact\" target=\"_blank\">send us feedback</a> on these features!</p>\n",
+  "fieldPortals": "t2d, md, mi, stroke, sleep, cvd, cd, sd, t1d",
+  "fieldImage": "",
+  "viewNode": "<a href=\"/node/427\" hreflang=\"en\">view</a>",
+  "publishedAt": "2020-09-23T19:43:28.000Z",
+  "updatedAt": "2020-09-30T19:03:08.000Z",
+  "published": true
+}

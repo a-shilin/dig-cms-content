@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1361,
+  "order": 132,
+  "title": "Focus group recording available",
+  "summary": "The video recording of our focus group on Knowledge Portal analysis tools is now available.",
+  "bodyHtml": "<p>As we develop and update analyses in the Knowledge Portals, we want to make sure that we're meeting the needs of our community! Our most recent focus group In this focus group covered the Colocus colocalization browser, the Signal Sifter, and the Gene Finder, and previewed an in-development tool that will allow Knowledge Portal users to drill down from a genome-wide to a regional view and easily access all results in the portal knowledgebase.</p><p class=\"text-align-center\"><iframe width=\"650\" height=\"315\" src=\"https://www.youtube.com/embed/xmBMeJ-OwKo?si=LZItTizzVtP39L9x\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\"></iframe></p>",
+  "fieldPortals": "md, t1d, t2d, cd, cvd, sleep, a2f, nage, lung, msk, autoimmune, reproductive, kidney, aging, ocular, ndkp",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/magnifying_glass_2.png",
+  "viewNode": "<a href=\"/node/1361\" hreflang=\"en\">view</a>",
+  "publishedAt": null,
+  "updatedAt": null,
+  "published": true
+}

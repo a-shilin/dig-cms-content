@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1751,
+  "order": 196,
+  "title": "Headed to ADA 2026?",
+  "summary": "Visit the Knowledge Portal Network at Exhibition Booth #2324 | NIDDK Scientific Corner!",
+  "bodyHtml": "<img src=\"https://kp4cd.org/sites/default/files/KPN%20ADA%20Promotional%20Flyer%202026.png\" data-entity-uuid=\"76474190-dc09-487a-bb3f-6485c733d289\" data-entity-type=\"file\" alt=\"\" width=\"960\" height=\"540\" loading=\"lazy\" /><p> </p><p>Meet the Knowledge Portal Team and learn about the Common Metabolic Diseases Knowledge Portal (CMDKP.org). The CMDKP is an open-access resource that aims to facilitate the translation of genomic data into actionable knowledge for understanding and treatment of common diseases.</p><p>Visit the Knowledge Portal Network at Exhibition Booth #2324 | NIDDK Scientific Corner!</p><table><tbody><tr><td>Friday, June 5, 2026</td><td>Networking Reception</td><td>6:30 PM–8:30 PM</td></tr><tr><td>Saturday, June 6, 2026</td><td>Exhibit Booth</td><td>10:00 AM–4:00 PM</td></tr><tr><td>Sunday, June 7, 2026</td><td>Exhibit Booth</td><td>10:00 AM–4:00 PM</td></tr><tr><td>Monday, June 8, 2026</td><td>Exhibit Booth</td><td>10:00 AM–2:00 PM</td></tr></tbody></table><p>Julie Jurgens will be giving an oral abstract presentation \"Human Islet Cell Identity and Organization\", scheduled for Friday Jun 5, 2026 from 1:30–1:45 PM (the abstract presentation and publication number is 1031-OR).</p>",
+  "fieldPortals": "md, cvd, cd, sleep, t1d, t2d, lung, nage, msk, a2f, kidney, aging",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/KPN%20ADA%20Promotional%20Flyer%202026.png",
+  "viewNode": "<a href=\"/node/1751\" hreflang=\"en\">view</a>",
+  "publishedAt": "2026-06-05T12:00:00.000Z",
+  "updatedAt": "2026-06-05T12:00:00.000Z",
+  "published": true
+}

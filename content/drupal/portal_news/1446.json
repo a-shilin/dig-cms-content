@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1446,
+  "order": 142,
+  "title": "CMDKP Spotlight: Hae (Haky) Kyung Im",
+  "summary": "Today's CMDKP Spotlight focuses on Dr. Hae (Haky) Jyung Im, an Opportunity Pool investigator in AMP® CMD and an Associate Professor of Medicine and Human Genetics at the University of Chicago.",
+  "bodyHtml": "<p><img style=\"margin-right:15px;\" src=\"https://kp4cd.org/sites/default/files/images/spotlight.png\" width=\"100\" align=\"left\" />The <a href=\"https://fnih.org/our-programs/amp/accelerating-medicines-common-metabolic-diseases\">Accelerating Medicines Partnership® in Common Metabolic Diseases</a> brings together researchers from multiple institutions to work towards the goal of better understanding and treatment of common metabolic diseases. Get to know the members of the consortium in our <strong>CMDKP Spotlight</strong> articles.</p><p>________________________________________________________________________________________________________</p><p>Dr. <a href=\"https://orcid.org/0000-0003-0333-5685\">Hae (Haky) Kyung Im (ORCID ID 0000-0003-0333-5685)</a>, a member of the AMP<sup>®</sup> CMD Portal Team, is an Associate Professor of Medicine and Human Genetics at the University of Chicago.</p><p><img src=\"https://kp4cd.org/sites/default/files/inline-images/image_0.jpeg\" width=\"291\" height=\"291\" loading=\"lazy\" /></p><h4>Haky's scientific background</h4><p>Haky’s background is in Physics. In 2005, she received her Ph.D. in Statistics from the University of Chicago and has since been working as a statistical geneticist.</p><h4>Current research interests</h4><p>Haky’s current interest includes bridging the gap between genetics and genomics and integrating GWAS and functional genomics data with machine learning.</p><p>Reflections on AMP-CMD and the CMDKP</p><p>Haky is a principal investigator of the AMP-CMD opportunity pool of 2024 and part of the Portal team. For the next two years, her group will work on methods to identify transcription factors disrupted by GWAS variants.</p><p>Haky develops statistical methods to identify causal transcription factors using state-of-the-art deep learning approaches. Using the collaborative network of the AMP-CMD consortium, she is excited about the cutting-edge science that can be done. The portal is an invaluable resource that aggregates the evidence across multiple studies that she uses for building her research methods.</p><p> </p>",
+  "fieldPortals": "md, t2d, t1d, cvd, cd, sleep",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/image_0.jpeg",
+  "viewNode": "<a href=\"/node/1446\" hreflang=\"en\">view</a>",
+  "publishedAt": "2024-01-01T12:00:00.000Z",
+  "updatedAt": "2024-01-01T12:00:00.000Z",
+  "published": true
+}

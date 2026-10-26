@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1280,
+  "order": 127,
+  "title": "Webinar Thursday October 12 featuring Dr. Wenli Yang",
+  "summary": "On Thursday October 12, Dr. Wenli Yang will present a seminar, \"Using stem cell derived lineages for disease modeling\".",
+  "bodyHtml": "<p>Please join us on Thursday October 12 at 12pm ET for our next KPN webinar, featuring guest speaker Wenli Yang. Dr. Yang is a Research Assistant Professor of Medicine at the University of Pennsylvania School of Medicine, Philadelphia, PA. She is also a member of the AMP® CMD consortium that is generating genetic and genomic results to accelerate the development of new therapeutics for common diseases. In this webinar, she will present her work on using stem cell derived lineages for disease modeling.</p>\n\n<p>Details on joining the presentation are below and are also embedded in <a href=\"https://kp4cd.org/sites/default/files/documents/KPN_Webinar_12Oct2023.pdf\" target=\"_blank\">this flyer</a>. Please circulate it to interested colleagues! We hope to see you there, but we’ll also record and post the presentation for those who can’t make it.</p>\n\n<p> </p>\n\n<p style=\"text-align: center\"><a href=\"https://kp4cd.org/sites/default/files/documents/KPN_Webinar_12Oct2023.pdf\" target=\"_blank\"><img src=\"https://kp4cd.org/sites/default/files/images/October%2012th%2C%202023%20KPN%20Webinar.pptx.png\" style=\"width:500px;\" /></a></p>\n\n<p>Knowledge Portal Network Webinar<br />\nThursday, October 12, 2023<br />\n12-1pm EDT</p>\n\n<p>Please click the link below to join the webinar:</p>\n\n<p><a href=\"https://broadinstitute.zoom.us/j/92944548843?pwd=Z0w3YUNsbUpWanVlRW1jRmV3a3B1UT09\">https://broadinstitute.zoom.us/j/92944548843?pwd=Z0w3YUNsbUpWanVlRW1jRmV3a3B1UT09</a> <br />\nPasscode: 238206</p>\n",
+  "fieldPortals": "md, t1d, t2d, sleep, cd, cvd, lung, msk, a2f, ocular, reproductive, autoimmune",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/Screenshot%202023-10-05%20at%209.33.33%20AM.png",
+  "viewNode": "<a href=\"/node/1280\" hreflang=\"en\">view</a>",
+  "publishedAt": "2023-10-12T12:00:00.000Z",
+  "updatedAt": "2023-10-12T12:00:00.000Z",
+  "published": true
+}

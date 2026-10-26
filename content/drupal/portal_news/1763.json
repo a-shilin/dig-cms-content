@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1763,
+  "order": 207,
+  "title": "Recording now available for the July 9, 2026 PanKbase Webinar!",
+  "summary": "Unable to join today's PanKbase webinar? The recording is now live.",
+  "bodyHtml": "<p>🎙️ Kyle Gaulton presented on \"Identifying disease-associated cellular states in the pancreas.\"</p><p>🧬 What topics will we cover in this forum:</p><p>Definition of cellular states/gene programs in a cell type by combining manual curation with computational inference of single cell data, and how input from experts can help improve these programs</p><p>Approaches for determining which states/gene programs are involved in disease by combining genetic risk enrichment and genomic changes in disease</p><p>Tools for interactive visualization of states/programs in each cell type including important genes and disease risk/association</p><p>💻 The webinar recording is now LIVE, watch here: <a href=\"https://youtu.be/oNK7jT7AGC0\">https://youtu.be/oNK7jT7AGC0</a></p><img src=\"https://kp4cd.org/sites/default/files/News%20Items/July%209th%2C%202026%20KPN%20Webinar.png\" data-entity-uuid=\"\" data-entity-type=\"file\" alt=\"\" width=\"960\" height=\"540\" loading=\"lazy\" />",
+  "fieldPortals": "md, cvd, cd, sleep, t1d, t2d, lung, nage, msk, a2f, kidney, aging",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/July%209th%2C%202026%20KPN%20Webinar_0.png",
+  "viewNode": "<a href=\"/node/1763\" hreflang=\"en\">view</a>",
+  "publishedAt": "2026-07-09T12:00:00.000Z",
+  "updatedAt": "2026-07-09T12:00:00.000Z",
+  "published": true
+}

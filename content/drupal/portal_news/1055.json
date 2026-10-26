@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1055,
+  "order": 109,
+  "title": "Our new preprint describing the T1DKP is now available!",
+  "summary": "Check out our manuscript describing the Type 1 Diabetes Knowledge Portal, on bioRxiv.",
+  "bodyHtml": "<p>We've posted a <a href=\"\nhttps://www.biorxiv.org/content/10.1101/2023.02.03.526066v1\" target=\"_blank\">manuscript</a> describing the <a href=\"https://t1d.hugeamp.org/\" target=\"_blank\">Type 1 Diabetes Knowledge Portal</a> on the <a href=\"https://www.biorxiv.org/\" target=\"_blank\">bioRxiv preprint server</a>! Please take a look and <a href=\"mailto:help@yoursite.com\">let us know what you think</a>.</p>\n",
+  "fieldPortals": "md, t1d, t2d, cd, cvd, sleep, nage, lung, msk, a2f, reproductive, autoimmune, ndkp",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/t1d_small-01.png",
+  "viewNode": "<a href=\"/node/1055\" hreflang=\"en\">view</a>",
+  "publishedAt": "2023-01-01T12:00:00.000Z",
+  "updatedAt": "2023-01-01T12:00:00.000Z",
+  "published": true
+}

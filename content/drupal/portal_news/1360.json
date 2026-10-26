@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1360,
+  "order": 131,
+  "title": "Recording available: webinar featuring Dr. Anna Gloyn",
+  "summary": "The recording is available for Dr. Anna Gloyn's seminar, \"Mining the genome for gold: Drilling down on mechanisms for islet cell dysfunction using human genetics\".",
+  "bodyHtml": "<p>The <a href=\"https://youtu.be/B80KFo_duYY\" target=\"_blank\">recording is now available</a> for Dr. Anna Gloyn's webinar on using genetics to investigate pancreatic islet dysfunction, presented on December 14, 2023.</p><p>&nbsp;</p><p class=\"text-align-center\"><iframe width=\"700\" height=\"315\" src=\"https://www.youtube.com/embed/B80KFo_duYY?si=FgQN_ak8w-8NTmGr\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\"></iframe></p>",
+  "fieldPortals": "md, t1d, t2d, sleep, cd, cvd, lung, msk, a2f, ocular, reproductive, autoimmune",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/Anna_Gloyn.png",
+  "viewNode": "<a href=\"/node/1360\" hreflang=\"en\">view</a>",
+  "publishedAt": "2023-12-14T12:00:00.000Z",
+  "updatedAt": "2023-12-14T12:00:00.000Z",
+  "published": true
+}

@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 926,
+  "order": 96,
+  "title": "Knowledge Portal webinar recording now available",
+  "summary": "The recording of the August 11, 2022 Knowledge Portal webinar featuring Dr. Klaus Kaestner is now available.",
+  "bodyHtml": "<p>In this webinar, <a href=\"https://www.med.upenn.edu/kaestnerlab/\" target=\"_blank\">Dr. Klaus Kaestner of the University of Pennsylvania</a>, presented a talk on \"3D chromatin maps of the human pancreas reveal lineage-specific regulatory architecture of T2D risk\".</p>\n\n<p><iframe allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/HXUcTN52iqk\" title=\"YouTube video player\" width=\"560\"></iframe></p>\n",
+  "fieldPortals": "md, t1d, t2d, cd, cvd, sleep, lung, msk, nage, a2f, a2f, ndkp",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/Klaus_Kaestner.png",
+  "viewNode": "<a href=\"/node/926\" hreflang=\"en\">view</a>",
+  "publishedAt": null,
+  "updatedAt": null,
+  "published": true
+}

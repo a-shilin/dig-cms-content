@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1782,
+  "order": 225,
+  "title": "September 2026 CFDE Webinar Recording Now LIVE",
+  "summary": "Deanne Taylor presented: \"From Genes to Mechanisms: AI-Assisted Discovery across the Data Distillery Knowledge Graph\"",
+  "bodyHtml": "<p>🧬 From Genes to Mechanisms: AI-Assisted Discovery across the Data Distillery Knowledge Graph</p><p>🎙️ Deanne Taylor, PhD</p><p>📣 Viewers will learn how to:</p><p>Connect genetics to biology: Trace genes, regulatory variants, phenotypes, and disease associations across pathways, tissues, cellular contexts, and model-organism evidence using the Data Distillery Knowledge Graph (DDKG).</p><p>Ask biological questions more easily: See how ddkg.skill enables general-purpose AI assistants to translate research questions into reproducible DDKG graph queries—without requiring deep knowledge of the graph’s underlying structure.</p><p>Move toward testable mechanisms: Learn how integrated biomedical evidence and AI-assisted exploration can help researchers move beyond genetic associations to identify candidate pathways, biological mechanisms, and hypotheses for further investigation.</p><p>🔗 Explore <a href=\"https://dd-kg-ui.cfde.cloud/about\">https://dd-kg-ui.cfde.cloud/about</a></p><p>📺 Watch the recording: <a href=\"https://youtu.be/-DQPb0y67Xw\">https://youtu.be/-DQPb0y67Xw</a></p><img src=\"https://kp4cd.org/sites/default/files/CFDE%20Public%20Webinar%20Series%20-%20Friday%2C%20September%2025%2C%202026%20(1).png\" data-entity-uuid=\"\" data-entity-type=\"file\" alt=\"\" width=\"1920\" height=\"1080\" loading=\"lazy\" />",
+  "fieldPortals": "md, cvd, cd, sleep, t1d, t2d, lung, nage, msk, a2f, kidney, aging",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/CFDE%20Public%20Webinar%20Series%20-%20Friday%2C%20September%2025%2C%202026%20%281%29_0.png",
+  "viewNode": "<a href=\"/node/1782\" hreflang=\"en\">view</a>",
+  "publishedAt": "2026-01-01T12:00:00.000Z",
+  "updatedAt": "2026-01-01T12:00:00.000Z",
+  "published": true
+}

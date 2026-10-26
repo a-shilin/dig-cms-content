@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 780,
+  "order": 82,
+  "title": "Celebrating AMP® T2D",
+  "summary": "The Knowledge Portal team is proud to have been a part of the Accelerating Medicines Partnership® Program – Type 2 Diabetes!",
+  "bodyHtml": "<p>The Accelerating Medicines Partnership® Program – Type 2 Diabetes, which supported the development of the Type 2 Diabetes Knowledge Portal, successfully concluded in December 2021. The Knowledge Portal team is proud to have been a part of this effort and excited to participate in the program's expansion to AMP® Common Metabolic Diseases.</p>\n\n<p>This brief video gives a retrospective on AMP T2D:</p>\n\n<p><iframe allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/KtMeKEXKcAU\" title=\"YouTube video player\" width=\"560\"></iframe></p>\n",
+  "fieldPortals": "t2d, md",
+  "fieldImage": "",
+  "viewNode": "<a href=\"/node/780\" hreflang=\"en\">view</a>",
+  "publishedAt": null,
+  "updatedAt": null,
+  "published": true
+}

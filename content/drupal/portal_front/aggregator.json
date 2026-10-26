@@ -1,0 +1,10 @@
+[
+  {
+    "field_about_portal": "<h2 style=\"font-family:'Oswald'; font-size: 40px; margin-top:5px;\">About the Portal</h2>\n\n<p style=\"font-size:25px; line-height: 1.25em;\"><img src=\"//kp4cd.org/sites/default/files/inline-images/data_icon4.png\" style=\"width:200px; float: right;\" />The BCH aggregator portal enables browsing, searching, and analysis of  BCH genomic data, while protecting the integrity and confidentiality of the underlying data.</p>\n",
+    "field_about_project": "<h2 style=\"font-family:'Oswald'; font-size: 30px; margin-top:5px;\">About the project</h2>\n\n<p>Click <a href=\"about.html\">here</a> for more details.</p>\n\n<p><img alt=\"Manton_Lab_logo\" data-entity-type=\"file\" data-entity-uuid=\"f6a8ab89-ab9c-49b6-99ab-6b0d65cb0c1f\" src=\"https://kp4cd.org//sites/default/files/inline-images/BCH_Logo_TheMantonCtrforOrphanDiseaseResearch_Inline.jpg\" width=\"270\" /></p>\n\n<p> </p>\n",
+    "field_tagline": "Children's Rare Disease Cohorts",
+    "field_banner_logo": "bchkp_front_logo.svg",
+    "field_front_logo": "bchkp_front_logo.svg",
+    "field_under_dataset_plots": ""
+  }
+]

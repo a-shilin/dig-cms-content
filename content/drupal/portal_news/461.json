@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 461,
+  "order": 38,
+  "title": "Check out our latest tutorial video on the CMDKP",
+  "summary": "This brief video provides an overview of the Common Metabolic Diseases Knowledge Portal.",
+  "bodyHtml": "<p>The official launch of the Common Metabolic Diseases Knowledge Portal (CMDKP) will be happening soon! Make sure you're up to date on the upcoming changes by watching this brief video.</p>\n\n<p><iframe allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/RdpoAFsdkaU\" width=\"560\"></iframe></p>\n",
+  "fieldPortals": "md, cmd, t2d, t1d, cvd, mi, cd, stroke, sd, sleep",
+  "fieldImage": "",
+  "viewNode": "<a href=\"/node/461\" hreflang=\"en\">view</a>",
+  "publishedAt": "2020-10-19T16:10:47.000Z",
+  "updatedAt": "2020-10-19T16:16:59.000Z",
+  "published": true
+}

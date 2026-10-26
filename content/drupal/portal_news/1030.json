@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1030,
+  "order": 98,
+  "title": "Knowledge Portal events at #ASHG2022",
+  "summary": "ASHG 2022 begins tomorrow, and the Knowledge Portal team is excited to attend! ",
+  "bodyHtml": "<p>ASHG 2022 begins tomorrow, and the Knowledge Portal team is excited to attend! Please join us for our ancillary session, platform talk, and poster, and come see us in the exhibit hall. Bring your questions and suggestions!</p>\n\n<p style=\"text-align: center\"><img src=\"http://kp4cd.org/sites/default/files/images/ASHG_ancillary_2022.jpg\" style=\"width:500px;\" /></p>\n",
+  "fieldPortals": "md, t1d, t2d, cd, cvd, sleep, msk, lung, a2f, ndkp, autoimmune, reproductive, ocular, nage",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/ashg.png",
+  "viewNode": "<a href=\"/node/1030\" hreflang=\"en\">view</a>",
+  "publishedAt": "2022-01-01T12:00:00.000Z",
+  "updatedAt": "2022-01-01T12:00:00.000Z",
+  "published": true
+}

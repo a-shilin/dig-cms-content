@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1047,
+  "order": 106,
+  "title": "Metabolite level effector gene predictions now available",
+  "summary": "We've added a list of predicted effector genes for the levels or ratios of multiple metabolites.",
+  "bodyHtml": "<p>We close out the first week of 2023 by making available another list of predicted effector genes--this one for levels of multiple different metabolites. Drawing on his knowledge of the biochemical literature, <a href=\"https://twitter.com/Eric_Fauman\" target=\"_blank\">Eric Fauman</a> of <a href=\"https://www.pfizer.com/\" target=\"_blank\">Pfizer</a> started with three recent genetic association studies for metabolite levels or metabolite ratios and annotated the genes at each GWAS significant locus, based on prior knowledge of the gene products' functions as reported in the literature. He has termed the project \"Every Gene Ever Annotated in published GWAS\" (EGEA).</p>\n\n<p>The effector list is available via the <a href=\"/effectorgenes.html\" target=\"_blank\">Predicted effector genes</a> page of multiple Knowledge Portals, and you can also access it directly <a href=\"/research.html?pageid=egea_217\" target=\"_blank\">here</a>. We are grateful to Dr. Fauman for sharing his pre-publication results and for collaborating to design the interface!</p>\n",
+  "fieldPortals": "md, t1d, t2d, cd, cvd, sleep, msk, nage, a2f, lung, reproductive, autoimmune, ocular",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/effector_prediction_0.png",
+  "viewNode": "<a href=\"/node/1047\" hreflang=\"en\">view</a>",
+  "publishedAt": "2023-01-01T12:00:00.000Z",
+  "updatedAt": "2023-01-01T12:00:00.000Z",
+  "published": true
+}

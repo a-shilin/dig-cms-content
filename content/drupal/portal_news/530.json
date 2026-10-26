@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 530,
+  "order": 47,
+  "title": "Type 1 Diabetes KP webinar video available",
+  "summary": "Our January 14, 2021 webinar featured an overview of type 1 diabetes biology and genetics, an update on functional characterization of T1D-associated loci, and a demonstration of the T1DKP.",
+  "bodyHtml": "<p>In our January 14, 2021 webinar, Dr. Suna Onengut-Gumuscu (University of Virginia) gave an overview of type 1 diabetes biology, progression, and genetics; Dr. Kyle Gaulton (University of California at San Diego) discussed functional characterization of T1D-associated loci, and Noël Burtt of the Knowledge Portal team (Broad Institute) demonstrated the T1DKP.</p>\n\n<p><iframe allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/sKzqllTNIOo\" width=\"560\"></iframe></p>\n",
+  "fieldPortals": "md, t2d, t1d",
+  "fieldImage": "",
+  "viewNode": "<a href=\"/node/530\" hreflang=\"en\">view</a>",
+  "publishedAt": "2021-01-15T18:22:01.000Z",
+  "updatedAt": "2021-02-16T15:52:47.000Z",
+  "published": true
+}

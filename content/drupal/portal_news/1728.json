@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1728,
+  "order": 173,
+  "title": "Join us on January 30th, 2026 for our next Common Fund Data Ecosystem Public Webinar",
+  "summary": "How do we make biomarker data more findable, reusable & standardized? Join our webinar featuring BiomarkerKB, a unified knowledgebase for biomarker discovery across diseases & data sources.",
+  "bodyHtml": "<p>How do we make biomarker data more findable, reusable &amp; standardized? Join our webinar featuring BiomarkerKB, a unified knowledgebase for biomarker discovery across diseases &amp; data sources.<br /> </p><p>📆 Jan 30, 2026 | 1–2 PM ET</p><p>🎙️ Raja Mazumder &amp; Jeet Vora</p><p>💻 Register here: <a href=\"https://broadinstitute.zoom.us/webinar/register/WN_x0bGLLt4TbqFGlxlMM-T2A\">https://broadinstitute.zoom.us/webinar/register/WN_x0bGLLt4TbqFGlxlMM-T2A</a></p><img src=\"https://kp4cd.org/sites/default/files/CFDE%20Public%20Webinar%20Series%20-%20Friday%2C%20January%2030%2C%202026.png\" data-entity-uuid=\"bed0db2c-b274-4c03-a2a1-6a0352dbd187\" data-entity-type=\"file\" alt=\"\" width=\"1920\" height=\"1080\" loading=\"lazy\" />",
+  "fieldPortals": "md, cvd, cd, sleep, t1d, t2d, lung, nage, msk, a2f, kidney, aging",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/cfde%20webinar%20icon.png",
+  "viewNode": "<a href=\"/node/1728\" hreflang=\"en\">view</a>",
+  "publishedAt": "2026-01-28T12:00:00.000Z",
+  "updatedAt": "2026-01-28T12:00:00.000Z",
+  "published": true
+}

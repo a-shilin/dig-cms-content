@@ -630,3 +630,90 @@ content:
         description: Bucketed/sharded JSON mapping gene symbols or Ensembl/RP IDs to arrays of EGL Research Page IDs.
         options:
           format: json
+
+  - name: portal_front
+    label: Portal Front Pages
+    type: collection
+    path: content/drupal/portal_front
+    format: raw
+    subfolders: false
+    operations:
+      create: false
+      rename: false
+      delete: false
+    fields:
+      - name: body
+        label: Portal Front Content JSON
+        type: code
+        required: true
+        description: Array of portal front-page objects (field_about_portal, field_about_project, field_tagline, field_banner_logo, field_front_logo, field_under_dataset_plots).
+        options:
+          format: json
+
+  - name: portal_news
+    label: Portal News
+    type: collection
+    path: content/drupal/portal_news
+    format: json
+    filename: "{drupalNodeId}.json"
+    subfolders: false
+    view:
+      fields: [title, fieldPortals, order, drupalNodeId, published]
+      primary: title
+      sort: [order, drupalNodeId, title]
+      search: [title, summary, bodyHtml, fieldPortals]
+      default:
+        sort: order
+        order: desc
+    fields:
+      - name: contentType
+        label: Content type
+        type: string
+        required: true
+        readonly: true
+        default: portalNews
+      - name: drupalNodeId
+        label: Node ID
+        type: number
+        required: true
+      - name: order
+        label: Chronological order (higher = newer)
+        type: number
+        required: true
+      - name: title
+        label: Title
+        type: string
+        required: true
+      - name: summary
+        label: Summary (front page excerpt)
+        type: text
+        required: true
+      - name: bodyHtml
+        label: Full article body HTML
+        type: rich-text
+        options:
+          format: html
+          media: false
+          switcher: true
+          initialMode: source
+      - name: fieldPortals
+        label: Portals (comma-separated portal IDs, e.g. md, t2d, cvd)
+        type: string
+        required: true
+      - name: fieldImage
+        label: Thumbnail image URL
+        type: string
+      - name: viewNode
+        label: View node link HTML
+        type: string
+      - name: publishedAt
+        label: Published at (ISO timestamp)
+        type: string
+      - name: updatedAt
+        label: Updated at (ISO timestamp)
+        type: string
+      - name: published
+        label: Published
+        type: boolean
+        required: true
+        default: true

@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1732,
+  "order": 177,
+  "title": "Join the dkNET Webinar Friday on the Mammalian Adipose Tissue Knowledge Portal (MATKP, matkp.org)!",
+  "summary": "Curious about the Mammalian Adipose Tissue Knowledge Portal (MATKP, matkp.org)?",
+  "bodyHtml": "<p>🤔 Curious about the Mammalian Adipose Tissue Knowledge Portal (MATKP, matkp.org)?</p><p>‼️Join <strong>#dkNET</strong> webinar featuring Julie Jurgens, PhD, who will share the latest updates, datasets, and interactive features.</p><p>📣 <strong>The top 3 key questions that the MATKP can answer:</strong></p><p>1. How do specific genes influence adipose tissue biology and related metabolic phenotypes?</p><p>2. Which adipose tissue signatures, pathways, and gene programs are associated with metabolic disease phenotypes?</p><p>3. How do cell type-specific expression patterns contribute to disease mechanisms?</p><p>📅 Friday, February 27th, 2026 | 2-3 PM ET<br />💻 Dial-in Information: https://uchealth.zoom.us/webinar/register/WN_vSra3PQzQHCPMTeFJnul0w</p><img src=\"https://kp4cd.org/sites/default/files/Julie%20dkNET%20webinar.jpeg\" data-entity-uuid=\"66cc67bd-6c03-41bf-ba7c-613eeb01edf4\" data-entity-type=\"file\" alt=\"\" width=\"1280\" height=\"720\" loading=\"lazy\" />",
+  "fieldPortals": "md, cvd, cd, sleep, t1d, t2d, lung, nage, msk, a2f, kidney, aging",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/Julie%20dkNET%20webinar.jpeg",
+  "viewNode": "<a href=\"/node/1732\" hreflang=\"en\">view</a>",
+  "publishedAt": "2026-02-27T12:00:00.000Z",
+  "updatedAt": "2026-02-27T12:00:00.000Z",
+  "published": true
+}

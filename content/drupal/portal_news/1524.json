@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1524,
+  "order": 150,
+  "title": "Community workshop on effector gene prediction",
+  "summary": "With our partners at GWAS Catalog and Open Targets, we're hosting a community workshop on standards and infrastructure for effector gene prediction results, Sept. 16-17.",
+  "bodyHtml": "<p>Researchers who perform genome-wide association studies (GWAS) often aggregate and integrate multiple other evidence types in order to predict the effector (causal) genes at GWAS loci (<a href=\"https://hugeamp.org/research.html?pageid=egl_241\" target=\"_blank\">see some examples</a>). There are currently no community standards for organizing or sharing these lists of predicted effector genes, and this can make it hard to use them for further work. So we're taking action! Along with our partners at the GWAS Catalog and Open Targets, we're organizing a community workshop to discuss the standards, infrastructure and incentives required to promote and enable sharing, interoperability, and updating of predicted effector gene lists.</p><p><a href=\"https://forms.gle/cQ47ukUGXZraKyFe6\" target=\"_blank\">Register here</a> for the workshop (space is limited!)  |  Weigh in on these issues by filling out <a href=\"https://forms.gle/EgpQmdZhZkn47dJfA\" target=\"_blank\">this survey</a></p><p> </p><p class=\"text-align-center\"><a href=\"https://kp4cd.org/sites/default/files/documents/PEG_workshop.pdf\" target=\"_blank\"><img src=\"https://kp4cd.org/sites/default/files/images/PEG_workshop.pptx.png\" width=\"700\" /></a></p>",
+  "fieldPortals": "md, t1d, t2d, cd, cvd, a2f, sleep, aging, kidney, reproductive, autoimmune, ndkp, lung, ocular, msk",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/effector_prediction_3.png",
+  "viewNode": "<a href=\"/node/1524\" hreflang=\"en\">view</a>",
+  "publishedAt": null,
+  "updatedAt": null,
+  "published": true
+}

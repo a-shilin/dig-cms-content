@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1358,
+  "order": 129,
+  "title": "KPN team events at #ASHG23",
+  "summary": "<p>The Knowledge Portal Network team will be attending the <a href=\"https://www.ashg.org/meetings/2023meeting/\" target=\"_blank\">American Society of Human Genetics meeting</a> next week and we hope to see you there!",
+  "bodyHtml": "<p>The Knowledge Portal Network team will be attending the <a href=\"https://www.ashg.org/meetings/2023meeting/\" target=\"_blank\">American Society of Human Genetics meeting</a> next week and we hope to see you there! Attend our <a href=\"https://kp4cd.org/KPN_ASHG2023\" target=\"_blank\">ancillary session</a> to hear about the latest developments in the Knowledge Portals; come by our booth to say hello, give us feedback, or get a 1:1 tutorial; and stop by our poster on Saturday afternoon.</p>\n\n<p>Find times and locations in the flyer below. You can see the full agenda for the ancillary session <a href=\"https://kp4cd.org/KPN_ASHG2023\" target=\"_blank\">here</a>.</p>\n\n<p>Opening hours for the Exhibit &amp; Poster Hall are:</p>\n\n<p>Thursday, November 2: 9:30 am - 5:00 pm<br />\nFriday, November 3: 10:00 am - 5:00 pm<br />\nSaturday, November 4: 10:00 am - 4:30 pm</p>\n\n<p> </p>\n\n<p style=\"text-align: center\"><a href=\"https://kp4cd.org/sites/default/files/documents/KPN_ASHG2023.pdf\" target=\"_blank\"><img src=\"https://kp4cd.org/sites/default/files/images/KPN_ASHG2023.png\" style=\"width:500px;\" /></a></p>\n",
+  "fieldPortals": "md, t1d, t2d, cvd, cd, sleep, a2f, lung, msk, nage, ocular, reproductive, autoimmune, kidney, aging",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/Screenshot%202023-10-26%20at%2010.02.55%20AM.png",
+  "viewNode": "<a href=\"/node/1358\" hreflang=\"en\">view</a>",
+  "publishedAt": null,
+  "updatedAt": null,
+  "published": true
+}

@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1765,
+  "order": 209,
+  "title": "Join us on Friday, July 30th, 2026 for our next session of the Public Webinar Series!",
+  "summary": "Hear about the construction and usage of the Human Reference Atlas developed in HuBMAP & SenNet.",
+  "bodyHtml": "<p>🧬 Hear about the construction and usage of the Human Reference Atlas developed in HuBMAP &amp; SenNet.</p><p>📆 July 30th, 2026</p><p>⏰ 1-2 PM ET</p><p>🎙️ Speakers:</p><ul><li>Katy Borner, PhD–Lead of the Human Reference Atlas (HRA)</li><li>Andreas Bueckle, PhD–NIH HuBMAP JumpStart Fellow</li><li>Daniel Bolin–Sr. Software developer for the Human Reference Atlas (HRA)</li></ul><p>🔗 Explore https://www.nature.com/articles/s41592-024-02563-5 and HRA Portal at https://humanatlas.io.</p><p><a href=\"https://broadinstitute.zoom.us/webinar/register/WN__dgDoIUZSVyPwKvZ3Xx7mQ#/registration\">Register for the webinar</a></p><img src=\"https://kp4cd.org/sites/default/files/News%20Items/CFDE%20Public%20Webinar%20Series%20-%20Friday%2C%20July%2030%2C%202026.png\" data-entity-uuid=\"8c02ad8a-3e64-4b16-94a0-a33706b73875\" data-entity-type=\"file\" alt=\"\" width=\"1920\" height=\"1080\" loading=\"lazy\" />",
+  "fieldPortals": "md, cvd, cd, sleep, t1d, t2d, lung, nage, msk, a2f, kidney, aging",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/CFDE%20Public%20Webinar%20Series%20-%20Friday%2C%20July%2030%2C%202026.png",
+  "viewNode": "<a href=\"/node/1765\" hreflang=\"en\">view</a>",
+  "publishedAt": "2026-07-28T12:00:00.000Z",
+  "updatedAt": "2026-07-28T12:00:00.000Z",
+  "published": true
+}

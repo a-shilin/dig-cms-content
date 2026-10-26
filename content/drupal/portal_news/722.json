@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 722,
+  "order": 72,
+  "title": "Webinar video and slides available",
+  "summary": "Slides and video are now available from our Sept. 23, 2021 webinar describing the Common Metabolic Diseases Genome Atlas.",
+  "bodyHtml": "<p>Did you miss last week's webinar describing the exciting changes to the former Diabetes Epigenome Atlas, now known as the Common Metabolic Diseases Genome Atlas (CMDGA; <a href=\"https://cmdga.org/\">cmdga.org</a>)? You can catch up with <a href=\"https://youtu.be/yS27LrzdF4c\">this video recording</a> of the session, and also <a href=\"https://drive.google.com/file/d/1O5nvYXxHV2d4GZ1tGkPF9Km1VqijbMMi/view?usp=sharing\">download the slides</a>.</p>",
+  "fieldPortals": "cmd, t1d, t2d, cd, cvd, sleep, msk, lung, nage",
+  "fieldImage": "",
+  "viewNode": "<a href=\"/node/722\" hreflang=\"en\">view</a>",
+  "publishedAt": "2021-09-28T17:56:16.000Z",
+  "updatedAt": "2021-10-01T18:59:10.000Z",
+  "published": true
+}

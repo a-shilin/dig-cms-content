@@ -11,6 +11,8 @@ const booksDirectory = path.join(contentRoot, "books");
 const newsDirectory = path.join(contentRoot, "news");
 const communityPortalsDirectory = path.join(contentRoot, "community-portals");
 const eglsDirectory = path.join(contentRoot, "egls");
+const portalFrontDirectory = path.join(contentRoot, "portal_front");
+const portalNewsDirectory = path.join(contentRoot, "portal_news");
 const manifestPath = path.join(contentRoot, "_meta/migration-manifest.json");
 const forbiddenKey = /^(?:field_)?(?:dev_?)?(?:id|password|password_?hash)$/i;
 
@@ -22,6 +24,8 @@ const bookPages = await readCollection(booksDirectory);
 const news = await readCollection(newsDirectory);
 const communityPortals = await readCollection(communityPortalsDirectory);
 const egls = await readRecursiveJsonFiles(eglsDirectory);
+const portalFront = await readRecursiveJsonFiles(portalFrontDirectory);
+const portalNews = await readCollection(portalNewsDirectory);
 const manifest = JSON.parse(await readFile(manifestPath, "utf8"));
 const warnings = [];
 
@@ -33,6 +37,8 @@ assert.equal(bookPages.length, manifest.counts.books);
 assert.equal(news.length, manifest.counts.news);
 assert.equal(communityPortals.length, manifest.counts.communityPortals);
 assert.equal(egls.length, manifest.counts.egls);
+assert.equal(portalFront.length, manifest.counts.portal_front);
+assert.equal(portalNews.length, manifest.counts.portal_news);
 assert.equal(manifest.content.researchPages.length, researchPages.length);
 assert.equal(manifest.content.navigation.length, headers.length);
 assert.equal(manifest.content.researchMethods.length, researchMethods.length);
@@ -41,6 +47,8 @@ assert.equal(manifest.content.books.length, bookPages.length);
 assert.equal(manifest.content.news.length, news.length);
 assert.equal(manifest.content.communityPortals.length, communityPortals.length);
 assert.equal(manifest.content.egls.length, egls.length);
+assert.equal(manifest.content.portal_front.length, portalFront.length);
+assert.equal(manifest.content.portal_news.length, portalNews.length);
 
 validateUnique(researchPages, "drupalNodeId");
 validateUnique(headers, "drupalNodeId");
@@ -49,6 +57,7 @@ validateUnique(basicPages, "drupalNodeId");
 validateUnique(bookPages, "drupalNodeId");
 validateUnique(news, "drupalNodeId");
 validateUnique(communityPortals, "drupalNodeId");
+validateUnique(portalNews, "drupalNodeId");
 
 for (const record of researchPages) {
   assert.equal(record.contentType, "researchPage");
@@ -153,6 +162,41 @@ for (const { file, data } of egls) {
   }
 }
 
+const portalFrontRequiredKeys = [
+  "field_about_portal",
+  "field_about_project",
+  "field_tagline",
+  "field_banner_logo",
+  "field_front_logo",
+  "field_under_dataset_plots",
+];
+for (const { file, data } of portalFront) {
+  assert.ok(Array.isArray(data) && data.length > 0, `portal_front file ${file} must be a non-empty array`);
+  for (const item of data) {
+    assert.ok(item && typeof item === "object" && !Array.isArray(item), `portal_front item in ${file} must be an object`);
+    for (const key of portalFrontRequiredKeys) {
+      assert.equal(typeof item[key], "string", `portal_front ${file} item missing string key ${key}`);
+    }
+    assertNoForbiddenKeys(item, `portal_front ${file}`);
+  }
+}
+
+for (const record of portalNews) {
+  assert.equal(record.contentType, "portalNews");
+  assert.equal(record.published, true);
+  assert.equal(typeof record.drupalNodeId, "number");
+  assert.equal(typeof record.order, "number");
+  assert.equal(typeof record.title, "string");
+  assert.equal(typeof record.summary, "string");
+  assert.equal(typeof record.bodyHtml, "string");
+  assert.equal(typeof record.fieldPortals, "string");
+  assert.equal(typeof record.fieldImage, "string");
+  assert.equal(typeof record.viewNode, "string");
+  assert.ok(record.publishedAt === null || !Number.isNaN(Date.parse(record.publishedAt)));
+  assert.ok(record.updatedAt === null || !Number.isNaN(Date.parse(record.updatedAt)));
+  assertNoForbiddenKeys(record, `Portal News ${record.drupalNodeId}`);
+}
+
 const pageIdGroups = researchPages.reduce((groups, record) => {
   if (!groups.has(record.pageId)) groups.set(record.pageId, []);
   groups.get(record.pageId).push(record);
@@ -181,7 +225,8 @@ console.log(
   `Validated ${researchPages.length} Research Pages, ${headers.length} Header Menus, ` +
     `${researchMethods.length} Research Methods, ${basicPages.length} Basic Pages, ` +
     `${bookPages.length} Book Pages, ${news.length} News items, ` +
-    `${communityPortals.length} Community Portals, and ${egls.length} EGL bucket/shard files.`,
+    `${communityPortals.length} Community Portals, ${egls.length} EGL bucket/shard files, ` +
+    `${portalFront.length} Portal Front files, and ${portalNews.length} Portal News items.`,
 );
 if (warnings.length === 0) {
   console.log("No content warnings.");

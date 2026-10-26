@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 901,
+  "order": 92,
+  "title": "Cartilage methylation QTLs available for download",
+  "summary": "Cartilage mQTL results from a new study are available for download from the MSK-KP.",
+  "bodyHtml": "<p>A new epigenome-wide association study of knee cartilage degeneration has just been published, and the authors (<a href=\"https://pubmed.ncbi.nlm.nih.gov/35679866/\" target=\"_blank\">Kreitmaier <i>et al.</i></a>) have shared their results via the MSK-KP! The methylation QTLs that they discovered in high- and low-grade cartilage and in synovium are now <a href=\"https://msk.hugeamp.org/downloads.html#other\" target=\"_blank\">available for download</a>.</p>\n",
+  "fieldPortals": "msk",
+  "fieldImage": "",
+  "viewNode": "<a href=\"/node/901\" hreflang=\"en\">view</a>",
+  "publishedAt": null,
+  "updatedAt": null,
+  "published": true
+}

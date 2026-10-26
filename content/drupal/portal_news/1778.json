@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1778,
+  "order": 221,
+  "title": "September 10, 2026 Knowledge Portal Webinar Recording Now LIVE!",
+  "summary": "Alex Llama's shared his work on \"A Unified Model of Direct Genetic Support: Framework for Analysis of Linkage and Combined Omics using Networks (FALCON).\"",
+  "bodyHtml": "<p>📺 Watch here: https://youtu.be/ucbPVQxE8MQ</p><p>🧬 A Unified Model of Direct Genetic Support: Framework for Analysis of Linkage and Combined Omics using Networks (FALCON)<br />🎙️ Featured speakers: Edgar Alejandro Llamas Mejia, PhD</p><p>📣 Topics covered: </p><ol><li>The FALCON model</li><li>How to use the method to perform cross-program gene set evaluations</li><li>Address questions in real-time</li></ol><img src=\"https://kp4cd.org/sites/default/files/September%2010th%2C%202026%20KPN%20Webinar%20(1).png\" data-entity-uuid=\"b1063b51-681a-4821-a6d7-70e0ccb29b72\" data-entity-type=\"file\" alt=\"\" width=\"960\" height=\"540\" loading=\"lazy\" />",
+  "fieldPortals": "md, cvd, cd, sleep, t1d, t2d, lung, nage, msk, a2f, kidney, aging",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/September%2010th%2C%202026%20KPN%20Webinar%20%281%29.png",
+  "viewNode": "<a href=\"/node/1778\" hreflang=\"en\">view</a>",
+  "publishedAt": "2026-09-10T12:00:00.000Z",
+  "updatedAt": "2026-09-10T12:00:00.000Z",
+  "published": true
+}

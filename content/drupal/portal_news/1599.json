@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1599,
+  "order": 169,
+  "title": "KPN Events at ASHG 2025!",
+  "summary": "Will you be attending ASHG 2025 in Boston? The Knowledge Portal Network team will be attending and we have a variety of events that we hope to see you at.",
+  "bodyHtml": "<p>Will you be attending ASHG 2025 in Boston? The Knowledge Portal Network team has a variety of events that we hope to see you at throughout the week! Visit <a href=\"https://kpnashg2025.wordpress.com/\">https://kpnashg2025.wordpress.com/</a> to learn more.</p>",
+  "fieldPortals": "md, cvd, cd, sleep, t1d, t2d, lung, nage, msk, a2f, kidney, aging",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/ASHG%20square.png.png",
+  "viewNode": "<a href=\"/node/1599\" hreflang=\"en\">view</a>",
+  "publishedAt": "2025-01-01T12:00:00.000Z",
+  "updatedAt": "2025-01-01T12:00:00.000Z",
+  "published": true
+}

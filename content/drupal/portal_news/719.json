@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 719,
+  "order": 71,
+  "title": "Webinar this week on the new CMDGA resource",
+  "summary": "<p>The Diabetes Epigenome Atlas is now the Common Metabolic Diseases Genome Atlas (CMDGA; <a href=\"https://cmdga.org/\" targat=\"_blank\">cmdga.org</a>)!",
+  "bodyHtml": "<p>The Diabetes Epigenome Atlas is now the Common Metabolic Diseases Genome Atlas (CMDGA; <a href=\"https://cmdga.org/\" targat=\"_blank\">cmdga.org</a>)! CMDGA has new data types relevant to multiple diseases in addition to diabetes, and offers beautiful new visualizations for gene expression and single-cell epigenomic data. Find out about this expanded and updated resource in this week's webinar.</p>\n\n<p>Thursday, September 23<br />\n12-1 PM US Eastern time</p>\n\n<p><a href=\"https://broadinstitute.zoom.us/j/92944548843?pwd=Z0w3YUNsbUpWanVlRW1jRmV3a3B1UT09\">Join the webinar</a><br />\nWebinar ID: 929 4454 8843<br />\nPasscode: 238206</p>\n\n<p>Or iPhone one-tap :<br />\nUS: +16468769923,,92944548843#,,,,*238206# or +16465588656,,92944548843#,,,,*238206#<br />\nOr dial (for higher quality, dial a number based on your current location):<br />\nUS: +1 646 876 9923 or +1 646 558 8656</p>\n\n<p><a href=\"https://broadinstitute.zoom.us/u/aLSQ5ub57\" target=\"_blank\">International numbers available</a></p>\n\n<p><a href=\"http://kp4cd.org/sites/default/files/documents/AMP-CMD_9-23-21_webinar_flyer.pdf\" target=\"_blank\">Download the flyer</a></p>\n\n<p style=\"text-align: center\"><img src=\"http://kp4cd.org/sites/default/files/images/webinar_flyer_9-23-21.png\" style=\"width:500px;\" /></p>\n",
+  "fieldPortals": "md, t1d, t2d, cd, cvd, sleep, msk, lung",
+  "fieldImage": "",
+  "viewNode": "<a href=\"/node/719\" hreflang=\"en\">view</a>",
+  "publishedAt": "2021-09-20T12:44:46.000Z",
+  "updatedAt": "2021-09-20T13:11:51.000Z",
+  "published": true
+}

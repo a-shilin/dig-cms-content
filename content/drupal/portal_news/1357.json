@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1357,
+  "order": 128,
+  "title": "Minor update to BCH Aggregator - October 23, 2023",
+  "summary": "<p>The BCH Aggregator portal was just updated with some UI fixes and a small data refresh resulting in improved allele counts!</p>",
+  "bodyHtml": "<p>The BCH Aggregator portal was just updated with some UI fixes and a small data refresh resulting in improved allele counts!</p>",
+  "fieldPortals": "aggregator",
+  "fieldImage": "",
+  "viewNode": "<a href=\"/node/1357\" hreflang=\"en\">view</a>",
+  "publishedAt": "2023-10-23T12:00:00.000Z",
+  "updatedAt": "2023-10-23T12:00:00.000Z",
+  "published": true
+}

@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1165,
+  "order": 117,
+  "title": "Knowledge Portal Network webinar recording available",
+  "summary": "The video recording of our Thursday June 8 webinar is now available.",
+  "bodyHtml": "<p>In our Thursday, June 8 KPN webinar we covered upcoming new datasets, new features in the portals, and future plans. The recording is available <a href=\"https://youtu.be/LGWz8JDkeiA\" target=\"_blank\">here</a>.</p>\n\n<p> </p>\n\n<p style=\"text-align: center\"><a href=\"https://kp4cd.org/sites/default/files/documents/4Jun2023_KPN_webinar.pdf\" target=\"_blank\"><img src=\"https://kp4cd.org/sites/default/files/images/KPN_webinar_6-8-23.png\" style=\"width:500px;\" /></a></p>\n\n<p> </p>\n\n<p> </p>\n",
+  "fieldPortals": "md, t1d, t2d, cd, cvd, sleep, lung, msk, nage, a2f, ndkp, reproductive, autoimmune, ocular",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/Screenshot%202023-06-05%20at%2010.23.58%20AM.png",
+  "viewNode": "<a href=\"/node/1165\" hreflang=\"en\">view</a>",
+  "publishedAt": null,
+  "updatedAt": null,
+  "published": true
+}

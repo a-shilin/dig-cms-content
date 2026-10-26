@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1163,
+  "order": 116,
+  "title": "Focus group on LDSC method: recording available",
+  "summary": "On Thursday, May 11, Patrick Smadbeck and Jason Flannick led a focus group on LD score regression as implemented in the Knowledge Portals.",
+  "bodyHtml": "<p>We’ve recently implemented <a href=\"https://pubmed.ncbi.nlm.nih.gov/26414678/\" target=\"_blank\">LD score regression (LDSC)</a> in the Knowledge Portals. This is a robust method that can be used to calculate both global enrichment of genetic associations in tissue-specific epigenomic annotations and genetic correlations between phenotypes.</p>\n\n<p>In this week’s focus group (Thursday May 11, 12-1pm EDT), Patrick Smadbeck and Jason Flannick presented an interactive session on LDSC as it is implemented in the Knowledge Portal Aggregator and described where and how you can access these results in the Portals. The <a href=\"https://youtu.be/tFIqu4z9RiU\" target=\"_blank\">recording of this session</a> is now available on our YouTube channel.</p>\n",
+  "fieldPortals": "md, t1d, t2d, cd, cvd, sleep, a2f, msk, lung, reproductive, autoimmune, ndkp, nage, ocular",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/Screen%20Shot%202023-05-08%20at%203.32.27%20PM.png",
+  "viewNode": "<a href=\"/node/1163\" hreflang=\"en\">view</a>",
+  "publishedAt": null,
+  "updatedAt": null,
+  "published": true
+}

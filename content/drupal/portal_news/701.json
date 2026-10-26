@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 701,
+  "order": 67,
+  "title": "Lung Disease Knowledge Portal webinar video and slides available",
+  "summary": "The video recording and slides are now available from our Thursday, July 15, 2021 webinar: Introducing the Lung Disease Knowledge Portal.",
+  "bodyHtml": "<p>In our July 15 Knowledge Portal webinar, Introducing the <a href=\"https://lung.hugeamp.org/\" target=\"_blank\">Lung Disease Knowledge Portal</a> (LDKP; lungdiseasegenetics.org), Dr. Michael Cho of Brigham and Women's Hospital and Harvard Medical School presented an overview of genetic and genomic investigations into the basis of lung diseases and explained the motivation behind creating the LDKP, and Dr. Kyle Gaulton of the University of California, San Diego demonstrated the Lung Epigenome Atlas.</p>\n\n<p><a href=\"https://drive.google.com/file/d/1TblsK8ouklEv9vdr4YL7KS50XI7WIuve/view?usp=sharing\" target=\"_blank\">View the slide deck</a></p>\n\n<p><a href=\"https://youtu.be/QZ2OYLBQbxk\" target=\"_blank\">View the video recording</a></p>\n\n<p> </p>\n\n<p style=\"text-align: center\"><img align=\"center\" alt=\"\" src=\"http://kp4cd.org/sites/default/files/images/webinar_flyer.png\" style=\"width:600px;\" /></p>\n",
+  "fieldPortals": "t2d, md, a2f, t1d, msk, cd, cvd, sleep, lung",
+  "fieldImage": "",
+  "viewNode": "<a href=\"/node/701\" hreflang=\"en\">view</a>",
+  "publishedAt": "2021-07-12T14:08:17.000Z",
+  "updatedAt": "2021-07-23T15:30:51.000Z",
+  "published": true
+}

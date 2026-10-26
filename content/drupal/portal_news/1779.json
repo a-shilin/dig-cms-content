@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1779,
+  "order": 222,
+  "title": "Join the September 24th, 2026 Knowledge Portal Webinar!",
+  "summary": "<p>Join us for the next Knowledge Portal Network webinar:<br />🧬 Large-Scale Genomics and Proteomics to Study Diabetes and Cardiometabolic Diseases<br />📆 Thursday, September 24th, 2026<br />⏰ 12:00–1:00 PM ET",
+  "bodyHtml": "<p>Join us for the next Knowledge Portal Network webinar:<br />🧬 Large-Scale Genomics and Proteomics to Study Diabetes and Cardiometabolic Diseases<br />📆 Thursday, September 24th, 2026<br />⏰ 12:00–1:00 PM ET<br />🎙️ Featured speaker: Satoshi Yoshiji, MD, PhD–Assistant Professor, McGill University &amp; Visiting Scholar, Broad Institute</p><p>Topics we will cover:</p><ol><li>A brief primer on large-scale biobanks with genomic and proteomic data </li><li>How these data can be used to understand disease biology and nominate candidate effector genes for diabetes and cardiometabolic diseases</li><li>How data from the Knowledge Portal can support such research</li></ol><p>💻 <a href=\"https://broadinstitute.zoom.us/webinar/register/WN__dgDoIUZSVyPwKvZ3Xx7mQ\">Register for the event</a></p><img src=\"https://kp4cd.org/sites/default/files/September%2024th%2C%202026%20KPN%20Webinar%20(1).png\" data-entity-uuid=\"cb02690f-be8c-4c4a-a011-e4d9a966aa3f\" data-entity-type=\"file\" alt=\"\" width=\"960\" height=\"540\" loading=\"lazy\" />",
+  "fieldPortals": "md, cvd, cd, sleep, t1d, t2d, lung, nage, msk, a2f, kidney, aging",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/September%2024th%2C%202026%20KPN%20Webinar%20%281%29.png",
+  "viewNode": "<a href=\"/node/1779\" hreflang=\"en\">view</a>",
+  "publishedAt": "2026-09-24T12:00:00.000Z",
+  "updatedAt": "2026-09-24T12:00:00.000Z",
+  "published": true
+}

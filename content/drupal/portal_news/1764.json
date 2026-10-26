@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1764,
+  "order": 208,
+  "title": "Introducing PEGASUS, a new community framework for Effector Gene reporting!",
+  "summary": "A new community framework for Effector Gene reporting, PEGASUS, is available from the Knowledge Portal Network and GWAS Catalog, in support from OpenTargets and the scientific community! ",
+  "bodyHtml": "<p>A new community framework for Effector Gene reporting, PEGASUS, is available from the Knowledge Portal Network and GWAS Catalog, in support from OpenTargets and the scientific community! </p><p>Predicted effector genes are among the most important outputs of genome-wide association studies (GWAS), representing the genes most likely to explain how genetic variants influence biological processes and contribute to disease. These predictions are critical for uncovering disease mechanisms and prioritizing potential therapeutic targets. However, they are currently reported using a wide variety of formats and methodologies, making it difficult to compare, integrate, and reuse results across studies. This lack of consistency also limits the ability of community resources, such as the GWAS Catalog, to effectively organize and share these findings with researchers. Through a 2024 workshop and a 2025 working group series, we developed the Predicted Effector Gene Aggregation, Standards and Unified Schema (PEGASUS) framework, which organizes and shares predicted effector gene resources in a more consistent, transparent, and reusable way. </p><img src=\"https://kp4cd.org/sites/default/files/News%20Items/HMKNkB_WgAAGIpm.jpeg\" data-entity-uuid=\"ac4cf315-b99c-4410-9ee1-cfdcd5c97c43\" data-entity-type=\"file\" alt=\"\" width=\"1000\" height=\"239\" loading=\"lazy\" /><p>📖 Read the preprint: <a href=\"https://www.biorxiv.org/content/10.64898/2026.06.16.731894v1\">https://www.biorxiv.org/content/10.64898/2026.06.16.731894v1</a></p><p>🔗 Explore the framework: https://hugeamp.org/research.html?pageid=pegl_app_front_PEGASUS</p><p>👉 Submit your data through the PEG Data Registry: <a href=\"https://kpndataregistry.org/peg/login?redirect=/peg/\">https://kpndataregistry.org/peg/login?redirect=/peg/</a></p><p>🙋 Questions, or interested in getting involved? Email help@kp4cd.org. </p>",
+  "fieldPortals": "md, cvd, cd, sleep, t1d, t2d, lung, nage, msk, a2f, kidney, aging",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/pegasus_icon.png",
+  "viewNode": "<a href=\"/node/1764\" hreflang=\"en\">view</a>",
+  "publishedAt": "2024-01-01T12:00:00.000Z",
+  "updatedAt": "2024-01-01T12:00:00.000Z",
+  "published": true
+}

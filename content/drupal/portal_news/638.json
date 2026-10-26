@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 638,
+  "order": 52,
+  "title": "Learn about the Human Genetics Calculator in our upcoming webinar",
+  "summary": "Join us on Thursday, March 11th at 12pm U.S. Eastern time for a webinar featuring an innovative new tool being developed in Jason Flannick's group.",
+  "bodyHtml": "<p>Join us on Thursday, March 11th at 12pm U.S. Eastern time for a webinar featuring an innovative new tool being developed in <a href=\"http://www.flannicklab.org/\" target=\"_blank\">Jason Flannick</a>'s group. The Human Genetics Calculator (HuGe Calculator) integrates several kinds of genetic evidence to quantify human genetic support for involvement of a gene in a phenotype or disease of interest, with the aim of helping researchers prioritize genes. It will soon be available in the Common Metabolic Diseases Knowledge Portal and its component disease-specific portals.</p>\n\n<p> </p>\n\n<p><a href=\"https://broadinstitute.zoom.us/j/92944548843?pwd=Z0w3YUNsbUpWanVlRW1jRmV3a3B1UT09\" target=\"_blank\">Join the Zoom meeting</a><br />\nPasscode: 238206</p>\n\n<p style=\"text-align: center\"><img align=\"center\" alt=\"\" src=\"http://kp4cd.org/sites/default/files/images/webinar_flyer_3-11-21.png\" style=\"width:600px;\" /></p>\n",
+  "fieldPortals": "t2d, md, a2f, t1d, msk, cd, cvd, sleep, lung",
+  "fieldImage": "",
+  "viewNode": "<a href=\"/node/638\" hreflang=\"en\">view</a>",
+  "publishedAt": "2021-03-05T14:31:17.000Z",
+  "updatedAt": "2021-04-05T14:13:23.000Z",
+  "published": true
+}

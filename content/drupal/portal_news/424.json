@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 424,
+  "order": 34,
+  "title": "Read the first publication on the MSK-KP",
+  "summary": "<p>A paper on the Musculoskeletal Knowledge Portal was published today in the Journal of Bone and Mineral Research.",
+  "bodyHtml": "<p>A paper on the Musculoskeletal Knowledge Portal was published today in the Journal of Bone and Mineral Research. \"The Musculoskeletal Knowledge Portal: Making Omics Data Useful to the Broader Scientific Community\" (<a href=\"https://asbmr.onlinelibrary.wiley.com/doi/full/10.1002/jbmr.4147\" target=\"_blank\">Kiel et al., 2020</a>) describes the evolution of the MSK-KP project and the goals of the MSK-KP. An <a href=\"https://asbmr.onlinelibrary.wiley.com/doi/full/10.1002/jbmr.4148\" target=\"_blank\">accompanying editorial</a> by Fernando Rivadeneira and Jennifer Westendorf highlights the value that data sharing in the MSK-KP will bring to the musculoskeletal research community.</p>\n\n<p>The MSK-KP is under continuous development. We welcome <a href=\"http://www.kp4cd.org/contact\" target=\"_blank\">your comments and suggestions</a>!&nbsp;</p>\n",
+  "fieldPortals": "msk, mskkp",
+  "fieldImage": "",
+  "viewNode": "<a href=\"/node/424\" hreflang=\"en\">view</a>",
+  "publishedAt": "2020-09-10T18:23:51.000Z",
+  "updatedAt": "2020-09-10T18:33:22.000Z",
+  "published": true
+}

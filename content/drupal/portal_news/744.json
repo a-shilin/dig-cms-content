@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 744,
+  "order": 73,
+  "title": "ASHG ancillary session recording and slides now available",
+  "summary": "We now provide the video recording and slides from the session that we hosted on October 18, 2021, \"Genetic, epigenomic, and functional approaches to identifying effector genes for complex diseases\".",
+  "bodyHtml": "<p>On Monday, October 18, 2021, we were honored to host a panel of experts who presented on their work using genetic, genomic and functional approaches to identifying the effector genes for complex diseases. Anna Gloyn (Stanford University), Brent Richards (McGill University), Krishna Aragam (Massachusetts General Hospital), and Jason Flannick (Boston Children's Hospital) spoke in this session, which was held as an ancillary event connected with the American Society of Human Genetics meeting. </p>\n\n<p>In case you missed this informative session, you can still read the <a href=\"http://kp4cd.org/CMDKP_ASHG2021\" target=\"_blank\">abstracts</a> from the talks, watch the <a href=\"https://youtu.be/6vP-hADhixk\" target=\"_blank\">video recording</a>, or view the <a href=\"https://drive.google.com/file/d/1oakqE2y_dvl3MZwA6ieNQf8f2ywDl9jY/view?usp=sharing\" target=\"_blank\">slide deck</a>.</p>\n\n<p style=\"text-align: center\"><img src=\"http://kp4cd.org/sites/default/files/images/ASHG_ancillary.png\" style=\"width:500px;\" /></p>\n",
+  "fieldPortals": "md, t1d, t2d, cd, cvd, sleep, lung, msk, nage",
+  "fieldImage": "",
+  "viewNode": "<a href=\"/node/744\" hreflang=\"en\">view</a>",
+  "publishedAt": "2021-10-20T15:22:03.000Z",
+  "updatedAt": "2021-10-20T15:31:50.000Z",
+  "published": true
+}

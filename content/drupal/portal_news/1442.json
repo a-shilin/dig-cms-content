@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1442,
+  "order": 140,
+  "title": "Ayellet Segrè webinar recording available",
+  "summary": "The recording of Dr. Ayellet Segrè's seminar, \"Integration of GWAS with regulatory and single cell genomics proposes causal mechanisms for glaucoma\", is now available.",
+  "bodyHtml": "<p>The recording of our April 11 KPN webinar, featuring guest speaker Ayellet Segrè, is now available. Dr. Segrè spoke about her efforts to integrate GWAS data with regulatory and single cell genomics to determine causal mechanisms for glaucoma, and demonstrated the in-progress Vision Genomics Portal that we are building with her.</p><p><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/7fiQIq6sa70?si=SYUF6SROZEu7x2-d\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"\"></iframe></p>",
+  "fieldPortals": "md, t1d, t2d, sleep, cd, cvd, lung, msk, a2f, ocular, reproductive, autoimmune, aging, kidney",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/Screenshot%202024-04-08%20at%202.24.59%E2%80%AFPM.png",
+  "viewNode": "<a href=\"/node/1442\" hreflang=\"en\">view</a>",
+  "publishedAt": null,
+  "updatedAt": null,
+  "published": true
+}

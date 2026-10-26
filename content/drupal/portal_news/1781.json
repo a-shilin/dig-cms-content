@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1781,
+  "order": 224,
+  "title": "September 24, 2026 Knowledge Portal Webinar Recording Now LIVE!",
+  "summary": "Satoshi Yoshiji presented his work on \"Large-Scale Genomics and Proteomics to Study Diabetes and Cardiometabolic Diseases\".",
+  "bodyHtml": "<p>🧬 Large-Scale Genomics and Proteomics to Study Diabetes and Cardiometabolic Diseases<br />🎙️ Featured speaker: Satoshi Yoshiji, MD, PhD–Assistant Professor, McGill University &amp; Visiting Scholar, Broad Institute</p><p>📺 Watch the recording: https://youtu.be/fmfJ5e9Vb6k</p><p>Topics covered: </p><ol><li>A brief primer on large-scale biobanks with genomic and proteomic data</li><li>How these data can be used to understand disease biology and nominate candidate effector genes for diabetes and cardiometabolic diseases</li><li>How data from the Knowledge Portal can support such research</li></ol><img src=\"https://kp4cd.org/sites/default/files/September%2024th%2C%202026%20KPN%20Webinar%20(1).png\" data-entity-uuid=\"\" data-entity-type=\"file\" alt=\"\" width=\"960\" height=\"540\" loading=\"lazy\" />",
+  "fieldPortals": "md, cvd, cd, sleep, t1d, t2d, lung, nage, msk, a2f, kidney, aging",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/September%2024th%2C%202026%20KPN%20Webinar%20%281%29_0.png",
+  "viewNode": "<a href=\"/node/1781\" hreflang=\"en\">view</a>",
+  "publishedAt": "2026-09-24T12:00:00.000Z",
+  "updatedAt": "2026-09-24T12:00:00.000Z",
+  "published": true
+}

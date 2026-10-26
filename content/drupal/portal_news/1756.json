@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1756,
+  "order": 200,
+  "title": "Join us for the June 11th, 2026 Knowledge Portal Network Webinar!",
+  "summary": "Want an exclusive look at the Knowledge Portal Network June 2026 Production Release?",
+  "bodyHtml": "<p>📣 Want an exclusive look at the Knowledge Portal Network June 2026 Production Release?</p><p> </p><p>Join us for our Knowledge Portal Webinar as we showcase the latest updates, including a first look at our new Cell State &amp; Program Explorer, designed to help researchers connect genetic discoveries to cellular states, programs, and biological mechanisms.</p><p> </p><p>📆 June 11, 2026</p><p>⏰ 12:00–1:00 PM ET</p><p> </p><p>During this session, we'll highlight:</p><p>-New features and enhancements from the June 2026 Production Release</p><p>-The new Cell State &amp; Program Explorer, powered by LIGER</p><p>-Upcoming events and opportunities to meet with the KPN team</p><p> </p><p>💻 Register for the event: https://broadinstitute.zoom.us/webinar/register/WN__dgDoIUZSVyPwKvZ3Xx7mQ</p><p style=\"-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);border:0px rgba(0, 0, 0, 0.9);box-sizing:inherit;color:rgba(0, 0, 0, 0.9);counter-reset:list-1 0 list-2 0 list-3 0 list-4 0 list-5 0 list-6 0 list-7 0 list-8 0 list-9 0;cursor:text;font-family:-apple-system, system-ui, &quot;system-ui&quot;, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, &quot;Fira Sans&quot;, Ubuntu, Oxygen, &quot;Oxygen Sans&quot;, Cantarell, &quot;Droid Sans&quot;, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Lucida Grande&quot;, Helvetica, Arial, sans-serif;font-size:20px;font-style:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-weight:400;letter-spacing:normal;line-height:1.5;margin:0px;orphans:2;padding:0px;text-align:left;text-decoration-color:initial;text-decoration-style:initial;text-decoration-thickness:initial;text-indent:0px;text-transform:none;vertical-align:baseline;white-space:pre-wrap;widows:2;word-spacing:0px;\"> </p><img src=\"https://kp4cd.org/sites/default/files/News%20Items/June%2011th%2C%202026%20KPN%20Webinar.png\" data-entity-uuid=\"21b65c1b-720e-4ee9-98d1-78e12895528b\" data-entity-type=\"file\" alt=\"\" width=\"960\" height=\"540\" loading=\"lazy\" />",
+  "fieldPortals": "md, cvd, cd, sleep, t1d, t2d, lung, nage, msk, a2f, kidney, aging",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/June%2011th%2C%202026%20KPN%20Webinar.png",
+  "viewNode": "<a href=\"/node/1756\" hreflang=\"en\">view</a>",
+  "publishedAt": "2026-06-11T12:00:00.000Z",
+  "updatedAt": "2026-06-11T12:00:00.000Z",
+  "published": true
+}

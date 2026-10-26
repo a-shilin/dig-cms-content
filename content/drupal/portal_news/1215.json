@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1215,
+  "order": 122,
+  "title": "Beta release of the BCH Aggregator - January 18, 2023",
+  "summary": "<p>&nbsp; &nbsp; We're excited to announce the beta release of the BCH Aggregator! Developed in a collaboration between the Children's Rare Disease Cohorts (CRDC), Dr.",
+  "bodyHtml": "<p>&nbsp; &nbsp; We're excited to announce the beta release of the BCH Aggregator! Developed in a collaboration between the Children's Rare Disease Cohorts (CRDC), Dr. Jason Flannick (Broad Institute) and the Manton Center, Aggregator is a tool for analyzing genomic data collected across Boston Children's Hospital. This integrated database of whole exome sequencing data and clinical phenotypes has a web portal for visualization and exploration.</p>\n\n<p>The de-identified aggregate resource allows users to investigate:</p>\n\n<p>&nbsp; &nbsp; 1) how many individuals have variants at a specific locus of interest,&nbsp;</p>\n\n<p>&nbsp; &nbsp; 2) which phenotypes those individuals have, and</p>\n\n<p>&nbsp; &nbsp; 3) the name of the investigator who originally consented the patients.</p>\n\n<p>&nbsp; &nbsp; This facilitates preparatory-to-research queries of both data with broad consent and with disease-restricted consent and can help build collaborations. In addition, the Aggregator provides statistics for phenotype-specific burden tests of variants in genes, for a collection of relevant HPO terms. BCH Aggregator currently has data for 6,600 individuals (34% are affected), and will grow to more than 15,000 individuals with the full production rollout soon (which will also include a transition from hg19 to hg38). This tool is available to all BCH researchers with CITI training and can be accessed by submitting a request for access.&nbsp;</p>\n",
+  "fieldPortals": "aggregator",
+  "fieldImage": "",
+  "viewNode": "<a href=\"/node/1215\" hreflang=\"en\">view</a>",
+  "publishedAt": "2023-01-18T12:00:00.000Z",
+  "updatedAt": "2023-01-18T12:00:00.000Z",
+  "published": true
+}

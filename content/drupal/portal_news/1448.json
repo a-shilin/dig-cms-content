@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1448,
+  "order": 144,
+  "title": "Common Fund Data Ecosystem Public Webinar on Friday May 31",
+  "summary": "In our role as the Knowledge Center for the Common Fund Data Ecosystem, we're hosting a public webinar on Friday May 31 featuring Dr. Avi Ma'ayan and Giacomo Marino of LINCS and the CFDE Data Resource CEnter. ",
+  "bodyHtml": "<p>We are pleased to announce that the second session of the Common Fund Data Ecosystem (CFDE) Public Webinar Series will be held Friday, May 31st at 1 PM ET. This CFDE Webinar Series brings the varied programs of the CFDE to the broad biomedical research community and allows attendees to learn the science behind the research programs that comprise CFDE, as well as about the CFDE as a whole and its coordination Centers.</p><p>Join the session to hear from <a href=\"https://lincsproject.org/LINCS/\" target=\"_blank\">LINCS Data Coordinating Center</a> and <a href=\"https://data.cfde.cloud/matrix\" target=\"_blank\">CFDE Data Resource Center</a> members Avi Ma'ayan, who will present \"Improved Methods to Query the LINCS L1000 Data\", and Giacomo Marino, presenting \"Automatic Mining of Human and Mouse Gene Sets from GEO\".</p><p>You can register for this open-access event <a href=\"https://broadinstitute.zoom.us/webinar/register/WN_x0bGLLt4TbqFGlxlMM-T2A#/registration\" target=\"_blank\">here</a>, and further details are located on <a href=\"https://hugeamp.org/research.html?pageid=CFDE_webinars\" target=\"_blank\">this information page</a> and embedded in <a href=\"https://kp4cd.org/sites/default/files/documents/CFDE_Webinar_31May2024.png.pdf\" target=\"_blank\">this flyer</a>. Please circulate the flyer to interested colleagues! We hope to see you there, but we’ll also record and post the presentation for those who can’t make it.</p><p class=\"text-align-center\"><a href=\"https://kp4cd.org/sites/default/files/documents/CFDE_Webinar_31May2024.png.pdf\" target=\"_blank\"><img src=\"https://kp4cd.org/sites/default/files/images/CFDE_Webinar_31May2024.png\" width=\"500\" /></a></p>",
+  "fieldPortals": "md, t1d, t2d, cd, cvd, sleep, a2f, nage, aging, kidney, reproductive, ocular, autoimmune, msk, ndkp, lung",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/Screenshot%202024-05-29%20at%203.20.57%E2%80%AFPM.png",
+  "viewNode": "<a href=\"/node/1448\" hreflang=\"en\">view</a>",
+  "publishedAt": null,
+  "updatedAt": null,
+  "published": true
+}

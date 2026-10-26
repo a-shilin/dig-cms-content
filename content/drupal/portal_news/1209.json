@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1209,
+  "order": 118,
+  "title": "Meet the Knowledge Portal team at ADA!",
+  "summary": "Join us at exhibit booth #841 at the ADA 83rd Scientific Sessions!",
+  "bodyHtml": "<p>Will you be attending the <a href=\"https://professional.diabetes.org/scientific-sessions\" target=\"blank\">83rd Scientific Sessions of the American Diabetes Association</a> in San Diego, CA? The Knowledge Portal team will be there, and we'll have a booth (#841) in the exhibit hall on these days:</p>\n\n<ul><li>Saturday, June 24, 10am-4pm</li>\n\t<li>Sunday, June 25, 10am-4pm</li>\n\t<li>Monday, June 26, 10am-2pm</li>\n</ul><p>At this conference, we'll be featuring the <a href=\"https://hugeamp.org/\" target=\"blank\">Common Metabolic Diseases Knowledge Portal</a>; its two diabetes-focused community portals, the <a href=\"https://t1d.hugeamp.org/\" target=\"blank\">T1DKP</a> and the <a href=\"https://t2d.hugeamp.org/\" target=\"blank\">T2DKP</a>; and the <a href=\"https://cmdga.org/\" target=\"blank\">Common Metabolic Diseases Genome Atlas</a> that provides all of the genomic and epigenomic annotations displayed on the portals.</p>\n\n<p>Please stop by the booth for a chat! We'll have Knowledge Portal swag and educational materials to give away, and we're happy to answer your questions, hear your feedback, or give you a personalized tutorial. If you have questions ahead of time or would like to set up a time to meet, please email us at <a href=\"mailto:help@kp4cd.org\">help@kp4cd.org</a>.</p>\n\n<p>Click the image to download the flyer; please circulate it to interested colleagues.</p>\n\n<p style=\"text-align: center\"><a href=\"https://kp4cd.org/sites/default/files/documents/2023_ADA.pdf\" target=\"_blank\"><img src=\"https://kp4cd.org/sites/default/files/images/ADA_flyer.png\" style=\"width:500px;\" /></a></p>\n",
+  "fieldPortals": "md, t1d, t2d, a2f, nage",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/Screenshot%202023-06-21%20at%201.50.27%20PM.png",
+  "viewNode": "<a href=\"/node/1209\" hreflang=\"en\">view</a>",
+  "publishedAt": null,
+  "updatedAt": null,
+  "published": true
+}

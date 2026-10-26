@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1774,
+  "order": 218,
+  "title": "Headed to ASBMR 2026?",
+  "summary": "Visit Booth 414!",
+  "bodyHtml": "<h2>Headed to ASBMR 2026?</h2><p>Visit Booth 414 to meet with the Musculoskeletal Knowledge Portal, the International Federation of Musculoskeletal Research Societies, and the Osteoarthritis Initiative Collaborative Osteoarthritis Research Enterprise Knowledgebase!</p><p>October 9-11, 2026 | Hynes Convention Center | Boston, MA</p><img src=\"https://kp4cd.org/sites/default/files/ASBMR%202026%20news%20item%20logo.png\" data-entity-uuid=\"2402cfff-3093-4043-a116-d07715c6b8d0\" data-entity-type=\"file\" alt=\"\" width=\"1000\" height=\"562.5\" loading=\"lazy\" />",
+  "fieldPortals": "md, cvd, cd, sleep, t1d, t2d, lung, nage, msk, a2f, kidney, aging",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/ASBMR_2026_news_item_logo_with_bgc.png",
+  "viewNode": "<a href=\"/node/1774\" hreflang=\"en\">view</a>",
+  "publishedAt": "2026-01-01T12:00:00.000Z",
+  "updatedAt": "2026-01-01T12:00:00.000Z",
+  "published": true
+}

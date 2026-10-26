@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 425,
+  "order": 35,
+  "title": "Learn about effector gene predictions in our Sept. 17 webinar",
+  "summary": "Learn about effector gene predictions in our Sept. 17 webinar.",
+  "bodyHtml": "<p>At noon EDT on Thursday, September 17, we'll present the next installment in our webinar series. This webinar will cover effector gene predictions in the Knowledge Portals. You'll learn about two methods that evaluate a range of source data to generate a classification or score for individual genes, representing the probability that they have direct roles as effectors for T2D and other traits. We'll also cover the interactive displays that allow you to explore these predictions and the evidence behind them. And as usual, we'll finish up with a look to the future and the next developments that will be coming to the Knowledge Portals. We hope to see you there!</p>\n\n<h5>Connection information:</h5>\n\n<p><a href=\"https://broadinstitute.zoom.us/j/92913786655?pwd=K1JSUDM3K3M4ZnduN0pBeTVDUWV3QT09\" target=\"_blank\">Join Zoom meeting</a><br />\nPasscode: 099086</p>\n\n<p>Or join by phone:<br />\nDial(for higher quality, dial a number based on your current location):<br />\nUS: +1 646 876 9923 or +1 646 558 8656<br />\nWebinar ID: 929 1378 6655<br />\nPasscode: 099086<br />\nInternational numbers available: <a href=\"https://broadinstitute.zoom.us/u/abmxii1zju\" target=\"_blank\">https://broadinstitute.zoom.us/u/abmxii1zju</a></p>\n",
+  "fieldPortals": "t2d, md, cd, cvd, sd, stroke, mi, sleep, msk, bone",
+  "fieldImage": "",
+  "viewNode": "<a href=\"/node/425\" hreflang=\"en\">view</a>",
+  "publishedAt": "2020-09-11T19:28:24.000Z",
+  "updatedAt": "2020-09-16T12:07:56.000Z",
+  "published": true
+}

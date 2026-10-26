@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1730,
+  "order": 175,
+  "title": "Join us on Friday, February 27th, 2026 for our next session of the Public Webinar Series!",
+  "summary": "Discover how somatic mosaicism is being studied across human tissues through cutting-edge datasets, analytical approaches, and an accessible data portal designed to accelerate biomedical discovery.",
+  "bodyHtml": "<p>Join the Common Fund Data Ecosystem (CFDE) Public Webinar Series for an exciting session featuring Hye-Jung Elizabeth Chun, PhD who will presesent on \"Somatic Mosaicism across Human Tissues: Data, Analysis, and Data Portal\"</p><p>Discover how somatic mosaicism is being studied across human tissues through cutting-edge datasets, analytical approaches, and an accessible data portal designed to accelerate biomedical discovery.</p><p>📅 Friday, February 27, 2026<br />🕐 1–2 PM ET<br />💻 Register here: https://broadinstitute.zoom.us/webinar/register/WN_x0bGLLt4TbqFGlxlMM-T2A</p><p>Don’t miss this opportunity to learn from experts at the forefront of data-driven human biology research!</p><p><a href=\"https://smaht.org/\">Explore the SMaHT resource.</a></p><img src=\"https://kp4cd.org/sites/default/files/CFDE%20Public%20Webinar%20Series%20-%20Friday%2C%20February%2027%2C%202026.png\" data-entity-uuid=\"3bc38199-be2e-4fe0-a13a-dc01969b148c\" data-entity-type=\"file\" alt=\"\" width=\"1920\" height=\"1080\" loading=\"lazy\" />",
+  "fieldPortals": "md, cvd, cd, sleep, t1d, t2d, lung, nage, msk, a2f, kidney, aging",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/cfde%20webinar%20icon_0.png",
+  "viewNode": "<a href=\"/node/1730\" hreflang=\"en\">view</a>",
+  "publishedAt": "2026-02-27T12:00:00.000Z",
+  "updatedAt": "2026-02-27T12:00:00.000Z",
+  "published": true
+}

@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1048,
+  "order": 107,
+  "title": "Jan. 12 focus group will discuss the CMDGA",
+  "summary": "In our January 12, 2023 Knowledge Portal focus group we'll discuss the Common Metabolic Diseases Genome Atlas.",
+  "bodyHtml": "<p>In our&nbsp;Knowledge Portal focus group this week we’ll be discussing the “sister” resource to the Knowledge Portals: the Common Metabolic Diseases Genome Atlas (CMDGA). The CMDGA aggregates multiple types of functional annotation datasets that describe the locations of tissue-specific regulatory elements and their predicted target genes. We’re interested in your feedback on several newly added data types and the visualizations that represent them, as well as overall site navigation and data retrieval. Please join us for an interactive session!</p>\n\n<p>Joining instructions:</p>\n\n<p>Knowledge Portal Focus Group<br />\nThursday, January 12, 12-1pm EST</p>\n\n<p>Join Zoom Meeting <a href=\"https://broadinstitute.zoom.us/j/86230912147?pwd=TThiVytpMHJYM1dlNlZXMlQvK2lxQT09\">https://broadinstitute.zoom.us/j/86230912147?pwd=TThiVytpMHJYM1dlNlZXMlQvK2lxQT09</a><br />\nMeeting ID: 862 3091 2147<br />\nPasscode: 658078<br />\nOne tap mobile <a href=\"tel:+16468769923,,86230912147#,,,,*658078#\">+16468769923,,86230912147#,,,,*658078#</a> US (New York) <a href=\"tel:+16465588656,,86230912147#,,,,*658078#\">+16465588656,,86230912147#,,,,*658078#</a> US (New York)<br />\nDial by your location +1 646 876 9923 US (New York) +1 646 558 8656 US (New York)<br />\nFind your local number: <a href=\"https://broadinstitute.zoom.us/u/kcv6Tl2WYm\">https://broadinstitute.zoom.us/u/kcv6Tl2WYm</a></p>\n",
+  "fieldPortals": "md, t1d, t2d, cd, cvd, sleep, lung, msk, nage, a2f, ndkp, reproductive, autoimmune, ocular",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/magnifying_glass_0.png",
+  "viewNode": "<a href=\"/node/1048\" hreflang=\"en\">view</a>",
+  "publishedAt": null,
+  "updatedAt": null,
+  "published": true
+}

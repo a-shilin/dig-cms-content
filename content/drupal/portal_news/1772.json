@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1772,
+  "order": 216,
+  "title": "Join us for the PanKbase Webinar August 20th, 2026",
+  "summary": "Learn how to Power Your Next Discovery: New Data & Tools in Pankbase!",
+  "bodyHtml": "<p>Join us for the next PanKbase Office Hours:<br />🧬 Power Your Next Discovery: New Data &amp; Tools in Pankbase<br />📆 Thursday, August 20th, 2026<br />⏰ 12:00–1:00 PM ET<br />🎙️ Featured speakers: Anna Gloyn, PhD; Thomas Bate, PhD; Annie Moriondo; Ringo Mao</p><p>Topics we will cover:</p><ol><li>PanKbase and where we are</li><li>Updated donor browser</li><li>Islet perifusion functional data browser</li><li>PanKgraph natural language search</li></ol><p>💻 <a href=\"https://broadinstitute.zoom.us/webinar/register/WN__dgDoIUZSVyPwKvZ3Xx7mQ\">Register for the event</a></p><img src=\"https://kp4cd.org/sites/default/files/August%2020%2C%202026%20KPN%20Webinar%20(4).png\" data-entity-uuid=\"1fd91dc0-f332-4ee5-85a7-a766cb5335f7\" data-entity-type=\"file\" alt=\"\" width=\"960\" height=\"540\" loading=\"lazy\" />",
+  "fieldPortals": "md, cvd, cd, sleep, t1d, t2d, lung, nage, msk, a2f, kidney, aging",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/August%2020%2C%202026%20KPN%20Webinar%20%284%29.png",
+  "viewNode": "<a href=\"/node/1772\" hreflang=\"en\">view</a>",
+  "publishedAt": "2026-08-20T12:00:00.000Z",
+  "updatedAt": "2026-08-20T12:00:00.000Z",
+  "published": true
+}

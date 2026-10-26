@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1516,
+  "order": 145,
+  "title": "Webinar recording available: Dr. Jason Flannick on PIGEAN, a framework for gene prioritization",
+  "summary": "The recording of Dr. Jason Flannick's seminar, \"Incorporating direct and indirect evidence into calculations of genetic support\", is now available.",
+  "bodyHtml": "<p>The video recording is now available for the June 13, 2024 Knowledge Portal Network webinar in which Jason Flannick presented his latest research on the PIGEAN (<u>P</u>riors <u>I</u>nferred from <u>GE</u>ne <u>AN</u>notations) framework, a method for incorporating gene annotations into evaluations of genetic support for involvement of genes in a disease or trait of interest. Dr. Flannick is an Assistant Professor of Pediatrics at the Harvard Medical School and the Division of Genetics and Genomics at Boston Children's Hospital, and he is also one of the Principal Investigators of the Common Metabolic Diseases Knowledge Portal and Association to Function Knowledge Portal projects.</p><p>&nbsp;</p><p class=\"text-align-center\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/b1fmzhgE3lI?si=ocLSlcLZx51cVIEc\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"\"></iframe></p>",
+  "fieldPortals": "md, t1d, t2d, sleep, cd, cvd, lung, msk, a2f, ocular, reproductive, autoimmune, aging, kidney",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/Screenshot%202024-06-10%20at%201.24.23%E2%80%AFPM.png",
+  "viewNode": "<a href=\"/node/1516\" hreflang=\"en\">view</a>",
+  "publishedAt": "2024-06-13T12:00:00.000Z",
+  "updatedAt": "2024-06-13T12:00:00.000Z",
+  "published": true
+}

@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1520,
+  "order": 147,
+  "title": "Focus group Thursday July 11: Knowledge Portal updates and future directions",
+  "summary": "Join our focus group on Thursday July 11 where we'll present the latest updates to the Knowledge Portals and gather your feedback about new features!",
+  "bodyHtml": "<p>Please join us on Thursday July 11 for our next KPN focus group. We'll review the data that we've added to the portals in our most recent releases, present new methods that we're running at scale across all results, and showcase new interfaces in the portals. We'll talk about some future plans, and we also want to hear from you about how the Knowledge Portals can better meet your research needs.</p><p>Details on joining the presentation are below and are also embedded in <a href=\"https://kp4cd.org/sites/default/files/documents/KPN_Focus_Group_11July2024.pdf\" target=\"_blank\">this flyer</a>. Please circulate it to interested colleagues! We hope to see you there, but we’ll also record and post the presentation for those who can’t make it.</p><p> </p><p class=\"text-align-center\"><a href=\"https://kp4cd.org/sites/default/files/documents/KPN_Focus_Group_11July2024.pdf\" target=\"_blank\"><img src=\"https://kp4cd.org/sites/default/files/images/KPN_Focus_Group_11July2024.png\" width=\"700\" /></a></p><p>Knowledge Portal Network Focus Group<br />Thursday, July 11, 2024<br />12-1pm EDT</p><p>Please click the link below to join the webinar:</p><p><a href=\"https://broadinstitute.zoom.us/j/82751918072?pwd=d3JsZFFqOHBjcklhdERXQXl4emNSZz09\">https://broadinstitute.zoom.us/j/82751918072?pwd=d3JsZFFqOHBjcklhdERXQXl4emNSZz09</a> <br />Passcode: 248289</p>",
+  "fieldPortals": "md, t1d, t2d, sleep, cd, cvd, lung, msk, a2f, ocular, reproductive, autoimmune, aging, kidney",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/magnifying_glass_3.png",
+  "viewNode": "<a href=\"/node/1520\" hreflang=\"en\">view</a>",
+  "publishedAt": "2024-07-11T12:00:00.000Z",
+  "updatedAt": "2024-07-11T12:00:00.000Z",
+  "published": true
+}

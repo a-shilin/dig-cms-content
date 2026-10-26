@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 930,
+  "order": 97,
+  "title": "New T2D effector gene predictions available",
+  "summary": "<p>Today we release, pre-publication, a list of <a href=\"https://hugeamp.org/research.html?pageid=cell-type-T2D\" target=\"_blank\">predicted effector genes for type 2 diabetes that act in specific pancreatic cell types</a> from Struan Grant, Andrew Wells, Klaus Kaestner, and colleagues at the Universi",
+  "bodyHtml": "<p>Today we release, pre-publication, a list of <a href=\"https://hugeamp.org/research.html?pageid=cell-type-T2D\" target=\"_blank\">predicted effector genes for type 2 diabetes that act in specific pancreatic cell types</a> from Struan Grant, Andrew Wells, Klaus Kaestner, and colleagues at the University of Pennsylvania. The work that discovered these variant-to-gene-by-cell type relationships is described in a preprint (<a href=\"https://www.biorxiv.org/content/10.1101/2021.11.30.470653v2\" target=\"_blank\">Su <i>et al.</i>, 2022</a>) of a manuscript that is in press at <i>Cell Metabolism</i> and is also featured in a recent <a href=\"https://youtu.be/HXUcTN52iqk\" target=\"_blank\">webinar presentation</a> from Klaus Kaestner. Find a link to the list on our <a href=\"/effectorgenes.html\" target=\"_blank\">Effector gene predictions page</a>.</p>\n",
+  "fieldPortals": "md, t2d, a2f, nage",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/cell_metab_0.png",
+  "viewNode": "<a href=\"/node/930\" hreflang=\"en\">view</a>",
+  "publishedAt": "2022-01-01T12:00:00.000Z",
+  "updatedAt": "2022-01-01T12:00:00.000Z",
+  "published": true
+}

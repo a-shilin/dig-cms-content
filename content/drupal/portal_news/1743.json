@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1743,
+  "order": 188,
+  "title": "Join us for the PanKbase Webinar April 23rd, 2026",
+  "summary": "In this webinar where we’re listening, demoing, and answering your questions regarding PanKgraph.",
+  "bodyHtml": "<p>Are you…<br />🧬 New to Knowledge Graphs? Learn how they can help with your research.<br />👩‍💻 An active user? Give us your feedback on PanKgraph.<br />🙋 Have your own questions? We will devote time &amp; energy addressing them.</p><p>📆 April 23rd, 2026 | 12–1 PM ET</p><p>💻 Zoom: <a href=\"https://broadinstitute.zoom.us/j/95039888063?pwd=wz3HFcER6Lwc2NhTRPV8t77nAuvQrM.1\">https://broadinstitute.zoom.us/j/95039888063?pwd=wz3HFcER6Lwc2NhTRPV8t77nAuvQrM.1</a></p><img src=\"https://kp4cd.org/sites/default/files/April%2023rd%2C%202026%20KPN%20Webinar%20(2).png\" data-entity-uuid=\"e5668191-4d62-4672-a7e1-638c1a3ae41a\" data-entity-type=\"file\" alt=\"\" width=\"960\" height=\"540\" loading=\"lazy\" />",
+  "fieldPortals": "md, cvd, cd, sleep, t1d, t2d, lung, nage, msk, a2f, kidney, aging",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/April%2023rd%2C%202026%20KPN%20Webinar%20%282%29.png",
+  "viewNode": "<a href=\"/node/1743\" hreflang=\"en\">view</a>",
+  "publishedAt": "2026-04-23T12:00:00.000Z",
+  "updatedAt": "2026-04-23T12:00:00.000Z",
+  "published": true
+}

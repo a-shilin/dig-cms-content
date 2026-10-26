@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 277,
+  "order": 21,
+  "title": "Translating Variant Associations into Functional Insights Using the Knowledge Portal Network",
+  "summary": "Did you miss our ancillary session at ASHG? View the slides here.",
+  "bodyHtml": "<p>Did you miss our ancillary session at the American Society of Human Genetics meeting in October 2019? We presented a session on how the Knowledge Portal Network can help accelerate progress in research on the basis of complex diseases. View the slides from that presentation <a href=\"https://drive.google.com/file/d/1F-fXvgdORKDEg12FcAwxs4Dggnbmbr4Q/view?usp=sharing\" target=\"_blank\">here</a>.</p>\n<img alt=\"ASHG ancillary session agenda\" data-align=\"center\" data-entity-type=\"file\" data-entity-uuid=\"4a0fddba-bbcc-4bc0-aae5-7be52be79930\" height=\"714\" src=\"/sites/default/files/inline-images/AMPT2D%20ASHG%20event%20Flyer%20_0.jpg\" width=\"536\" loading=\"lazy\" />",
+  "fieldPortals": "t2d, mi, stroke, sleep, cvd, cd, md",
+  "fieldImage": "",
+  "viewNode": "<a href=\"/node/277\" hreflang=\"en\">view</a>",
+  "publishedAt": "2019-11-04T17:26:36.000Z",
+  "updatedAt": "2020-03-09T18:47:46.000Z",
+  "published": true
+}

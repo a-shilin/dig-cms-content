@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1597,
+  "order": 167,
+  "title": "Interested in helping us mature the Musculoskeletal Knowledge Portal (MSKKP.org)?",
+  "summary": "Interested in helping us mature the Musculoskeletal Knowledge Portal (MSKKP.org)? Join us next Thursday as we walk through future plans including new single cell data, tissues, and more! ",
+  "bodyHtml": "<p>Interested in helping us mature the Musculoskeletal Knowledge Portal (MSKKP.org)? Join us next Thursday as we walk through future plans including new single cell data, tissues, and more! We will showcase future plans, give a demonstration of the current portal, and introduce new single cell data to be ingested.</p><p>We are eager to hear your feedback on the portal before the event. Please participate by filling out <a href=\"https://forms.gle/JRJXCwqUsdaRgR3r9\">this survey</a>!</p><img src=\"https://kp4cd.org/sites/default/files/August%2014th%2C%202025%20KPN%20Webinar.jpg\" data-entity-uuid=\"523989c6-6b72-4c51-8ef0-afe2dceb1e72\" data-entity-type=\"file\" alt=\"\" width=\"960\" height=\"540\" loading=\"lazy\" />",
+  "fieldPortals": "md, cvd, cd, sleep, t1d, t2d, lung, nage, msk, a2f, kidney, aging",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/webinar%20%281%29.png",
+  "viewNode": "<a href=\"/node/1597\" hreflang=\"en\">view</a>",
+  "publishedAt": null,
+  "updatedAt": null,
+  "published": true
+}

@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 114,
+  "order": 13,
+  "title": "Learn about the T2D Knowledge Portal at #EASD2019",
+  "summary": "The <a href=\"http://www.type2diabetesgenetics.org/\" target=\"_blank\">T2DKP</a> team will be exhibiting next week at the European Association for the Study of Diabetes (<a href=\"https://www.easd.org/annual-meeting/easd-2019.html\" target=\"_blank\">EASD</a>) conference in Barcelona.",
+  "bodyHtml": "<p>The <a href=\"http://www.type2diabetesgenetics.org/\" target=\"_blank\">Type 2 Diabetes Knowledge Portal</a> team will be exhibiting next week at the European Association for the Study of Diabetes (<a href=\"https://www.easd.org/annual-meeting/easd-2019.html\" target=\"_blank\">EASD</a>) conference in Barcelona. Please stop by our booth (M07) to get a hands-on tutorial and let us know which data and features would be most useful to your research.<br /><br />\nWe'll have team members there both from the T2DKP Federated Node at the <a href=\"http://www.ebi.ac.uk/\" target=\"_blank\">European Bioinformatics Institute</a> (EBI) and from the AMP T2D Data Coordinating Center (DCC) at the <a href=\"https://www.broadinstitute.org/\" target=\"_blank\">Broad Institute</a>.  The Federated Node allows data that may not leave Europe due to privacy regulations to be queried remotely and securely via T2DKP tools and interfaces. Researchers anywhere in the world may browse and query data from either location, without even needing to know where the datasets reside. Stop by the booth and talk with us about adding your results to the T2DKP!<br /><br />\n </p>\n\n<div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://1.bp.blogspot.com/-JUA438iQyKI/XXkfYXIv7nI/AAAAAAAABHw/QxnnII9CuMMY-dAGydT7REj6HJoxRkD2ACLcBGAsYHQ/s1600/EASD_booth_flyer.png\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" data-original-height=\"540\" data-original-width=\"720\" height=\"300\" src=\"https://1.bp.blogspot.com/-JUA438iQyKI/XXkfYXIv7nI/AAAAAAAABHw/QxnnII9CuMMY-dAGydT7REj6HJoxRkD2ACLcBGAsYHQ/s400/EASD_booth_flyer.png\" width=\"400\" loading=\"lazy\" /></a></div>\n",
+  "fieldPortals": "t2d",
+  "fieldImage": "",
+  "viewNode": "<a href=\"/node/114\" hreflang=\"en\">view</a>",
+  "publishedAt": "2019-09-17T14:12:46.000Z",
+  "updatedAt": "2019-09-17T14:15:44.000Z",
+  "published": true
+}

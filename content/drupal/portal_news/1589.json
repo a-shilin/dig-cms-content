@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1589,
+  "order": 162,
+  "title": "CMDKP Events at ADA 2025",
+  "summary": "<p>Are you headed to ADA in Chicago next week? The Common Metabolic Diseases Knowledge Portal team will be attending our 10th ADA this year! We have a variety of events that we hope to see you at.</p>",
+  "bodyHtml": "<p>Are you headed to ADA in Chicago next week? The Common Metabolic Diseases Knowledge Portal team will be attending our 10th ADA this year! We have a variety of events that we hope to see you at.</p><p>Visit us at <strong>Booth 948</strong> as part of the <a href=\"https://dknet.org/data-science-corner\">NIDDK Corner</a> Saturday, June 21 through Monday, June 23. Check out our <a href=\"https://dknet.org/data-science-corner/virtual-booth-cmdkp\">virtual booth</a> as well.</p><img src=\"https://kp4cd.org/sites/default/files/NIDDK%20Data%20Science%20Corner%20Programs%20Booth%20No.pdf.jpg\" data-entity-uuid=\"dff67778-e2da-48f6-889a-b99ada71cfc2\" data-entity-type=\"file\" width=\"400\" height=\"500\" loading=\"lazy\" /><p> </p><p><em>Friday, June 20th, 2025</em></p><p>Julie Jurgens from the KPN team will be presenting \"The Mammalian Adipose Tissue Knowledge Portal (MATKP) - An Open-Access Web Resource Providing Data and Knowledge Related to Mammalian Adipose Tissue\" as part of the Mechanisms Linking Adipose Health with Lipid and Glucose Homeostasis session. The talk will be from 5:30-6:30 PM in McCormick Place Convention Center West Building | Room W186 A-C.</p><img src=\"https://kp4cd.org/sites/default/files/inline-images/1_1.png\" height=\"348\" /><p> </p><p>Join us for a NIDDK Networking Reception to kick off the conference from 6:30-8:30 PM in the exhibit hall!</p><img src=\"https://kp4cd.org/sites/default/files/inline-images/2_0.png\" height=\"348\" /><p> </p><p><em>Saturday, June 21st, 2025</em></p><p>We will be hosting an ancillary session \"Common Metabolic Diseases Knowledge Portal: integrating transcriptomics, human genetics, and AI for common metabolic diseases\" on Saturday, June 21 from 6pm-7:30pm at the Hyatt Regency McCormick Place | Grant Park D. </p><p> </p>",
+  "fieldPortals": "md, cvd, cd, sleep, t1d, t2d, lung, nage, msk, a2f, kidney, aging",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/ADA%202025.png",
+  "viewNode": "<a href=\"/node/1589\" hreflang=\"en\">view</a>",
+  "publishedAt": "2025-06-20T12:00:00.000Z",
+  "updatedAt": "2025-06-20T12:00:00.000Z",
+  "published": true
+}

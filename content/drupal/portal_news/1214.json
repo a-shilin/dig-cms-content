@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1214,
+  "order": 121,
+  "title": "KPN webinar recording: how the KPN can help you share and represent your data",
+  "summary": "Our August 10 Knowledge Portal webinar focused on how we're making it easier for you to submit, share, and visualize your data.",
+  "bodyHtml": "<p>Did you know that the Common Metabolic Diseases Knowledge Portal is an NIH-supported Scientific Data Repository? You can satisfy NIH data sharing requirements by storing your data with us. In our August 10 webinar we talked about how we can help you write an NIH data management plan and about in-development interfaces that will make it easier for you to upload your data and to format, visualize, and share them.</p>\n\n<p><iframe allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\" frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/RMtA7s7AXzw\" title=\"YouTube video player\" width=\"560\"></iframe></p>\n\n<p> </p>\n\n<p style=\"text-align: center\"><a href=\"https://kp4cd.org/sites/default/files/documents/KPN_Webinar_8-10-23.pdf\" target=\"_blank\"><img src=\"https://kp4cd.org/sites/default/files/images/KPN_webinar_8-10-2023.png\" style=\"width:500px;\" /></a></p>\n\n<p> </p>\n",
+  "fieldPortals": "md, t1d, t2d, sleep, cd, cvd, lung, msk, a2f, ocular, reproductive, autoimmune",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/Screenshot%202023-08-04%20at%201.03.26%20PM.png",
+  "viewNode": "<a href=\"/node/1214\" hreflang=\"en\">view</a>",
+  "publishedAt": "2023-01-01T12:00:00.000Z",
+  "updatedAt": "2023-01-01T12:00:00.000Z",
+  "published": true
+}

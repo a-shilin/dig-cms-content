@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1753,
+  "order": 197,
+  "title": "Unmasking better strategies for rare-variant association studies",
+  "summary": "The strategies scientists use to “mask,” or group, rare coding variants for association to traits are inconsistent, according to new work led by Trang Nguyen, Jason Flannick, and others. ",
+  "bodyHtml": "<p>The strategies scientists use to “mask,” or group, rare coding variants for association to traits are inconsistent, according to new work led by <strong>Trang Nguyen, Jason Flannick</strong>, and others. The researchers examined more than 600 masks used across 234 studies, finding that masking strategies were rarely justified or repeated, leading to inconsistent and/or missed discoveries. After testing the measures on biobank data, they developed two baseline strategies that improve the detection of gene-trait associations and can also be used to benchmark new masks in future studies. Read more in <a href=\"https://broadinstitute.us11.list-manage.com/track/click?u=f2cdc33b1521a9689c5e5e52a&amp;id=e18c633e57&amp;e=58d0350653\"><em>Nature Genetics</em></a> for the results and <a href=\"https://broadinstitute.us11.list-manage.com/track/click?u=f2cdc33b1521a9689c5e5e52a&amp;id=9c779a2d43&amp;e=58d0350653\"><em>Springer Nature Research Communities</em></a> for the journey \"Behind the Paper.”</p><img src=\"https://kp4cd.org/sites/default/files/News%20Items/Screenshot%202026-05-20%20at%2011.06.05%E2%80%AFAM.png\" data-entity-uuid=\"bd10c35f-872d-404b-86c9-e9e55e979789\" data-entity-type=\"file\" alt=\"\" width=\"1186\" height=\"1214\" loading=\"lazy\" />",
+  "fieldPortals": "md, cvd, cd, sleep, t1d, t2d, lung, nage, msk, a2f, kidney, aging",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/Screenshot%202026-05-20%20at%2011.06.05%E2%80%AFAM.png",
+  "viewNode": "<a href=\"/node/1753\" hreflang=\"en\">view</a>",
+  "publishedAt": null,
+  "updatedAt": null,
+  "published": true
+}

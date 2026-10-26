@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1045,
+  "order": 105,
+  "title": "Plasma lipid effector gene predictions now available",
+  "summary": "The Knowledge Portals start off the new year with five new lists of predicted effector genes for plasma lipid levels from the GLGC consortium.",
+  "bodyHtml": "<p>The Knowledge Portals start off the new year with five new lists of predicted effector genes for plasma lipid levels, from a new study by the <a href=\"http://lipidgenetics.org/\" target=\"_blank\">Global Lipids Genetics Consortium</a> (<a href=\"https://www.ncbi.nlm.nih.gov/pubmed/36575460\" target=\"_blank\">Kanoni, Graham, Wang, Surakka, Ramdas, Zhu, <em>et al.</em>, 2022</a>). Working from the recent GLGC GWAS of plasma lipid levels in 1.65 million participants (<a href=\"https://pubmed.ncbi.nlm.nih.gov/34887591/\" target=\"_blank\">Graham, Clarke, Wu, Kanoni, Zajac GJM, Ramdas S, <em>et al.</em>, 2021</a>), the authors employed the PoPS and DEPICT methods as well as four locus-specific methods to predict effector genes for levels of 5 plasma lipids at each GWAS significant locus. They also constructed polygenic scores (PGS) for levels of each lipid and performed a PheWAS analysis for each PGS.</p>\n\n<p>You can access the effector lists, PheWAS, and supporting data via a <a href=\"/research.html?pageid=GLGC_149\" target=\"_blank\">browser</a> created by the Knowledge Portal team in collaboration with GLGC. The effector gene lists are also available on the <a href=\"/effectorgenes.html\" target=\"_blank\">Predicted effector genes</a> pages of the Common Metabolic Diseases, Type 2 Diabetes, Cardiovascular Disease, Musculoskeletal, Non-Additive Genetic Effects, and Association to Function Knowledge Portals.</p>\n",
+  "fieldPortals": "md, t1d, t2d, cd, cvd, sleep, msk, nage, a2f, lung, reproductive, autoimmune, ocular",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/effector_prediction.png",
+  "viewNode": "<a href=\"/node/1045\" hreflang=\"en\">view</a>",
+  "publishedAt": "2022-01-01T12:00:00.000Z",
+  "updatedAt": "2022-01-01T12:00:00.000Z",
+  "published": true
+}

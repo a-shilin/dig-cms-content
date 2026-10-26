@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 286,
+  "order": 24,
+  "title": "Slides from LocusZoom webinar now available",
+  "summary": "<p>Did you miss our November webinar, presented by LocusZoom developers Andy Boughton and Ryan Welch from the University of Michigan?&nbsp;&nbsp;<a href=\"https://broad-portal-resources.s3.amazonaws.com/AMP-T2DKP_Webinar_11-14-2019.pdf\" target=\"_blank\">Download the slide presentation here</a>.",
+  "bodyHtml": "<p>Did you miss our November webinar, presented by LocusZoom developers Andy Boughton and Ryan Welch from the University of Michigan?&nbsp;&nbsp;<a href=\"https://broad-portal-resources.s3.amazonaws.com/AMP-T2DKP_Webinar_11-14-2019.pdf\" target=\"_blank\">Download the slide presentation here</a>. A video recording of the webinar will be available soon.</p>\n",
+  "fieldPortals": "t2d, sleep, stroke, mi, cd, cvd, md",
+  "fieldImage": "",
+  "viewNode": "<a href=\"/node/286\" hreflang=\"en\">view</a>",
+  "publishedAt": "2019-12-03T16:41:28.000Z",
+  "updatedAt": "2020-03-09T18:48:02.000Z",
+  "published": true
+}

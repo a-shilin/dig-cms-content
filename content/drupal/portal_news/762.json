@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 762,
+  "order": 77,
+  "title": "Deadline extended for funding opportunities from FNIH",
+  "summary": "The Foundation for the National Institutes of Health is releasing four open-competition funding opportunities for the Accelerating Medicines Partnership® in Common Metabolic Diseases.",
+  "bodyHtml": "<p>The <a href=\"https://fnih.org\" target=\"_blank\">Foundation for the National Institutes of Health</a> is releasing four open-competition funding opportunities for the Accelerating Medicines Partnership® in Common Metabolic Diseases. Investigators working with genetic, genomic, and other tissues/omics data, and analytic tools and methods relating to common metabolic diseases including obesity, cardiovascular and kidney diseases, NAFLD/NASH, and diabetes and make them publicly available in the <a href=\"https://hugeamp.org/\" target=\"_blank\">AMP CMD Knowledge Portal</a> are encouraged to apply. Learn more about the program and view the RFPs <a href=\"https://fnih.org/our-programs/amp/accelerating-medicines-common-metabolic-diseases\" target=\"_blank\">here</a>. <strong>The deadline for applications has now been extended to January 28, 2022.</strong></p>\n",
+  "fieldPortals": "md, t1d, t2d, cd, cvd, sleep",
+  "fieldImage": "",
+  "viewNode": "<a href=\"/node/762\" hreflang=\"en\">view</a>",
+  "publishedAt": "2022-01-12T19:35:18.000Z",
+  "updatedAt": "2022-01-12T12:48:13.000Z",
+  "published": true
+}

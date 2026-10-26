@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1724,
+  "order": 171,
+  "title": "Join the December webinar for an inside look at the PEGASUS Framework!",
+  "summary": "💡Curious about community standards for reporting predicted effector genes from GWAS and integrative evidence? Want to benchmark your own results and see how they stack up?",
+  "bodyHtml": "<p>💡Curious about community standards for reporting predicted effector genes from GWAS and integrative evidence? Want to benchmark your own results and see how they stack up?</p><p>🔬 The <a href=\"https://ebispot.github.io/PEGASUS/docs/home/\">PEGASUS Framework</a> offers a FAIR, community-driven approach to harmonizing metadata, evidence matrices, and effector gene predictions. Whether you're generating predictions or evaluating them, this webinar will help you level up your analyses and contribute to a growing collaborative standard.</p><p>ℹ️ What you’ll gain:</p><ul><li>A walkthrough of the PEGASUS Framework</li><li>How to apply FAIR, unified reporting standards</li><li>Guidance on benchmarking your own results</li><li>A chance to share feedback and experiences with the community</li></ul><p>📅 Thursday, December 11th, 2025<br />🕛 12:00–1:00 PM ET</p><p>🔗 <a href=\"https://www.google.com/url?q=https://broadinstitute.zoom.us/j/95039888063?pwd%3Dwz3HFcER6Lwc2NhTRPV8t77nAuvQrM.1&amp;sa=D&amp;source=calendar&amp;ust=1764176453813651&amp;usg=AOvVaw3IHasT7GM1bXOeS3eW6DWF\">Join the webinar</a>: Passcode 363662</p><p>📁 See results of the Predicted Effector Gene (PEGASUS) Workshop as part of ASHG 2025 <a href=\"https://ebispot.github.io/PEGASUS/docs/community/ASHG-2025/\">here</a>.</p><p>🧬 Let’s build stronger, more transparent gene prediction standards together! </p><p> </p><img src=\"https://kp4cd.org/sites/default/files/December%2011th%2C%202025%20KPN%20Webinar.png\" data-entity-uuid=\"e3ab9be3-d746-4884-8808-83f8843ce8c3\" data-entity-type=\"file\" alt=\"\" width=\"960\" height=\"540\" loading=\"lazy\" />",
+  "fieldPortals": "cmdkp, t2d, t1d, a2f",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/webinar%20%281%29_0.png",
+  "viewNode": "<a href=\"/node/1724\" hreflang=\"en\">view</a>",
+  "publishedAt": "2025-12-11T12:00:00.000Z",
+  "updatedAt": "2025-12-11T12:00:00.000Z",
+  "published": true
+}

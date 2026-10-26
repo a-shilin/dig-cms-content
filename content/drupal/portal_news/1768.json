@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1768,
+  "order": 212,
+  "title": "July 23, 2026 KPN Webinar Recording Now LIVE",
+  "summary": "Unable to join today's KPN webinar? The recording is now live.",
+  "bodyHtml": "<p>🎙️ Trang Nguyen presented on \"Rare-variant association studies: a primer, a problem, and a proposal for baseline masks.\"</p><p>🧬 Topics covered:</p><ul><li>A brief primer on rare-variant association studies (RVAS)</li><li>A widespread problem regarding \"masks\" in RVAS</li><li>A proposal for baseline masks to increase consistency and replicability in future studies</li></ul><p>🔗 Explore Trang's paper before the talk: https://www.nature.com/articles/s41588-026-02597-9</p><p>💻 The webinar recording is now LIVE, watch here: <a href=\"https://youtu.be/FiheGHamfkM\">https://youtu.be/FiheGHamfkM</a></p><img src=\"https://kp4cd.org/sites/default/files/News%20Items/July%2023%2C%202026%20KPN%20Webinar.png\" data-entity-uuid=\"\" data-entity-type=\"file\" alt=\"\" width=\"960\" height=\"540\" loading=\"lazy\" />",
+  "fieldPortals": "md, cvd, cd, sleep, t1d, t2d, lung, nage, msk, a2f, kidney, aging",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/July%2023%2C%202026%20KPN%20Webinar_0.png",
+  "viewNode": "<a href=\"/node/1768\" hreflang=\"en\">view</a>",
+  "publishedAt": "2026-07-23T12:00:00.000Z",
+  "updatedAt": "2026-07-23T12:00:00.000Z",
+  "published": true
+}

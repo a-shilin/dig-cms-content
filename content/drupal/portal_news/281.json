@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 281,
+  "order": 23,
+  "title": "Welcome to the Variant to Function Knowledge Portal",
+  "summary": "<p>We are pleased to welcome you to the in-development V2F Knowledge Portal that will accelerate the translation of genetic and genomic data into biological knowledge for five common diseases. Access to this portal is restricted to those with Broad Institute email addresses.</p>",
+  "bodyHtml": "<p>We are pleased to welcome you to the in-development V2F Knowledge Portal that will accelerate the translation of genetic and genomic data into biological knowledge for five common diseases. Access to this portal is restricted to those with Broad Institute email addresses.</p>\n\n<p>We welcome your feedback! Please enter comments <a href=\"https://docs.google.com/document/d/1UHpVY5rxwVkriwF-PkxSCFm2rIAymU8_KJPYV-sHcUo/edit?usp=sharing\" target=\"_blank\">here</a> or email us at <a href=\"mailto:help@variant2function.org\">help@variant2function.org</a>.</p>\n\n<p>We are also looking for members of a user group who would meet regularly to provide input on the V2F Knowledge Portal as it develops. Please email us at <a href=\"mailto:help@variant2function.org\">help@variant2function.org</a> if you are interested in joining the V2FKP user group.</p>\n",
+  "fieldPortals": "a2f",
+  "fieldImage": "",
+  "viewNode": "<a href=\"/node/281\" hreflang=\"en\">view</a>",
+  "publishedAt": "2019-11-18T14:37:15.000Z",
+  "updatedAt": "2019-11-20T17:36:22.000Z",
+  "published": true
+}

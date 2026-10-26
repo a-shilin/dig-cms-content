@@ -23,6 +23,10 @@ content/
         ENSG_0.json ... ENSG_9.json
       RP/
         RP_0.json ... RP_9.json
+    portal_front/
+      md.json ... t2d.json
+    portal_news/
+      8.json ... 1784.json
     _meta/
       editing-schema.md
       migration-manifest.json
@@ -162,6 +166,14 @@ Bucketed and sharded JSON dictionaries under `content/drupal/egls/` mapping each
 - `content/drupal/egls/RP/RP_0.json` … `RP_9.json` (10 shards by last digit for `^RP[0-9]+-` clone names)
 
 Zero-match genes are pruned from the bucket and shard files; a gene absent from its bucket/shard file yields `[]` on `/rest/egls?gene=<GENE>`.
+
+### Portal Front `portal_front`
+
+JSON files under `content/drupal/portal_front/{portal}.json` storing the array returned by `/reset/views/portal_front?portal={portal}` (`field_about_portal`, `field_about_project`, `field_tagline`, `field_banner_logo`, `field_front_logo`, `field_under_dataset_plots`).
+
+### Portal News `portal_news`
+
+JSON files under `content/drupal/portal_news/{drupalNodeId}.json` storing news items from `kp4cd.org` (`news2vueportal` and `newfeatures`). Each record contains `contentType` (`"portalNews"`), `drupalNodeId`, `order` (ascending chronological sequence; higher = newer), `title`, `summary`, `bodyHtml` (full article HTML), `fieldPortals` (comma-separated portal IDs), `fieldImage` (thumbnail URL), `viewNode`, `publishedAt`, `updatedAt`, and `published`. When adding a new news item in the future, increment `drupalNodeId` and `order` (or set `publishedAt` to an ISO timestamp).
 
 ## Local-first architecture
 

@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1731,
+  "order": 176,
+  "title": "Recording now available for the February 2026 PanKbase Webinar &amp; Office Hours!",
+  "summary": "Unable to join today's PanKbase Webinar & Office Hours discussing the integrated cell browser? ",
+  "bodyHtml": "<p>Unable to join today's PanKbase Webinar &amp; Office Hours discussing the integrated cell browser? </p><p>The webinar recording is now LIVE, watch here: https://youtu.be/FEj2kvhTH40</p><img src=\"https://kp4cd.org/sites/default/files/February%2012th%2C%202026%20KPN%20Webinar.png\" data-entity-uuid=\"\" data-entity-type=\"file\" alt=\"\" width=\"960\" height=\"540\" loading=\"lazy\" />",
+  "fieldPortals": "md, cvd, cd, sleep, t1d, t2d, lung, nage, msk, a2f, kidney, aging",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/pankbase%20webinar%20icon_0.png",
+  "viewNode": "<a href=\"/node/1731\" hreflang=\"en\">view</a>",
+  "publishedAt": "2026-01-01T12:00:00.000Z",
+  "updatedAt": "2026-01-01T12:00:00.000Z",
+  "published": true
+}

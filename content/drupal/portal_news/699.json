@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 699,
+  "order": 66,
+  "title": "Your input is needed in developing the Musculoskeletal Knowledge Portal",
+  "summary": "We are looking for musculoskeletal researchers at all career stages to participate in focus groups to help guide development of the MSK-KP.",
+  "bodyHtml": "<p>The Musculoskeletal Knowledge Portal (MSK-KP) is intended to provide access to and interpretation of genetic and genomic data to support research into the molecular and physiological basis of musculoskeletal disease. We are looking for musculoskeletal researchers at all career stages to participate in focus groups to discuss the following questions:</p>\n\n<ul>\n\t<li>How user-friendly is the MSK-KP? Which interfaces are intuitive to navigate, and which are not?</li>\n\t<li>Is the information in the MSK-KP relevant and useful? Which types of information are most useful, and what is missing?</li>\n\t<li>In practical terms, how could you use the MSK-KP to facilitate your research?</li>\n</ul>\n\n<p>We would ask you to familiarize yourself with the MSK-KP beforehand and then to be an active participant in a one-hour online session in which a small group will navigate and discuss the portal. If you are interested, please <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSeRhTpF2QLErL0wU6fA_5LP0qHZTvhbO2iEDrZ5apGJ6XpWQA/viewform?usp=sf_link\">sign up</a> by Monday, July 12. The dates and times of the session(s) will be determined by the availability of the participants. Please consider sharing your input to help guide the development of this community resource!</p>\n",
+  "fieldPortals": "msk, mskkp, bone",
+  "fieldImage": "",
+  "viewNode": "<a href=\"/node/699\" hreflang=\"en\">view</a>",
+  "publishedAt": "2021-06-23T16:14:27.000Z",
+  "updatedAt": "2021-07-12T15:42:55.000Z",
+  "published": true
+}

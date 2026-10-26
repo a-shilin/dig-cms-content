@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1750,
+  "order": 195,
+  "title": "Headed to the Festival of Genomics Boston 2026?",
+  "summary": "Visit Booth 1A to meet with the Knowledge Center team!",
+  "bodyHtml": "<p>The Common Fund Data Ecosystem (CFDE) Knowledge Center will be exhibiting at the Festival of Genomics Biodata &amp; AI conference June 3-4, 2026 at booth 1A.</p><table><tbody><tr><td>June 3rd, 2026</td><td><span style=\"background-color:transparent;color:#000000;font-family:Arial,sans-serif;font-size:11pt;font-style:normal;font-variant:normal;font-weight:400;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;\">8:30 AM–5:30 PM</span></td></tr><tr><td>June 4th, 2026</td><td><span style=\"background-color:transparent;color:#000000;font-family:Arial,sans-serif;font-size:11pt;font-style:normal;font-variant:normal;font-weight:400;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;\">8:45 AM–3:30 PM</span></td></tr></tbody></table><p>We invite you to join our ancillary session \"From Prompt to Provenance: AI enhanced contextual workflow across the Common Fund Data Ecosystem (CFDE)\" on June 3, 2026 from 4:10 PM - 5:40 PM in Room 50. Participants can learn how AI can guide researchers from a natural-language question to structured, KG-driven discovery bridging datasets, ontologies, APIs, and literature without replacing expert judgment.</p><img src=\"https://kp4cd.org/sites/default/files/CFDE/FoG%202026%20Flyer.png\" data-entity-uuid=\"f0eb2e5c-fe87-4b59-9568-64046f775fdf\" data-entity-type=\"file\" alt=\"\" width=\"1920\" height=\"1080\" loading=\"lazy\" />",
+  "fieldPortals": "md, cvd, cd, sleep, t1d, t2d, lung, nage, msk, a2f, kidney, aging",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/FoG%202026%20Flyer_0.png",
+  "viewNode": "<a href=\"/node/1750\" hreflang=\"en\">view</a>",
+  "publishedAt": "2026-06-03T12:00:00.000Z",
+  "updatedAt": "2026-06-03T12:00:00.000Z",
+  "published": true
+}

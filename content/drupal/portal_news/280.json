@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 280,
+  "order": 22,
+  "title": "Learn about LocusZoom in our webinar today (Thursday Nov. 14)!",
+  "summary": "<p>Our Knowledge Portal Platform Workshop &amp; Webinar Series presents its fall 2019 installment on Thursday, November 14th at 12 noon EST.</p>",
+  "bodyHtml": "<p>Our Knowledge Portal Platform Workshop &amp; Webinar Series presents its fall 2019 installment on Thursday, November 14th at 12 noon EST. We will feature an overview of LocusZoom, an analysis module and visualization tool that is integrated into the Type 2 Diabetes, Cardiovascular Disease, Cerebrovascular Disease, and Sleep Disorder Knowledge Portals. Andy Boughton and Ryan Welch from our University of Michigan team will demonstrate how to use LocusZoom within the portals and as a standalone tool, and will preview plans for future development.</p>\n\n<p>Login details are below. If you are in Boston, come join us in person! We will record the event and post it to the T2D Knowledge Portal and our YouTube Channel.</p>\n\n<p>And mark your calendars for our future webinars on Thursday, January 16, 2020 and Thursday, March 12, 2020!</p>\n\n<h3>Login information for the webinar</h3>\n\n<p>Thursday November 14, 1-2pm EST</p>\n\n<p>Join Zoom Meeting: https://broadinstitute.zoom.us/j/462565402<br />\nOne tap mobile:<br />\n+16465588656,,462565402# US (New York)<br />\n+16468769923,,462565402# US (New York)<br />\nMeeting ID: 462 565 402</p>\n\n<p> </p>\n<img alt=\"Webinar information\" data-align=\"center\" data-entity-type=\"file\" data-entity-uuid=\"51016a67-9fe3-4d92-afb5-64276bf29770\" height=\"687\" src=\"/sites/default/files/inline-images/LocusZoom%20webinar.jpg\" width=\"515\" loading=\"lazy\" /><p> </p>",
+  "fieldPortals": "t2d, mi, stroke, sleep, a2f, cvd, cd",
+  "fieldImage": "",
+  "viewNode": "<a href=\"/node/280\" hreflang=\"en\">view</a>",
+  "publishedAt": "2019-11-13T13:43:49.000Z",
+  "updatedAt": "2020-03-09T17:41:51.000Z",
+  "published": true
+}

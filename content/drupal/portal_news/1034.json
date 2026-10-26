@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1034,
+  "order": 101,
+  "title": "Learn about the A2FKP in our #ASHGForum Invited Workshop!",
+  "summary": "Learn about the A2FKP in our #ASHGForum Invited Workshop&nbsp;",
+  "bodyHtml": "<p>Join us on Wednesday November 16 from 3-4:30pm EST for an ASHG Invited Workshop focusing on the new <a href=\"https://a2fkp.org/\" target=\"_blank\">Association to Function Knowledge Portal</a> (A2FKP). Participants will get an overview of the A2FKP and learn how to use it to ask scientific questions. This workshop is part of the Genetics and Genomics Digital Forum being held November 15-16 by ASHG. Registration is free for ASHG 2022 conference attendees, and others may register. Find all the details <a href=\"https://learning.ashg.org/ashgforum\" target=\"_blank\">here</a>.</p>\n\n<p style=\"text-align: center\"><a href=\"/sites/default/files/documents/ASHG_invited_workshop_2022.pdf\" target=\"_blank\"><img src=\"http://kp4cd.org/sites/default/files/images/ASHG_invited_workshop.png\" style=\"width:400px;\" /></a></p>\n",
+  "fieldPortals": "a2f, md, t1d, t2d, cd, cvd, sleep, msk, lung, nage, reproductive, ocular, ndkp, autoimmune",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/a2fkp_for_noel_0.png",
+  "viewNode": "<a href=\"/node/1034\" hreflang=\"en\">view</a>",
+  "publishedAt": "2022-01-01T12:00:00.000Z",
+  "updatedAt": "2022-01-01T12:00:00.000Z",
+  "published": true
+}

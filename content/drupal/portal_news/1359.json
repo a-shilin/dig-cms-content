@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1359,
+  "order": 130,
+  "title": "KPN focus group Nov. 9: representing single-cell data",
+  "summary": "Please join us on Thursday, November 9 for our next KPN focus group, featuring Dr. Kyle Gaulton of the University of California, San Diego.",
+  "bodyHtml": "<p>If you missed our Knowledge Portal Network focus group with Dr. Kyle Gaulton, you can see the recording <a href=\"https://lnkd.in/euTMVMyd\" target=\"_blank\">here</a>. Please take a look and give us your feedback on ways in which you would like to visualize, filter, and query these data! Contact us at <a href=\"mailto:help@kp4cd.org\">help@kp4cd.org</a>.</p>\n\n<p style=\"text-align: center\"><a href=\"https://kp4cd.org/sites/default/files/documents/KPN_focus_group_9Nov2023.pdf\" target=\"_blank\"><img src=\"https://kp4cd.org/sites/default/files/images/KPN_focus_group_9Nov2023.png\" style=\"width:500px;\" /></a></p>\n",
+  "fieldPortals": "md, t1d, t2d, cd, cvd, sleep, a2f, nage, lung, msk, autoimmune, reproductive, kidney, aging, ocular, ndkp",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/Screenshot%202023-11-08%20at%201.20.20%E2%80%AFPM.png",
+  "viewNode": "<a href=\"/node/1359\" hreflang=\"en\">view</a>",
+  "publishedAt": null,
+  "updatedAt": null,
+  "published": true
+}

@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 471,
+  "order": 39,
+  "title": "A public resource for translating association to function",
+  "summary": "<p>In case you missed last week's 2020 American Society of Human Genetics meeting, here is the&nbsp;\"ePoster\" (a 3-minute slideshow accompanied by narration) that we presented, providing an overview of the CMDKP.</p>",
+  "bodyHtml": "<p>In case you missed last week's 2020 American Society of Human Genetics meeting, here is the&nbsp;\"ePoster\" (a 3-minute slideshow accompanied by narration) that we presented, providing an overview of the CMDKP.</p>\n\n<p><iframe allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/R4kqsyAUqfM\" width=\"560\"></iframe></p>\n",
+  "fieldPortals": "md, t1d, t2d, mi, cvd, stroke, cd, sd, sleep",
+  "fieldImage": "",
+  "viewNode": "<a href=\"/node/471\" hreflang=\"en\">view</a>",
+  "publishedAt": "2020-11-03T21:21:52.000Z",
+  "updatedAt": "2020-11-03T21:25:23.000Z",
+  "published": true
+}

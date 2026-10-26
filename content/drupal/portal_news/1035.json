@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1035,
+  "order": 102,
+  "title": "Webinar recording available",
+  "summary": "MacKenzie Brandes presented a webinar on the CMDKP on Friday November 18.",
+  "bodyHtml": "<p>On Friday November 18, Noël Burtt and MacKenzie Brandes presented a webinar on the Common Metabolic Diseases Knowledge Portal (CMDKP) as part of the <a href=\"https://dknet.org/\">dkNET</a> webinar series. The recording of the webinar is <a href=\"https://youtu.be/0sLKeCDw06U\" target=\"_blank\">now available</a>.</p>\n\n<p style=\"text-align: center\"><a href=\"/sites/default/files/documents/ASHG_invited_workshop_2022.pdf\" target=\"_blank\"><img src=\"http://kp4cd.org/sites/default/files/images/dkNET_webinar.png\" style=\"width:600px;\" /></a></p>\n",
+  "fieldPortals": "md, t1d, t2d, cd, cvd, nage, sleep",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/cmd_small-01.png",
+  "viewNode": "<a href=\"/node/1035\" hreflang=\"en\">view</a>",
+  "publishedAt": null,
+  "updatedAt": null,
+  "published": true
+}

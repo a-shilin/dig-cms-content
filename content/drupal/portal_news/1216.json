@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1216,
+  "order": 123,
+  "title": "Eager to learn about the Neurodegenerative Disease Knowledge Portal?",
+  "summary": "This video introduces the Neurodegenerative Disease Knowledge Portal which is developed by the Broad Institute in collaboration with the Montreal Neurological Institute-Hospital and the Global Parkinson’s Genetics Program.",
+  "bodyHtml": "<p>This video introduces the <a href=\"ndkp.hugeamp.org\">Neurodegenerative Disease Knowledge Portal</a> which is developed by the Broad Institute in collaboration with the Montreal Neurological Institute-Hospital and the <a href=\"https://gp2.org/\">Global Parkinson’s Genetics Program</a>.</p>\n\n<p class=\"text-align-center\"><iframe allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\" frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/zKr5Xl3ZzqQ\" title=\"YouTube video player\" width=\"560\"></iframe></p>\n\n<p>&nbsp;</p>\n",
+  "fieldPortals": "a2f, ndkp",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/ndkp%20logo.PNG",
+  "viewNode": "<a href=\"/node/1216\" hreflang=\"en\">view</a>",
+  "publishedAt": null,
+  "updatedAt": null,
+  "published": true
+}

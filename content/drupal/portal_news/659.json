@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 659,
+  "order": 58,
+  "title": "Video overview of the Knowledge Portal Network",
+  "summary": "See a video overview of the Knowledge Portal Network.",
+  "bodyHtml": "<p>Recently we presented in the <a href=\"https://www.youtube.com/playlist?list=PLEEE2A91B09B77B4A\" target=\"_blank\">Molecular and Population Genetics Primer series</a> at the Broad Institute. The Primers are instructional talks on topics in genetics and genomics. In this talk, we gave an overview of the Knowledge Portal project and demonstrated how to navigate the Portals.</p>\n\n<p><iframe allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/q1vEfzHhZWI\" title=\"YouTube video player\" width=\"560\"></iframe></p>\n",
+  "fieldPortals": "t2d, md, a2f, t1d, msk, sleep, cd, cvd, lung",
+  "fieldImage": "",
+  "viewNode": "<a href=\"/node/659\" hreflang=\"en\">view</a>",
+  "publishedAt": "2021-05-04T14:42:53.000Z",
+  "updatedAt": "2021-05-04T15:09:26.000Z",
+  "published": true
+}

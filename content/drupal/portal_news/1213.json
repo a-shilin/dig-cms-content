@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1213,
+  "order": 120,
+  "title": "Colocalization browser focus group recording and slides now available",
+  "summary": "Video and slides are now available for our Thursday July 13 focus group presentation by Dr. Laura Scott on the colocus browser.",
+  "bodyHtml": "<p>Video from our Thursday, July 13 KPN focus group is now available on our YouTube channel. Dr. Laura Scott of the University of Michigan presented an in-development browser for visualizing colocalization of quantitative trait loci and GWAS signals. You can download the slide deck <a href=\"https://drive.google.com/file/d/1kbTMeTLPNq8ETJ58Js9yyxFP9dSere5J/view?usp=sharing\" target=\"_blank\">here</a>.</p>\n\n<p><iframe allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\" frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/_PtvVRljug8\" title=\"YouTube video player\" width=\"560\"></iframe></p>\n\n<p> </p>\n\n<p style=\"text-align: center\"><a href=\"https://kp4cd.org/sites/default/files/documents/KPN_Webinar_07-13-23.pdf\" target=\"_blank\"><img src=\"https://kp4cd.org/sites/default/files/images/7-13_webinar.png\" style=\"width:500px;\" /></a></p>\n",
+  "fieldPortals": "md, t1d, t2d, cvd, cd, sleep, lung, msk, a2f, ndkp, autoimmune, reproductive, ocular",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/Screenshot%202023-07-06%20at%202.34.30%20PM.png",
+  "viewNode": "<a href=\"/node/1213\" hreflang=\"en\">view</a>",
+  "publishedAt": null,
+  "updatedAt": null,
+  "published": true
+}

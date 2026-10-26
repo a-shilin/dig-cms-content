@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1362,
+  "order": 133,
+  "title": "Knowledge Portal presentation at the Festival of Genomics &amp; Biodata",
+  "summary": "The Knowledge Portal team will present at the Festival of Genomics & Biodata on January 24, 2024.",
+  "bodyHtml": "<p>Are you attending the <a href=\"https://festivalofgenomics.com/london/en/page/home\" target=\"_blank\">Festival of Genomics &amp; Biodata</a> in London January 24-25? The Knowledge Portal team will be there, presenting an overview of our projects in the \"Genome Dome\". Join us there at 4:10pm BST on Wednesday, January 24 to hear about our genetic and genomic Knowledge Portals, the \"Bring Your Own Results\" platform for creating your own research portal, and new directions for our group beyond genetics and genomics!</p><p class=\"text-align-center\"><img src=\"https://kp4cd.org/sites/default/files/images/FoG_London.png\" width=\"700\" /></p>",
+  "fieldPortals": "md, t1d, t2d, sleep, cd, cvd, lung, msk, a2f, ocular, reproductive, autoimmune, aging, kidney",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/Screenshot%202024-01-23%20at%202.03.33%E2%80%AFPM.png",
+  "viewNode": "<a href=\"/node/1362\" hreflang=\"en\">view</a>",
+  "publishedAt": null,
+  "updatedAt": null,
+  "published": true
+}

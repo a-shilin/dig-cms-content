@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1749,
+  "order": 194,
+  "title": "Join us on Friday, May 29th, 2026 for our next session of the Public Webinar Series!",
+  "summary": "New, Improved, Updated, FAIR-ified, and Integrated Datasets and Tools from Illuminating the Druggable Genome (IDG) ",
+  "bodyHtml": "<p>Join the session to learn:</p><ul><li>Since 2012, the IDG program has produced a wealth of research findings, datasets, and computational tools, all directed at expanding knowledge of human protein targets, and thereby, empowering new and improved pharmaceutical therapies.</li><li>IDG R&amp;D continues in 2026, with several new, improved, and updated datasets and tools, UIs and APIs, publications, and scientific use cases relevant to a variety of research areas.</li><li>Featured resources include: (1) Pharos 2.0, a major update to the IDG data portal, from the development team at NIH-NCATS, (2) KG2ML: Integrating Knowledge Graphs and Positive Unlabeled Learning for Identifying Disease-Associated Genes, and (3) TICTAC: Target Illumination Clinical Trials Analytics with Cheminformatics. </li></ul><p>Speakers:</p><ul><li>Jeremy J Yang, PhD–Research Associate Professor, Translational Informatics Division, Department of Internal Medicine, School of Medicine, UNM</li><li>Jessica Maine, PhD–Staff Scientist, Division of Preclinical Innovation, National Center for Advancing Translational Sciences (NCATS), NIH</li><li>Praveen Kumar, PhD–Research Assistant Professor, Translational Informatics Division, Department of Internal Medicine, School of Medicine, UNM</li></ul><h4><a href=\"https://broadinstitute.zoom.us/webinar/register/WN_x0bGLLt4TbqFGlxlMM-T2A\">Register for the event</a></h4><img src=\"https://kp4cd.org/sites/default/files/CFDE%20Public%20Webinar%20Series%20-%20Friday%2C%20May%2029%2C%202026%20(1).png\" data-entity-uuid=\"93471300-8962-457a-a764-4989803dfb6d\" data-entity-type=\"file\" alt=\"\" width=\"1920\" height=\"1080\" loading=\"lazy\" />",
+  "fieldPortals": "md, cvd, cd, sleep, t1d, t2d, lung, nage, msk, a2f, kidney, aging",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/CFDE%20Public%20Webinar%20Series%20-%20Friday%2C%20May%2029%2C%202026%20%281%29.png",
+  "viewNode": "<a href=\"/node/1749\" hreflang=\"en\">view</a>",
+  "publishedAt": "2026-05-28T12:00:00.000Z",
+  "updatedAt": "2026-05-28T12:00:00.000Z",
+  "published": true
+}

@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1522,
+  "order": 149,
+  "title": "Webinar recording available: Systems Genetics of Metabolic Disease in Mice",
+  "summary": "Our KPN webinar on Thursday August 8, 2024 featured guest speakers Drs. Alan Attie and Mark Keller, discussing their work on the systems genetics of metabolic disease in mice.",
+  "bodyHtml": "<p>Our August 8, 2024 Knowledge Portal Network webinar featured guest speakers Drs. Alan Attie and Mark Keller. Drs. Attie and Keller, both of the University of Wisconsin-Madison. They presented their work on the systems genetics of metabolic disease in mice, and we discussed our ongoing work to incorporate mouse data into the Knowledge Portals and make connections between human and mouse genetics.</p><p><a href=\"https://youtu.be/miWYGb1DKFY\" target=\"_blank\">View the webinar recording</a></p><p> </p><p class=\"text-align-center\"><a href=\"https://kp4cd.org/sites/default/files/images/KPN_Webinar_8Aug2024.pdf\" target=\"_blank\"><img src=\"https://kp4cd.org/sites/default/files/images/KPN_Webinar_8Aug2024.png\" width=\"700\" /></a></p><p> </p>",
+  "fieldPortals": "md, t1d, t2d, sleep, cd, cvd, lung, msk, a2f, ocular, reproductive, autoimmune, aging, kidney",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/Screenshot%202024-08-02%20at%201.19.11%E2%80%AFPM.png",
+  "viewNode": "<a href=\"/node/1522\" hreflang=\"en\">view</a>",
+  "publishedAt": "2024-08-08T12:00:00.000Z",
+  "updatedAt": "2024-08-08T12:00:00.000Z",
+  "published": true
+}

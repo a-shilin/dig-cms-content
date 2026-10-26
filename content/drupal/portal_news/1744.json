@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1744,
+  "order": 189,
+  "title": "Recording now available for the April 23, 2026 PanKbase Webinar!",
+  "summary": "Unable to join yesterday's PanKbase webinar? The recording is now live.",
+  "bodyHtml": "<p>🎙️Dr. Jie Liu and Ringo Mao presented on PanKgraph, a pancreas-focused knowledge graph for integrated diabetes research.</p><p>💻 The webinar recording is now LIVE, watch here: <a href=\"https://youtu.be/J7A2FvS_Q18\">https://youtu.be/J7A2FvS_Q18</a></p><img src=\"https://kp4cd.org/sites/default/files/April%2023rd%2C%202026%20KPN%20Webinar%20(3).png\" data-entity-uuid=\"1259fa9e-117d-4057-978c-e7cf12874fd6\" data-entity-type=\"file\" alt=\"\" width=\"960\" height=\"540\" loading=\"lazy\" />",
+  "fieldPortals": "md, cvd, cd, sleep, t1d, t2d, lung, nage, msk, a2f, kidney, aging",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/April%2023rd%2C%202026%20KPN%20Webinar%20%283%29.png",
+  "viewNode": "<a href=\"/node/1744\" hreflang=\"en\">view</a>",
+  "publishedAt": "2026-04-23T12:00:00.000Z",
+  "updatedAt": "2026-04-23T12:00:00.000Z",
+  "published": true
+}

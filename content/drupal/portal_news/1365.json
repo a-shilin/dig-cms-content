@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1365,
+  "order": 136,
+  "title": "New inheritance filter now available! - February 5, 2024",
+  "summary": "<p><span>In this minor but exciting update to the BCH Aggregator portal, we have added a new variant inheritance annotation and filter (see details below) and performed a small data refresh resulting in improved allele frequencies.</span></p>",
+  "bodyHtml": "<p><span>In this minor but exciting update to the BCH Aggregator portal, we have added a new variant inheritance annotation and filter (see details below) and performed a small data refresh resulting in improved allele frequencies.</span></p><p><span>We’re excited to announce that there is now the option on the gene page to filter for variants that have been found to be de novo (heterozygous and not found in parents), dominant (heterozygous and inherited from one parent), or recessive (homozygous and inherited from both parents) in our data set. Currently, this filter/annotation is restricted to probands in trios where we have sequence data for both parents. The annotation on the gene page lists all the inheritance patterns found in any individuals with the variant and the sample-specific annotations can be found on the variant pages.</span></p>",
+  "fieldPortals": "aggregator",
+  "fieldImage": "",
+  "viewNode": "<a href=\"/node/1365\" hreflang=\"en\">view</a>",
+  "publishedAt": "2024-02-05T12:00:00.000Z",
+  "updatedAt": "2024-02-05T12:00:00.000Z",
+  "published": true
+}

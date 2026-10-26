@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 778,
+  "order": 81,
+  "title": "Webinar video and slides available",
+  "summary": "Video and slides are available from our February 10, 2022 webinar on the in-development Variant Sifter tool.",
+  "bodyHtml": "<p>On February 10, 2022 we presented a webinar introducing the in-development Variant Sifter tool, which allows you to explore, filter, and prioritize genetically associated variants across a region along with credible sets and epigenomic annotations. View the video here, or <a href=\"https://kp4cd.org/sites/default/files/documents/KPN_Feb2022_webinar.pdf\" target=\"_blank\">download the slide deck</a>.</p>\n\n<p><iframe allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/YUyhxwFCvmM\" title=\"YouTube video player\" width=\"560\"></iframe></p>\n",
+  "fieldPortals": "md, t1d, t2d, cd, cvd, sleep, lung, msk, a2f, a2f",
+  "fieldImage": "",
+  "viewNode": "<a href=\"/node/778\" hreflang=\"en\">view</a>",
+  "publishedAt": "2022-02-10T18:55:06.000Z",
+  "updatedAt": "2022-02-10T19:06:55.000Z",
+  "published": true
+}

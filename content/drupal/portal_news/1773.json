@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1773,
+  "order": 217,
+  "title": "August 20th, 2026 PanKbase Webinar Recording Now LIVE!",
+  "summary": "Anna Gloyn, Thomas Bate, Annie Moriondo, and Ringo Mao presented on new data and tools on PanKbase.",
+  "bodyHtml": "<p>The August 20th, 2026 PanKbase Webinar Recording is now LIVE!</p><p>📺 Watch here: https://youtu.be/xxI0MmyLtU4</p><p>🧬 Power Your Next Discovery: New Data &amp; Tools in Pankbase<br />🎙️ Featured speakers: Anna Gloyn, PhD; Thomas Bate, PhD; Annie Moriondo; Ringo Mao</p><p>Topics covered:</p><ul><li>PanKbase and where we are</li><li>Overview of functional data</li><li>Islet perifusion functional data browser demo</li><li>PanKgraph natural language search demo </li></ul>",
+  "fieldPortals": "md, cvd, cd, sleep, t1d, t2d, lung, nage, msk, a2f, kidney, aging",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/August%2020%2C%202026%20KPN%20Webinar%20%284%29_0.png",
+  "viewNode": "<a href=\"/node/1773\" hreflang=\"en\">view</a>",
+  "publishedAt": "2026-08-20T12:00:00.000Z",
+  "updatedAt": "2026-08-20T12:00:00.000Z",
+  "published": true
+}

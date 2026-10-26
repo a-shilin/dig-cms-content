@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1760,
+  "order": 204,
+  "title": "June 25th, 2026 KPN Webinar Recording Now LIVE",
+  "summary": "Unable to join today's Knowledge Portal Network webinar on T1GRS?",
+  "bodyHtml": "<p>Emily Griffin, from the Gaulton Lab at UCSD, presented on T1GRS: A Machine Learning Model for Determining T1D Risk and Heterogeneity</p><p>Top 3 questions T1GRS can answer:</p><ol><li>How is an individual’s T1D risk shaped by the full landscape of T1D-associated variants?</li><li>How do interactions between risk variants improve identification of at-risk individuals?</li><li>How can we use genetic risk profiles to identify disease heterogeneity with real differences in clinical outcomes?</li></ol><p>Watch the recording here: <a href=\"https://youtu.be/xHsC3JEozkM\">https://youtu.be/xHsC3JEozkM</a></p><img src=\"https://kp4cd.org/sites/default/files/News%20Items/June%2025th%2C%202026%20KPN%20Webinar.png\" data-entity-uuid=\"\" data-entity-type=\"file\" alt=\"\" width=\"960\" height=\"540\" loading=\"lazy\" />",
+  "fieldPortals": "md, cvd, cd, sleep, t1d, t2d, lung, nage, msk, a2f, kidney, aging",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/June%2025th%2C%202026%20KPN%20Webinar_0.png",
+  "viewNode": "<a href=\"/node/1760\" hreflang=\"en\">view</a>",
+  "publishedAt": "2026-06-25T12:00:00.000Z",
+  "updatedAt": "2026-06-25T12:00:00.000Z",
+  "published": true
+}

@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 664,
+  "order": 60,
+  "title": "Webinar video available",
+  "summary": "The video recording of our May 13, 2021 webinar is now available for viewing.",
+  "bodyHtml": "The video recording of our May 13, 2021 webinar is <a href=\"https://youtu.be/TWQqcg2xYdk\" target=\"_blank\">now available</a> for viewing. The webinar focused on the addition of LD clumping to the Knowledge Portals, navigation of the Region page, and the new Signal Sifter tool, as well as covering upcoming developments.",
+  "fieldPortals": "t2d, a2f, md, t1d, msk, lung, cd, cvd, sleep",
+  "fieldImage": "",
+  "viewNode": "<a href=\"/node/664\" hreflang=\"en\">view</a>",
+  "publishedAt": "2021-05-13T19:20:27.000Z",
+  "updatedAt": "2021-05-13T19:24:47.000Z",
+  "published": true
+}

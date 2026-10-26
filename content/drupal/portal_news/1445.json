@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1445,
+  "order": 141,
+  "title": "Webinar video available: Dr. Seyedeh Maryam Zekavat",
+  "summary": "On Thursday, May 9, 2024, Dr. Seyedeh Maryam Zekavat presented a seminar on her research connecting ocular and systemic health.",
+  "bodyHtml": "<p>Our May 9 webinar featured a talk from guest speaker Seyedeh Maryam Zekavat, a Resident Physician at Harvard Ophthalmology and the Massachusetts Eye and Ear Infirmary and a postdoctoral scholar at the Broad Institute, and one of our key collaborators in establishing the <a href=\"https://ocular.hugeamp.org/\" target=\"_blank\">Ocular Knowledge Portal</a>.</p><p>In the first half of the webinar, Dr. Zekavat presented her work on how retinal layer thickness can indicate systemic health as well as ocular health, and in the second half, we reviewed the new data and features in our latest Knowledge Portal release.</p><p><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/k___BIt4cpU?si=O1b33ovfmD-xQUk5\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"\"></iframe></p><p>&nbsp;</p>",
+  "fieldPortals": "md, t1d, t2d, sleep, cd, cvd, lung, msk, a2f, ocular, reproductive, autoimmune, aging, kidney",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/Screenshot%202024-05-03%20at%209.25.37%E2%80%AFAM.png",
+  "viewNode": "<a href=\"/node/1445\" hreflang=\"en\">view</a>",
+  "publishedAt": null,
+  "updatedAt": null,
+  "published": true
+}

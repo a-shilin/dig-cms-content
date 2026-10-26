@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 635,
+  "order": 51,
+  "title": "Lipoprotein(a) results available for download",
+  "summary": "<p>Circulating lipoprotein(a) [Lp(a)]concentration is a&nbsp;predictive biomarker of cardiovascular disease.",
+  "bodyHtml": "<p>Circulating lipoprotein(a) [Lp(a)]concentration is a&nbsp;predictive biomarker of cardiovascular disease. In a new study (<a href=\"https://static1.squarespace.com/static/5e23629efb3e614a4419acbd/t/601ae8289b7f812f57e4b18a/1612376104874/Dron+Genetic+Predictor+to+Identify+Individuals+With+High+Lipoprotein%28a%29+Concentrations+Circ+Genom+Precis+Med+2021.pdf\" target=\"_blank\">Dron, Wang, <i>et al</i>., 2021</a>), researchers in Amit Khera's group performed a GWAS for Lp(a) levels and then used the results as input to develop a polygenic score for Lp(a) concentrations. The authors have generously&nbsp;shared their results, and the polygenic score file as well as the GWAS summary statistics are now available for download from both the <a href=\"https://cvd.hugeamp.org/downloads.html\" target=\"_blank\">Cardiovascular Disease Knowledge Portal</a> and the <a href=\"https://hugeamp.org/downloads.html\" target=\"_blank\">Common Metabolic Diseases Knowledge Portal</a>.&nbsp;We are pleased to offer open access to these data relevant to cardiovascular disease.</p>\n",
+  "fieldPortals": "cvd, md",
+  "fieldImage": "",
+  "viewNode": "<a href=\"/node/635\" hreflang=\"en\">view</a>",
+  "publishedAt": "2021-02-19T15:57:55.000Z",
+  "updatedAt": "2021-02-19T16:15:25.000Z",
+  "published": true
+}

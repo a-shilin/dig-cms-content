@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1439,
+  "order": 138,
+  "title": "We need your feedback on effector gene prediction!",
+  "summary": "Please let us know your thoughts on the prediction of effector genes for common diseases and traits by filling out this brief survey.",
+  "bodyHtml": "<p>We are gathering community feedback to help us shape a hybrid workshop in September 2024 on standards for predicting sets of effector genes for complex diseases and traits. Please fill out the survey below, or access it directly <a href=\"https://forms.gle/dyjdxM7rLJqr9AaX8\" target=\"_blank\">here</a>, and enter your contact information at the end to receive more information on the workshop.</p><p><iframe src=\"https://docs.google.com/forms/d/e/1FAIpQLSdCVn-puN7un8L3l6F_F_gfgVIxhhfD_tLE1bJMv6s1hMvb_Q/viewform?embedded=true\" width=\"640\" height=\"6033\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\">Loading…</iframe></p>",
+  "fieldPortals": "md, t1d, t2d, cd, cvd, sleep, lung, msk, a2f, autoimmune, reproductive, kidney, aging, ocular",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/effector_prediction_2.png",
+  "viewNode": "<a href=\"/node/1439\" hreflang=\"en\">view</a>",
+  "publishedAt": "2024-01-01T12:00:00.000Z",
+  "updatedAt": "2024-01-01T12:00:00.000Z",
+  "published": true
+}

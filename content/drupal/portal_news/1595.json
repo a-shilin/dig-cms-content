@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1595,
+  "order": 166,
+  "title": "Two new features added! Batch gene download and read traces now available - July 25, 2025",
+  "summary": "<p><span>You can now export variant counts for multiple genes in one easy step! While each Gene page has a Download CSV option for downloading the variant table, sometimes you may want to do this for several genes at once.</span></p>",
+  "bodyHtml": "<p><span>You can now export variant counts for multiple genes in one easy step! While each Gene page has a Download CSV option for downloading the variant table, sometimes you may want to do this for several genes at once. This functionality is now available via Multiple Gene Download (listed under Tools), where you can generate a filtered variant table for more than one gene and then download it. Additionally, read traces have been added to the Variant pages! You can now evaluate the quality of variants by reviewing read coverage in the embedded IGV viewer, in addition to the Quality Metrics that were already available.</span></p>",
+  "fieldPortals": "aggregator",
+  "fieldImage": "",
+  "viewNode": "<a href=\"/node/1595\" hreflang=\"en\">view</a>",
+  "publishedAt": "2025-07-25T12:00:00.000Z",
+  "updatedAt": "2025-07-25T12:00:00.000Z",
+  "published": true
+}

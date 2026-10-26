@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 752,
+  "order": 74,
+  "title": "Oct. 28th webinar video and slides available",
+  "summary": "Slides and video are now available from our October 28, 2021 webinar describing the latest results from the CARDIoGRAMplusC4D Consortium.",
+  "bodyHtml": "<p>In this week's webinar Drs. Krishna Aragam and Adam Butterworth presented results from the latest CARDIoGRAMplusC4D GWAS for coronary artery disease, along with their method for predicting CAD effector genes. If you missed the webinar, catch up by watching the <a href=\"https://youtu.be/X7lvesMuMDc\" target=\"_blank\">video recording</a> or <a href=\"https://drive.google.com/file/d/1gTXPFc0HOkuk2_gg8UKgDuaEGT1PYcHi/view?usp=sharing\" target=\"_blank\">downloading the slides</a>.</p>\n",
+  "fieldPortals": "t2d, md, cvd, msk, t1d, a2f, nage, cd, sleep, lung",
+  "fieldImage": "",
+  "viewNode": "<a href=\"/node/752\" hreflang=\"en\">view</a>",
+  "publishedAt": "2021-10-29T13:26:34.000Z",
+  "updatedAt": "2021-10-29T14:26:19.000Z",
+  "published": true
+}

@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1519,
+  "order": 146,
+  "title": "Meet the Knowledge Portal team at ADA!",
+  "summary": "If you're attending the American Diabetes Association 84th Scientific Sessions, please stop by booth #549 to learn about the Common Metabolic Diseases Knowledge Portal and meet the team!",
+  "bodyHtml": "<p>Will you be at <a href=\"https://professional.diabetes.org/scientific-sessions\" target=\"_blank\">#ADA2024</a>? If so, please come visit booth #549 in the exhibit hall. We'd love to meet you and get your feedback on the CMDKP and its component community portals for types 1 and 2 diabetes, cardiovascular and cerebrovascular disease, and sleep disorders. We'll be there from 10am-4pm on Saturday June 22 and Sunday June 23, and from 10am-2pm on Monday June 24.</p><p class=\"text-align-center\"><img src=\"https://kp4cd.org/sites/default/files/images/ADA_2024_Flyer.png\" width=\"700\" /></p>",
+  "fieldPortals": "md, t1d, t2d, cvd, cd, sleep",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/Screenshot%202024-06-20%20at%2010.51.24%E2%80%AFAM.png",
+  "viewNode": "<a href=\"/node/1519\" hreflang=\"en\">view</a>",
+  "publishedAt": null,
+  "updatedAt": null,
+  "published": true
+}

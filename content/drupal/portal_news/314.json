@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 314,
+  "order": 28,
+  "title": "Learn how to access results in the Knowledge Portals using APIs",
+  "summary": "In order to provide more flexible access to the results in the Knowledge Portals, we are developing application programming interfaces (APIs) to facilitate automated queries. ",
+  "bodyHtml": "<p>In order to provide more flexible access to the results in the Knowledge Portals, we are developing application programming interfaces (APIs) to facilitate automated queries. We will work to ensure that these APIs are compliant with the <a href=\"https://www.force11.org/fairprinciples\" target=\"_blank\">FAIR principles</a> (Findable, Accessible, Interoperable, and Reusable) and with the standards of the <a href=\"https://www.ga4gh.org/\" target=\"_blank\">Global Alliance for Genomics and Health</a>. Currently available APIs are listed and described on our new \"<a href=\"http://www.kp4cd.org/apis/t2d\" target=\"_blank\">APIs</a>\" page, which may be accessed from the “Data” pull-down menu in the upper menu bar of the <a href=\"http://www.type2diabetesgenetics.org/\" target=\"_blank\">Type 2 Diabetes Knowledge Portal</a> website. The APIs themselves may be accessed from <a href=\"http://52.54.103.84/kpn-kb-openapi/\" target=\"_blank\">this OpenAPI page</a>, which gives examples and allows you to run queries within the web page or to obtain a URL for displaying query results. The queries access genetic association and computational results across the Type 2 Diabetes, <a href=\"http://broadcvdi.org/\" target=\"_blank\">Cardiovascular Disease</a>, <a href=\"http://cerebrovascularportal.org/\" target=\"_blank\">Cerebrovascular Disease</a>, and <a href=\"http://sleepdisordergenetics.org/\" target=\"_blank\">Sleep Disorder</a> Knowledge Portals.</p>\n\n<p>On January 16, 2020 we presented a webinar on how to use the APIs. The <a href=\"https://www.youtube.com/watch?v=hWhT1Tp1C78&amp;list=PLlMMtlgw6qNj6ICrkMu2BAPhs-6XFBpTr&amp;index=11&amp;t=0s\" target=\"_blank\">video of the webinar</a> is now available at the Broad Institute YouTube channel and also on the Resources pages of the Knowledge Portals. <a href=\"https://broad-portal-resources.s3.amazonaws.com/tutorials/AMP-T2DKP_webinar_1-16-2020.pdf\" target=\"_blank\">Slides from the webinar</a> are also available for download.</p>\n\n<p>Please take a look and <a href=\"mailto:help@type2diabetesgenetics.org\" target=\"_blank\">let us know</a> if you have questions, comments, or suggestions!</p>\n",
+  "fieldPortals": "t2d, sleep, stroke, cvd, cd, mi, md",
+  "fieldImage": "",
+  "viewNode": "<a href=\"/node/314\" hreflang=\"en\">view</a>",
+  "publishedAt": "2020-02-06T19:38:43.000Z",
+  "updatedAt": "2020-03-09T18:48:15.000Z",
+  "published": true
+}

@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 640,
+  "order": 53,
+  "title": "HuGE Calculator webinar video and slides available",
+  "summary": "Watch the video or download the slides from our March 11, 2021 webinar featuring the HuGE Calculator.",
+  "bodyHtml": "<p>In our March 11, 2021 webinar, Jason Flannick and Peter Dornbos discussed their work on the Human Genetic Evidence (HuGE) Calculator, an in-development tool for quantifying genetic evidence that supports the role of a gene in a disease or trait of interest. The video is available on <a href=\"https://youtu.be/Hq5KA_hvKoA\" target=\"_blank\">our YouTube channel</a> and is also linked from the <a href=\"https://hugeamp.org/resources.html\" target=\"_blank\">CMDKP Resources page</a>. Download the slide deck <a href=\"https://drive.google.com/file/d/1-QRRrqMFdd30qaW4jonKlmyZ1XjFzyIO/view?usp=sharing\" target=\"_blank\">here</a>.</p>\n",
+  "fieldPortals": "t2d, md, a2f, t1d, msk, cd, cvd, sleep, lung",
+  "fieldImage": "",
+  "viewNode": "<a href=\"/node/640\" hreflang=\"en\">view</a>",
+  "publishedAt": "2021-03-15T16:36:01.000Z",
+  "updatedAt": "2021-03-15T16:43:07.000Z",
+  "published": true
+}

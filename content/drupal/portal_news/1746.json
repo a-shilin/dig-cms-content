@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1746,
+  "order": 191,
+  "title": "Join us for the Knowledge Portal Webinar May 7th, 2026",
+  "summary": "In this webinar, learn about how the Variant Sifter can help you explore and prioritize genetic variants.",
+  "bodyHtml": "<p>🧬 Sifting the Signal: Exploring and Prioritizing Genetic Variants with the Variant Sifter<br />📅 Thursday, May 7, 2026<br />⏰ 12:00–1:00 PM ET</p><p>In this webinar, you will learn:<br />How functional genomic data can be used to prioritize variants at a GWAS locus<br />How the Variant Sifter enables rapid, intuitive variant prioritization<br />How to engage with the tool and get your questions answered live<br /> </p><p>🎙️ Featured Speaker: Trang Nguyen, The Broad Institute</p><p>Whether you’re new to the Knowledge Portals or looking to deepen your analysis workflows, this session will provide practical insights and hands-on guidance.</p><p>💻 Register for the event: <a href=\"https://broadinstitute.zoom.us/webinar/register/WN__dgDoIUZSVyPwKvZ3Xx7mQ\">https://broadinstitute.zoom.us/webinar/register/WN__dgDoIUZSVyPwKvZ3Xx7mQ</a></p><img src=\"https://kp4cd.org/sites/default/files/May%207th%2C%202026%20KPN%20Webinar.png\" data-entity-uuid=\"83a642ff-c16b-4cdf-a080-6c77face3dd2\" data-entity-type=\"file\" alt=\"\" width=\"960\" height=\"540\" loading=\"lazy\" />",
+  "fieldPortals": "md, cvd, cd, sleep, t1d, t2d, lung, nage, msk, a2f, kidney, aging",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/May%207th%2C%202026%20KPN%20Webinar.png",
+  "viewNode": "<a href=\"/node/1746\" hreflang=\"en\">view</a>",
+  "publishedAt": "2026-05-07T12:00:00.000Z",
+  "updatedAt": "2026-05-07T12:00:00.000Z",
+  "published": true
+}

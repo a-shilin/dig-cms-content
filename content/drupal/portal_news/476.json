@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 476,
+  "order": 40,
+  "title": "New intracranial aneurysm datasets available",
+  "summary": "<p>Results from a <a href=\"https://www.nature.com/articles/s41588-020-00725-7\" target=\"_blank\">paper published today</a> on intracranial aneurysm are now available in the Cerebrovascular Disease and Common Metabolic Diseases Knowledge Portals.",
+  "bodyHtml": "<p>Results from a <a href=\"https://www.nature.com/articles/s41588-020-00725-7\" target=\"_blank\">paper published today</a> on intracranial aneurysm are now available in the Cerebrovascular Disease and Common Metabolic Diseases Knowledge Portals. Mark Bakker and colleagues performed a cross-ancestry study of more than 315,000 individuals for genetic associations with intracranial aneurysms, both ruptured and unruptured.</p>\n\n<p>See the associations by searching the <a href=\"https://cd.hugeamp.org/\" target=\"_blank\">Cerebrovascular Disease Knowledge Portal</a> (CDKP) or the <a href=\"https://hugeamp.org/\" target=\"_blank\">Common Metabolic Diseases Knowledge Portal</a> (CMDKP) with any of the phenotypes analyzed in the study: intracranial aneurysm, unruptured intracranial aneurysm, or aneurysmal subarachnoid hemorrhage. The results are included in three datasets: <a href=\"https://cd.hugeamp.org/dinspector.html?dataset=GWAS_IA-BakkerMK2020_mixed&amp;phenotype=IA\" target=\"_blank\">Intracranial aneurysm GWAS</a>, <a href=\"https://cd.hugeamp.org/dinspector.html?dataset=GWAS_IA-BakkerMK2020_ea&amp;phenotype=IA\" target=\"_blank\">Intracranial aneurysm GWAS: East Asians</a>, and <a href=\"https://cd.hugeamp.org/dinspector.html?dataset=GWAS_IA-BakkerMK2020_eu&amp;phenotype=IA\" target=\"_blank\">Intracranial aneurysm GWAS: Europeans</a>.</p>\n",
+  "fieldPortals": "md, cmd, cd",
+  "fieldImage": "",
+  "viewNode": "<a href=\"/node/476\" hreflang=\"en\">view</a>",
+  "publishedAt": "2020-11-16T19:18:51.000Z",
+  "updatedAt": "2020-11-16T19:37:53.000Z",
+  "published": true
+}

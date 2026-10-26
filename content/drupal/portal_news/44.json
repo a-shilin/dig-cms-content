@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 44,
+  "order": 5,
+  "title": "Get more help using the T2DKP: videos and webinars",
+  "summary": "Although we try hard to make all of the contents and interfaces of the Type 2 Diabetes Knowledge Portal clear and user-friendly...",
+  "bodyHtml": "<p><a href=\"http://www.type2diabetesgenetics.org/\">Although we try hard to make all of the contents and interfaces of the </a><a href=\"http://www.type2diabetesgenetics.org/\" target=\"_blank\">Type 2 Diabetes Knowledge Portal</a><a href=\"http://www.type2diabetesgenetics.org/\"> clear and user-friendly</a>, they can still be difficult to understand—especially for scientists who are not experts in human genetics. It can be hard to know where to get started among the dozens of complex datasets, several data types, multiple phenotypes, and custom analysis tools included in the Portal. So we're starting to produce two different kinds of video content that will complement our written documentation and satisfy all you auditory learners out there.<br />\n<br />\nFirst, we're creating short videos (5 minutes or less) that focus on particular aspects of the data and features. Our first one (<a href=\"https://www.youtube.com/watch?v=CR_V8vX2dyE\" target=\"_blank\">view on YouTube</a>) is an overall introduction to the T2DKP and the Knowledge Portal architecture. Stay tuned for more in the coming months! And if you would like to see a video on a particular subject, please <a href=\"mailto:help@type2diabetesgenetics.org\" target=\"_blank\">let us know</a>.<br />\n<br />\nSecond, we're planning regular webinars that you can join online. The first of these hour-long sessions gave an overview of the project that created the T2DKP, the data it contains, the major entry points to the results, and a preview of future directions. You can view a recording of the webinar <a href=\"https://www.youtube.com/watch?v=xcIYElaA4D8\" target=\"_blank\">here</a> and download the slides <a href=\"https://s3.amazonaws.com/broad-portal-resources/AMP-T2DKP_Webinar_3-21-2019.pdf\" target=\"_blank\">here</a>. If you would like to be notified in advance of these sessions, be sure to <a href=\"https://docs.google.com/a/broadinstitute.org/forms/d/e/1FAIpQLSdZXVbAT7YG0cQmCRXWDgCEBfMiCZ5r3DxGmhqYlL7f2jTqcw/viewform\" target=\"_blank\">sign up for our email list</a>.<br />\n<br />\nPlease check out these videos and <a href=\"mailto:help@type2diabetesgenetics.org\" target=\"_blank\">let us know what you think</a>!</p>\n",
+  "fieldPortals": "t2d",
+  "fieldImage": "",
+  "viewNode": "<a href=\"/node/44\" hreflang=\"en\">view</a>",
+  "publishedAt": "2019-06-03T17:19:27.000Z",
+  "updatedAt": "2019-09-18T10:16:09.000Z",
+  "published": true
+}

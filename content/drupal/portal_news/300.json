@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 300,
+  "order": 26,
+  "title": "Winter newsletter available",
+  "summary": "<p><a href=\"http://3.208.176.209/sites/default/files/Newsletters/T2DKP_newsletter_winter_2020.pdf\" target=\"_blank\">View the pdf</a>&nbsp;of our latest newsletter to learn about new datasets and features in the <a href=\"http://www.type2diabetesgenetics.org/\" target=\"_blank\">Type 2 Diabetes Knowledge ",
+  "bodyHtml": "<p><a href=\"http://3.208.176.209/sites/default/files/Newsletters/T2DKP_newsletter_winter_2020.pdf\" target=\"_blank\">View the pdf</a>&nbsp;of our latest newsletter to learn about new datasets and features in the <a href=\"http://www.type2diabetesgenetics.org/\" target=\"_blank\">Type 2 Diabetes Knowledge Portal</a>.</p>\n",
+  "fieldPortals": "t2d",
+  "fieldImage": "",
+  "viewNode": "<a href=\"/node/300\" hreflang=\"en\">view</a>",
+  "publishedAt": "2020-01-22T16:16:44.000Z",
+  "updatedAt": "2020-01-22T16:21:45.000Z",
+  "published": true
+}

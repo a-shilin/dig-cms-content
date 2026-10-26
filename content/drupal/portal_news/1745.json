@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1745,
+  "order": 190,
+  "title": "Recording now available for the April 24, 2026 CFDE Public Webinar Series!",
+  "summary": "Unable to join today's CFDE webinar? The recording is now live.",
+  "bodyHtml": "<p>‼️ Unable to join today's CFDE Public Webinar Series?</p><p>🎙️ UniProt presented recent work and collaborations advancing AI-driven biomedical discovery.</p><p>Topics included:<br />🧬 A knowledge graph for data integration and knowledge discovery<br />🧪 An introduction to the Protein Knowledge Network (ProKN) and key use cases<br />🔗 Integration of ProKN and CFDE within the NSF Proto-OKN initiative</p><p>💻 The recording is now live: https://youtu.be/DG96cbZ1QI8</p><img src=\"https://kp4cd.org/sites/default/files/CFDE%20Public%20Webinar%20Series%20-%20Friday%2C%20March%2027%2C%202026%20(1).png\" data-entity-uuid=\"\" data-entity-type=\"file\" alt=\"\" width=\"1920\" height=\"1080\" loading=\"lazy\" />",
+  "fieldPortals": "md, cvd, cd, sleep, t1d, t2d, lung, nage, msk, a2f, kidney, aging",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/CFDE%20Public%20Webinar%20Series%20-%20Friday%2C%20March%2027%2C%202026%20%281%29_0.png",
+  "viewNode": "<a href=\"/node/1745\" hreflang=\"en\">view</a>",
+  "publishedAt": "2026-04-24T12:00:00.000Z",
+  "updatedAt": "2026-04-24T12:00:00.000Z",
+  "published": true
+}

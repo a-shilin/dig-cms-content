@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 718,
+  "order": 70,
+  "title": "Funding opportunity: join AMP-CMD!",
+  "summary": "Applications for AMP-CMD Opportunity Pool funding are now being accepted.",
+  "bodyHtml": "<p><a href=\"https://www.nih.gov/research-training/accelerating-medicines-partnership-amp/common-metabolic-diseases\" target=\"_blank\">The Accelerating Medicines Partnership in Common Metabolic Diseases (AMP-CMD</a><sup>®</sup>) is a public-private partnership to identify drivers of common metabolic diseases, including nonalcoholic steatohepatitis, chronic kidney disease, obesity, atherosclerotic cardiovascular disease and heart failure, type 2 diabetes/prediabetes, autoimmune diabetes, and inflammation. AMP-CMD supports the generation and analysis of genetic association results, epigenomic annotations, and functional studies, and the representation of these results in the <a href=\"https://hugeamp.org/\" target=\"_blank\">Common Metabolic Diseases Knowledge Portal</a>.</p>\n\n<p>The funding for AMP-CMD from the National Institute of Diabetes and Digestive and Kidney Diseases (<a href=\"https://www.niddk.nih.gov/\" target=\"_blank\">NIDDK</a>) includes $500,000 annually for an Opportunity Pool (OP) to support research aligned with the consortium's goals. This funding opportunity is open to applicants both within and outside of the AMP-CMD consortium; researchers who receive OP support will become members of AMP-CMD.</p>\n\n<p>In this round of OP funding, applications are due September 1, 2022. To apply, start by reading the <a href=\"http://kp4cd.org/OP_FOA_2022\" target=\"_blank\">Funding Opportunity Announcement</a> and then consult the <a href=\"http://kp4cd.org/OP_handbook_2022\" target=\"_blank\">Opportunity Pool Handbook</a> for details on how to apply. Questions? Please email <a href=\"mailto:amp-cmd-opportunity-pool@broadinstitute.org\">amp-cmd-opportunity-pool@broadinstitute.org</a>.</p>\n",
+  "fieldPortals": "t2d, t1d, md, cd, cvd, sleep, nage",
+  "fieldImage": "",
+  "viewNode": "<a href=\"/node/718\" hreflang=\"en\">view</a>",
+  "publishedAt": "2021-09-10T17:05:07.000Z",
+  "updatedAt": "2021-11-03T13:42:01.000Z",
+  "published": true
+}

@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1784,
+  "order": 227,
+  "title": "Join us for the PanKbase Webinar October 22, 2026",
+  "summary": "Yiqun Wang will present \"PanKgraph: Trustworthy Natural Language Search for T1D and Pancreas Research.\"",
+  "bodyHtml": "<h3>Join us for the next PanKbase Office Hours:</h3><p><br />🧬 PanKgraph: Trustworthy Natural Language Search for T1D and Pancreas Research<br />📆 Thursday, October 22, 2026<br />⏰ 12:00–1:00 PM ET<br />🎙️ Featured speaker: Yiqun Wang</p><p>Topics we will cover:</p><ol><li>Ask biological questions in plain language: Search connected T1D and pancreas resources without writing database queries.</li><li>Trace answers to supporting evidence: See how structured knowledge, source provenance, and controlled AI workflows support reliable interpretation.</li><li>Explore research examples: Connect T1D genetic associations to candidate genes and identify HPAP donors and samples for specific study criteria.</li></ol><p>💻 <a href=\"https://broadinstitute.zoom.us/webinar/register/WN__dgDoIUZSVyPwKvZ3Xx7mQ\"><strong>Register for the event</strong></a></p><img src=\"https://kp4cd.org/sites/default/files/October%2022%2C%202026%20KPN%20Webinar%20(1).png\" data-entity-uuid=\"48a6cfc4-e0d3-4fc6-9946-64416a305a21\" data-entity-type=\"file\" alt=\"\" width=\"960\" height=\"540\" loading=\"lazy\" />",
+  "fieldPortals": "md, cvd, cd, sleep, t1d, t2d, lung, nage, msk, a2f, kidney, aging",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/October%2022%2C%202026%20KPN%20Webinar%20%281%29.png",
+  "viewNode": "<a href=\"/node/1784\" hreflang=\"en\">view</a>",
+  "publishedAt": "2026-10-22T12:00:00.000Z",
+  "updatedAt": "2026-10-22T12:00:00.000Z",
+  "published": true
+}

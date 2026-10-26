@@ -1,0 +1,14 @@
+{
+  "contentType": "portalNews",
+  "drupalNodeId": 1769,
+  "order": 213,
+  "title": "July 2026 CFDE Webinar Recording Now LIVE",
+  "summary": "Unable to join today's CFDE Public Webinar Series featuring the Human Reference Atlas?",
+  "bodyHtml": "<p>The recording is now LIVE: https://youtu.be/ftCHo33NIg0</p><p>Please feel free to forward to interested colleagues!</p><img src=\"https://kp4cd.org/sites/default/files/News%20Items/CFDE%20Public%20Webinar%20Series%20-%20Friday%2C%20July%2030%2C%202026%20(2).png\" data-entity-uuid=\"874797b5-3ca5-41a3-9b16-b46fceebb826\" data-entity-type=\"file\" alt=\"\" width=\"1920\" height=\"1080\" loading=\"lazy\" />",
+  "fieldPortals": "md, cvd, cd, sleep, t1d, t2d, lung, nage, msk, a2f, kidney, aging",
+  "fieldImage": "https://kp4cd.org/sites/default/files/news_thumbnails/CFDE%20Public%20Webinar%20Series%20-%20Friday%2C%20July%2030%2C%202026%20%282%29.png",
+  "viewNode": "<a href=\"/node/1769\" hreflang=\"en\">view</a>",
+  "publishedAt": "2026-01-01T12:00:00.000Z",
+  "updatedAt": "2026-01-01T12:00:00.000Z",
+  "published": true
+}
