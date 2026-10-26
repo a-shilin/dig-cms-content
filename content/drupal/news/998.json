@@ -1,0 +1,14 @@
+{
+  "contentType": "news",
+  "drupalNodeId": 998,
+  "title": "Join us for the PanKbase Webinar October 22, 2026",
+  "bodyHtml": "<h3>Join us for the next PanKbase Office Hours:</h3><p><br>? PanKgraph: Trustworthy Natural Language Search for T1D and Pancreas Research<br>? Thursday, October 22, 2026<br>⏰ 12:00–1:00 PM ET<br>?️ Featured speaker: Yiqun Wang</p><p>Topics we will cover:</p><ol><li>Ask biological questions in plain language: Search connected T1D and pancreas resources without writing database queries.</li><li>Trace answers to supporting evidence: See how structured knowledge, source provenance, and controlled AI workflows support reliable interpretation.</li><li>Explore research examples: Connect T1D genetic associations to candidate genes and identify HPAP donors and samples for specific study criteria.</li></ol><p>? <a style=\"background-color:transparent;box-sizing:border-box;color:rgb(33, 145, 151) !important;text-decoration:none;width:fit-content;\" href=\"https://broadinstitute.zoom.us/webinar/register/WN__dgDoIUZSVyPwKvZ3Xx7mQ\"><strong>Register for the event</strong></a></p><p><img src=\"https://hugeampkpncms.org/sites/default/files/users/user30/October%2022%2C%202026%20KPN%20Webinar%20(1).png\" width=\"960\" height=\"540\" data-entity-type=\"file\" data-entity-uuid=\"259ce86f-ce3b-4f6a-8f29-8060a8c6142d\" alt=\"\"></p>",
+  "summary": "Yiqun Wang will present \"PanKgraph: Trustworthy Natural Language Search for T1D and Pancreas Research.\"",
+  "thumbnailHtml": "<p><img src=\"https://hugeampkpncms.org/sites/default/files/users/user30/October%2022%2C%202026%20KPN%20Webinar%20(1).png\" width=\"960\" height=\"540\" data-entity-type=\"file\" data-entity-uuid=\"259ce86f-ce3b-4f6a-8f29-8060a8c6142d\" alt=\"\"></p>",
+  "project": "pankbase",
+  "published": true,
+  "legacyPath": null,
+  "publishedAt": "2026-10-19T18:16:28.000Z",
+  "updatedAt": "2026-10-21T12:54:23.000Z",
+  "promoted": true
+}

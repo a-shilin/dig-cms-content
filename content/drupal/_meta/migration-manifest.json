@@ -1474,13 +1474,8 @@
         "drupalNodeId": 521
       },
       {
-        "file": "research-pages/kp_variant_sifter--79.json",
+        "file": "research-pages/kp_variant_sifter--960.json",
         "pageId": "kp_variant_sifter",
-        "drupalNodeId": 79
-      },
-      {
-        "file": "research-pages/kp_variant_sifter_26--960.json",
-        "pageId": "kp_variant_sifter_26",
         "drupalNodeId": 960
       },
       {
@@ -1497,6 +1492,11 @@
         "file": "research-pages/kp_variant_sifter_dev2--189.json",
         "pageId": "kp_variant_sifter_dev2",
         "drupalNodeId": 189
+      },
+      {
+        "file": "research-pages/kp_variant_sifter_old--79.json",
+        "pageId": "kp_variant_sifter_old",
+        "drupalNodeId": 79
       },
       {
         "file": "research-pages/kp4cd_team_test_api--136.json",
@@ -3779,6 +3779,14 @@
     ],
     "news": [
       {
+        "file": "news/999.json",
+        "drupalNodeId": 999
+      },
+      {
+        "file": "news/998.json",
+        "drupalNodeId": 998
+      },
+      {
         "file": "news/997.json",
         "drupalNodeId": 997
       },
@@ -5526,7 +5534,7 @@
     "researchMethods": 48,
     "basicPages": 6,
     "books": 33,
-    "news": 114,
+    "news": 116,
     "communityPortals": 23,
     "egls": 47,
     "portal_front": 22,
