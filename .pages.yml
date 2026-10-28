@@ -642,6 +642,14 @@ content:
       create: false
       rename: false
       delete: false
+    view:
+      fields: [name]
+      primary: name
+      sort: [name]
+      search: [name]
+      default:
+        sort: name
+        order: asc
     fields:
       - name: body
         label: Portal Front Content JSON
