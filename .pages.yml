@@ -636,6 +636,7 @@ content:
     type: collection
     path: content/drupal/portal_front
     format: raw
+    extension: json
     subfolders: false
     operations:
       create: false
