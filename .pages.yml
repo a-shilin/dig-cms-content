@@ -16,7 +16,7 @@ content:
     filename: "{drupalNodeId}.json"
     subfolders: false
     operations:
-      create: false
+      create: true
       rename: false
       delete: false
     view:
@@ -33,11 +33,13 @@ content:
         type: string
         required: true
         readonly: true
+        default: basicPage
       - name: drupalNodeId
         label: Legacy Drupal node ID
         type: number
         required: true
-        readonly: true
+        readonly: update
+        description: Enter a unique numeric ID. It becomes part of the filename and is locked after creation.
       - name: title
         label: Title
         type: string
@@ -56,6 +58,7 @@ content:
         type: boolean
         required: true
         readonly: true
+        default: true
         description: Publishing changes are locked during the initial editing pilot.
 
   - name: research_methods
@@ -66,7 +69,7 @@ content:
     filename: "{drupalNodeId}.json"
     subfolders: false
     operations:
-      create: false
+      create: true
       rename: false
       delete: false
     view:
@@ -83,11 +86,13 @@ content:
         type: string
         required: true
         readonly: true
+        default: researchMethod
       - name: drupalNodeId
         label: Legacy Drupal node ID
         type: number
         required: true
-        readonly: true
+        readonly: update
+        description: Enter a unique numeric ID. It becomes part of the filename and is locked after creation.
       - name: title
         label: Title
         type: string
@@ -105,6 +110,7 @@ content:
         type: boolean
         required: true
         readonly: true
+        default: true
 
   - name: header_menus
     label: Research Page Header Menus
@@ -114,7 +120,7 @@ content:
     filename: "{drupalNodeId}.json"
     subfolders: false
     operations:
-      create: false
+      create: true
       rename: false
       delete: false
     view:
@@ -131,11 +137,13 @@ content:
         type: string
         required: true
         readonly: true
+        default: researchPageHeader
       - name: drupalNodeId
         label: Legacy Drupal node ID
         type: number
         required: true
-        readonly: true
+        readonly: update
+        description: Enter a unique numeric ID. It becomes part of the filename and is locked after creation.
       - name: title
         label: Title
         type: string
@@ -165,6 +173,7 @@ content:
         type: boolean
         required: true
         readonly: true
+        default: true
 
   - name: book_pages
     label: Book Pages
@@ -174,7 +183,7 @@ content:
     filename: "{drupalNodeId}.json"
     subfolders: false
     operations:
-      create: false
+      create: true
       rename: false
       delete: false
     view:
@@ -191,11 +200,13 @@ content:
         type: string
         required: true
         readonly: true
+        default: bookPage
       - name: drupalNodeId
         label: Legacy Drupal node ID
         type: number
         required: true
-        readonly: true
+        readonly: update
+        description: Enter a unique numeric ID. It becomes part of the filename and is locked after creation.
       - name: title
         label: Title
         type: string
@@ -212,32 +223,35 @@ content:
         label: Legacy book ID
         type: number
         required: true
-        readonly: true
+        readonly: update
       - name: parentId
         label: Parent page ID
         type: number
-        readonly: true
+        readonly: update
       - name: weight
         label: Outline weight
         type: number
         required: true
-        readonly: true
+        readonly: update
+        default: 0
       - name: depth
         label: Outline depth
         type: number
         required: true
-        readonly: true
+        readonly: update
+        default: 1
       - name: outlinePath
         label: Outline path
         type: number
         list: true
         required: true
-        readonly: true
+        readonly: update
       - name: published
         label: Published
         type: boolean
         required: true
         readonly: true
+        default: true
 
   - name: news
     label: News
@@ -247,7 +261,7 @@ content:
     filename: "{drupalNodeId}.json"
     subfolders: false
     operations:
-      create: false
+      create: true
       rename: false
       delete: false
     view:
@@ -264,11 +278,13 @@ content:
         type: string
         required: true
         readonly: true
+        default: news
       - name: drupalNodeId
         label: Legacy Drupal node ID
         type: number
         required: true
-        readonly: true
+        readonly: update
+        description: Enter a unique numeric ID. It becomes part of the filename and is locked after creation.
       - name: title
         label: Title
         type: string
@@ -299,23 +315,26 @@ content:
         label: Published at
         type: string
         required: true
-        readonly: true
-        description: Migrated publication timestamps remain locked during the editing pilot.
+        readonly: update
+        description: Enter an ISO 8601 timestamp for a new item. Migrated timestamps remain locked after creation.
       - name: updatedAt
         label: Updated at
         type: string
         required: true
-        readonly: true
+        readonly: update
+        description: Enter an ISO 8601 timestamp for a new item. The value is locked after creation.
       - name: promoted
         label: Promoted
         type: boolean
         required: true
         readonly: true
+        default: false
       - name: published
         label: Published
         type: boolean
         required: true
         readonly: true
+        default: true
 
   - name: community_portals
     label: Community Portals
@@ -325,7 +344,7 @@ content:
     filename: "{drupalNodeId}.json"
     subfolders: false
     operations:
-      create: false
+      create: true
       rename: false
       delete: false
     view:
@@ -342,11 +361,13 @@ content:
         type: string
         required: true
         readonly: true
+        default: communityPortal
       - name: drupalNodeId
         label: Legacy Drupal node ID
         type: number
         required: true
-        readonly: true
+        readonly: update
+        description: Enter a unique numeric ID. It becomes part of the filename and is locked after creation.
       - name: title
         label: Title
         type: string
@@ -380,16 +401,19 @@ content:
         label: Show on A2FKP
         type: boolean
         required: true
+        default: false
       - name: promoted
         label: Promoted
         type: boolean
         required: true
         readonly: true
+        default: false
       - name: published
         label: Published
         type: boolean
         required: true
         readonly: true
+        default: true
 
   - name: research_pages
     label: Research Pages
@@ -399,7 +423,7 @@ content:
     filename: "{pageId}--{drupalNodeId}.json"
     subfolders: false
     operations:
-      create: false
+      create: true
       rename: false
       delete: false
     view:
@@ -416,16 +440,19 @@ content:
         type: string
         required: true
         readonly: true
+        default: researchPage
       - name: drupalNodeId
         label: Legacy Drupal node ID
         type: number
         required: true
-        readonly: true
+        readonly: update
+        description: Enter a unique numeric ID. It becomes part of the filename and is locked after creation.
       - name: legacyAssetOwnerId
         label: Legacy asset owner ID
         type: number
         required: true
-        readonly: true
+        readonly: update
+        default: 0
       - name: title
         label: Title
         type: string
@@ -434,7 +461,7 @@ content:
         label: Page ID
         type: string
         required: true
-        readonly: true
+        readonly: update
         description: Stable public lookup key; changing it requires a coordinated migration.
       - name: bodyHtml
         label: Body
@@ -448,6 +475,7 @@ content:
         label: Page mode
         type: select
         required: true
+        default: dev
         options:
           values:
             - value: public
@@ -469,6 +497,7 @@ content:
         label: Project landing page
         type: boolean
         required: true
+        default: false
       - name: byorFrontImage
         label: BYOR front image metadata
         type: object
@@ -507,6 +536,7 @@ content:
         label: Dynamic data point
         type: boolean
         required: true
+        default: false
       - name: apiParameters
         label: API parameters
         type: code
@@ -606,11 +636,13 @@ content:
         label: Display on Knowledge Portal
         type: boolean
         required: true
+        default: false
       - name: published
         label: Published
         type: boolean
         required: true
         readonly: true
+        default: true
 
   - name: egls
     label: EGLs
@@ -637,9 +669,12 @@ content:
     path: content/drupal/portal_front
     format: raw
     extension: json
+    filename:
+      template: "untitled.json"
+      field: create
     subfolders: false
     operations:
-      create: false
+      create: true
       rename: false
       delete: false
     view:
@@ -666,6 +701,10 @@ content:
     format: json
     filename: "{drupalNodeId}.json"
     subfolders: false
+    operations:
+      create: true
+      rename: false
+      delete: false
     view:
       fields: [title, fieldPortals, order, drupalNodeId, published]
       primary: title
@@ -685,6 +724,8 @@ content:
         label: Node ID
         type: number
         required: true
+        readonly: update
+        description: Enter a unique numeric ID. It becomes part of the filename and is locked after creation.
       - name: order
         label: Chronological order (higher = newer)
         type: number
